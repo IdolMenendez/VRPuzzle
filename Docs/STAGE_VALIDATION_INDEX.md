@@ -5,6 +5,7 @@ removed at the user's request to retain only the latest working versions.
 
 | Deliverable | Status | Validation |
 | --- | --- | --- |
+| Public README and media, 2026-10-14 | Portable links, AI promotional poster, actual V82 screenshots, historical V80 video and existing V82 APK published; PICO draft only | [CP184](../Artifacts/Checkpoints/184_PublicReadmeMedia_20261014/VALIDATION.md) |
 | GitHub dev snapshot migration, 2026-10-14 | Complete tracked dev project copied/hash-verified into VRPuzzle main; source preserved; no scene changes | `/Volumes/APFS/编辑器/VRPuzzle/Artifacts/Checkpoints/183_GitHubDevMigration_20261014/VALIDATION.md` |
 | Pre-redesign Git baseline, 2026-09-10 | Current V82/studies preserved before separate scene-redesign branch; old visual baseline explicitly not a redesign | `/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/178_PreRedesignBaseline_20260910/VALIDATION.md` |
 | Windkeeper background input playthrough, 2026-09-10 | Eight pointer assemblies, fresh-process resume, sail activation/restart PASS; three input/presentation fixes; final GPU/stereo-offset and independent regression PASS; user/VR acceptance pending | `/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/177_WindmillHandsOn_20260910/VALIDATION.md` |
