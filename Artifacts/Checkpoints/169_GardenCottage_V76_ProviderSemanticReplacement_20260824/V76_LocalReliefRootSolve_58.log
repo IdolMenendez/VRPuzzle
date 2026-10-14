@@ -1,0 +1,838 @@
+Unity Editor version:    6000.0.77f1 (88f89d0d8b31)
+Branch:                  6000.0/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 26.5.1 (Build 25F80)
+Darwin version:          25.5.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        49152 MB
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-bytedance" at "2026-08-26T14:42:56.854335Z"
+Launching external process: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/PackageManager/Server/UnityPackageManager
+
+COMMAND LINE ARGUMENTS:
+/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MacOS/Unity
+-batchmode
+-quit
+-projectPath
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+-executeMethod
+GardenCottageHouseCoreV06Builder.ApplyV76ReviewedProviderYawsAndSolve
+-logFile
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/169_GardenCottage_V76_ProviderSemanticReplacement_20260824/V76_LocalReliefRootSolve_58.log
+Successfully changed project path to: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8388927104]  Target information:
+
+Player connection [8388927104]  * "[IP] 10.79.241.240 [Port] 55504 [Flags] 2 [Guid] 3714793461 [EditorId] 3714793461 [Version] 1048832 [Id] OSXEditor(0,H6CF6V271T) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8388927104] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8388927104] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              8cdbde0c5233443682b45f31f98e5acd
+  Correlation Id:          db9eaed112342427a1797b44e3443fa5
+  External correlation Id: 726942777069679222
+  Machine Id:              LeVNMX2qyTd1zEMhHx8Y3O6ln5U=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-bytedance" (connect: 0.00s, validation: 0.00s, handshake: 0.21s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-bytedance-notifications" at "2026-08-26T14:42:57.067937Z"
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: ewogICJzdWJzR3JvdXAiIDogInVuaXR5IGVkaXRvciIsCiAgIm5hbWVzcGFjZSIgOiAidW5pdHlfZWRpdG9yIiwKICAidHlwZSIgOiAiRURJVE9SIiwKICAidGFnIiA6ICJVbml0eVBlcnNvbmFsXXXX
+  Product: Unity Personal Version
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.22s
+[Package Manager] Connected to IPC stream "Upm-18245" after 0.3 seconds.
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+[Licensing::Client] Successfully resolved entitlement details
+Refreshing native plugins compatible for Editor in 5.89 ms, found 6 plugins.
+Preloading 3 native plugins for Editor in 4.55 ms.
+Initialize engine version: 6000.0.77f1 (88f89d0d8b31)
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+ preferred device: Apple M5 Pro (high power)
+Metal devices available: 1
+0: Apple M5 Pro (high power)
+Using device Apple M5 Pro (high power)
+Initializing Metal device caps: Apple M5 Pro
+Initialize mono
+Mono path[0] = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56245
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.000985 seconds.
+- Loaded All Assemblies, in  0.154 seconds
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.165 seconds
+Domain Reload Profiling: 319ms
+	BeginReloadAssembly (45ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (16ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (69ms)
+		LoadAssemblies (45ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (68ms)
+			TypeCache.Refresh (67ms)
+				TypeCache.ScanAssembly (60ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (165ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (150ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (31ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (28ms)
+			ProcessInitializeOnLoadAttributes (63ms)
+			ProcessInitializeOnLoadMethodAttributes (26ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 53 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.cloud.gltfast@6.19.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.cloud.gltfast@92828f845157)
+    com.unity.xr.arfoundation@6.0.5 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1)
+    com.unity.xr.compositionlayers@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.compositionlayers@fc89f0bd9eb1)
+    com.unity.xr.hands@1.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.hands@b137b9cef9d8)
+    com.unity.xr.management@4.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.management@3126858600e6)
+    com.unity.xr.openxr@1.13.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd)
+    com.unity.xr.interaction.toolkit@3.0.7 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.interaction.toolkit@3c62ab08b942)
+    com.unity.inputsystem@1.11.2 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.inputsystem@3c4a97c3950f)
+    com.unity.scriptablebuildpipeline@1.20.1 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.scriptablebuildpipeline@51d0ffeee857)
+    com.unity.ide.rider@3.0.34 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ide.rider@ecbf706690e5)
+    com.unity.xr.core-utils@2.6.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.core-utils@a8b900321199)
+    com.unity.xr.legacyinputhelpers@2.1.12 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.legacyinputhelpers@b7579e86f3b4)
+    com.unity.editorcoroutines@1.1.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.editorcoroutines@87a15ed012c2)
+    com.unity.burst@1.8.29 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.burst@6bb9aca3ef38)
+    com.unity.collections@2.6.7 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.collections@31e963071226)
+    com.unity.mathematics@1.3.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.mathematics@19a9377c4ffa)
+    com.unity.searcher@4.9.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.searcher@1e17ce91558d)
+    com.unity.nuget.mono-cecil@1.11.6 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff)
+    com.unity.test-framework.performance@3.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.test-framework.performance@8b56083ec0f0)
+  Built-in packages:
+    com.unity.render-pipelines.universal@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.universal@f53585c49405)
+    com.unity.textmeshpro@5.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.textmeshpro@53f43edfd2e0)
+    com.unity.modules.androidjni@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.androidjni)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.jsonserialize)
+    com.unity.modules.unityanalytics@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unityanalytics)
+    com.unity.modules.ai@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.ai)
+    com.unity.modules.animation@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.audio)
+    com.unity.modules.imageconversion@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.imgui)
+    com.unity.modules.particlesystem@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.physics)
+    com.unity.modules.screencapture@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.terrain)
+    com.unity.modules.ui@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.umbra)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.video@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.video)
+    com.unity.modules.vr@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.vr)
+    com.unity.modules.xr@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.hierarchycore)
+    com.unity.ext.nunit@2.0.5 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ext.nunit@031a54704bff)
+    com.unity.ugui@2.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ugui@92256ab62536)
+    com.unity.render-pipelines.core@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.core@f127f5fd8324)
+    com.unity.shadergraph@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.shadergraph@fe106b49deb4)
+    com.unity.render-pipelines.universal-config@17.0.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.universal-config@dd206bf35d04)
+    com.unity.rendering.light-transport@1.0.1 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.rendering.light-transport@9bd588f963c0)
+    com.unity.test-framework@1.6.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.test-framework@082c24152fd4)
+  Embedded packages:
+    com.bytedance.pico.xr@file:/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr)
+[Package Manager] com.unity.textmeshpro is deprecated: This package is no longer supported. TextMeshPro functionalities are now included in the com.unity.ugui package. To continue using them, consider adding it to your project dependencies.
+[Subsystems] Looking for new subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr
+[Subsystems] Novel subsystem found at Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr
+[Subsystems] No descriptors matched for  examples in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'meshings' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  examples in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  displays in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  displays in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  meshings in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json.
+[Package Manager] Done registering packages in 0.02 seconds
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+[ScriptCompilation] Requested script compilation because: Assetdatabase observed changes in script compilation related files
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://unix:/tmp/ilpp.sock-5753aa6841acce6ec0f178d3d44a5ca9
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Content root path: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc - - 200 - application/grpc 20.8020ms
+Starting: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/1300b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+DisplayProgressbar: Compiling Scripts
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+[40m[1m[33mwarn[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+[40m[1m[33mwarn[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll" in favor of "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Burst.Cecil, Version=0.11.6.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.burst@6bb9aca3ef38/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Mono.Cecil, Version=0.11.5.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/Mono.Cecil.dll
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc - - 200 - application/grpc 18.8320ms
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll, with 144 defines and 348 references
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running Unity.Jobs.CodeGen.JobsILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with Library/Bee/artifacts/1300b0aE.dag/Unity.Collections.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Burst.Cecil.Rocks, Version=0.11.6.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.burst@6bb9aca3ef38/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc - - 200 - application/grpc 408.1370ms
+ExitCode: 0 Duration: 3s689ms
+[ 820/1107  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[1103/1107  3s] Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+Assets/Editor/PolishedFullGameV02Builder.cs(403,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedOpeningAndTransitionsV05Builder.cs(219,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedOpeningAndTransitionsV05Builder.cs(239,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedOpeningAndTransitionsV06Builder.cs(243,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedOpeningAndTransitionsV05Builder.cs(258,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedOpeningAndTransitionsV05Builder.cs(276,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedPlayerExperienceV01Builder.cs(217,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/ProductionPolishV08Builder.cs(373,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedPlayerExperienceV01Builder.cs(397,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedSceneHandoffV04Builder.cs(220,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedSceneHandoffV04Builder.cs(239,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedSceneHandoffV04Builder.cs(258,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedSceneHandoffV04Builder.cs(275,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedFullGameV03Builder.cs(687,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedFullGameV03Builder.cs(703,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedFullGameV03Builder.cs(720,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedFullGameV03Builder.cs(737,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedFullGameV03Builder.cs(753,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+[1104/1107  0s] ILPostProcess Library/Bee/artifacts/1300b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll, with 144 defines and 348 references
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[1105/1107  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+[1106/1107  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+*** Tundra build success (3.67 seconds), 5 items updated, 1107 evaluated
+Assets/Editor/PolishedFullGameV02Builder.cs(403,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedOpeningAndTransitionsV05Builder.cs(219,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedOpeningAndTransitionsV05Builder.cs(239,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedOpeningAndTransitionsV06Builder.cs(243,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedOpeningAndTransitionsV05Builder.cs(258,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedOpeningAndTransitionsV05Builder.cs(276,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedPlayerExperienceV01Builder.cs(217,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/ProductionPolishV08Builder.cs(373,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedPlayerExperienceV01Builder.cs(397,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedSceneHandoffV04Builder.cs(220,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedSceneHandoffV04Builder.cs(239,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedSceneHandoffV04Builder.cs(258,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedSceneHandoffV04Builder.cs(275,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedFullGameV03Builder.cs(687,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedFullGameV03Builder.cs(703,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedFullGameV03Builder.cs(720,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedFullGameV03Builder.cs(737,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+Assets/Editor/PolishedFullGameV03Builder.cs(753,9): warning CS0618: 'Lightmapping.giWorkflowMode' is obsolete: 'Lightmapping.giWorkflowMode is obsolete.'
+AssetDatabase: script compilation time: 4.042417s
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Begin MonoManager ReloadAssembly
+Total cache size 153141527
+Total cache size after purge 153141527, took 00:00:00.7005293
+- Loaded All Assemblies, in  0.348 seconds
+'Packages/com.unity.xr.openxr/Runtime/OpenXRLoaderInternal.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.xr.openxr/Runtime/OpenXRLoader.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Refreshing native plugins compatible for Editor in 9.89 ms, found 15 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 9.62 ms, found 15 plugins.
+PXRLog [Build Check]RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+ByteDance.PICO.XR.Editor.PXR_SDKBuildCheck:.cctor () (at ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs Line: 31)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.118 seconds
+Domain Reload Profiling: 2466ms
+	BeginReloadAssembly (80ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (16ms)
+	RebuildCommonClasses (16ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (11ms)
+	LoadAllAssembliesAndSetupDomain (236ms)
+		LoadAssemblies (186ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (91ms)
+			TypeCache.Refresh (63ms)
+				TypeCache.ScanAssembly (56ms)
+			BuildScriptInfoCaches (20ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (2119ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1990ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (69ms)
+			ProcessInitializeOnLoadAttributes (1814ms)
+			ProcessInitializeOnLoadMethodAttributes (97ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Refreshing native plugins compatible for Editor in 10.13 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.59 ms.
+Asset Pipeline Refresh (id=9858fed255bc14f03923ffeb593ab747): Total: 9.214 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=4660 ms
+		Asset DB Callback time: managed=101 ms, native=39 ms
+		Scripting: domain reloads=1, domain reload time=348 ms, compile time=4043 ms, other=21 ms
+		Project Asset Count: scripts=2064, non-scripts=6160
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 27.673ms
+	ApplyChangesToAssetFolders: 0.150ms
+	Scan: 2327.726ms
+	OnSourceAssetsModified: 0.519ms
+	CategorizeAssetsWithTransientArtifact: 20.729ms
+	ProcessAssetsWithTransientArtifactChanges: 33.901ms
+	CategorizeAssets: 49.294ms
+	ImportOutOfDateAssets: 2144.097ms (-1900.757ms without children)
+		CompileScripts: 4043.093ms
+		ReloadNativeAssets: 0.022ms
+		UnloadImportedAssets: 0.632ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.688ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.419ms
+	PostProcessAllAssets: 102.178ms
+	Hotreload: 12.845ms
+	UnloadStreamsBegin: 0.316ms
+	PersistCurrentRevisions: 0.152ms
+	UnloadStreamsEnd: 0.001ms
+	GenerateScriptTypeHashes: 1.534ms
+	Untracked: 4494.902ms
+
+Application.AssetDatabase Initial Refresh End
+Scanning for USB devices : 0.128ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Personally Puzzled XR
+2026-08-26 22:43:07.321 Unity[18245:36727265] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x87ec64140 Start Auto Demo, ke='Command-F9'>, but is only supported for system-provided menu items; will not be used
+2026-08-26 22:43:07.321 Unity[18245:36727265] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x87ec641e0 Start Player Manual, ke='Command-F8'>, but is only supported for system-provided menu items; will not be used
+2026-08-26 22:43:07.321 Unity[18245:36727265] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x87ec64280 Stop Play Mode, ke='Command-F10'>, but is only supported for system-provided menu items; will not be used
+2026-08-26 22:43:07.324 Unity[18245:36727265] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x87ece8460 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Unloading 70 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6244 unused Assets / (10.5 MB). Loaded Objects now: 6911.
+Memory consumption went from 253.2 MB to 242.7 MB.
+Total: 13.039417 ms (FindLiveObjects: 0.197250 ms CreateObjectMapping: 0.165041 ms MarkObjects: 8.308834 ms  DeleteObjects: 4.367584 ms)
+
+2026-08-26 22:43:07.389 Unity[18245:36727265] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x87ec5b8e0 Start Auto Demo, ke='Command-F9'>, but is only supported for system-provided menu items; will not be used
+2026-08-26 22:43:07.389 Unity[18245:36727265] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x87ec5b980 Start Player Manual, ke='Command-F8'>, but is only supported for system-provided menu items; will not be used
+2026-08-26 22:43:07.389 Unity[18245:36727265] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x87ec5ba20 Stop Play Mode, ke='Command-F10'>, but is only supported for system-provided menu items; will not be used
+2026-08-26 22:43:07.392 Unity[18245:36727265] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x87ece5720 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Start importing Assets/GardenCottage/V76/Parts3D/DerivedLocalRelief/GardenCottage_Part_06_CurvedFloweringVine_V76_LocalReliefFallback_Hero.glb using Guid(939bf3e704665485da07feafc81ec108) (ScriptedImporter)Launching external process: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+ -> (artifact id: 'c48c44ddacd2bdd9cd355b68b3e62202') in 0.126140917 seconds
+Refreshing native plugins compatible for Editor in 8.67 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=23607f44ad7aa42159caf251722ea1ae): Total: 0.198 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/GardenCottage/V76/Parts3D/DerivedLocalRelief/GardenCottage_Part_07_SignFenceFlowerbed_V76_LocalReliefFallback_Hero.glb using Guid(8b4e918d5e18a46d09f3650d0766950e) (ScriptedImporter) -> (artifact id: 'f0027910f25dd4c9a4cbe1951f647b2d') in 0.039388791 seconds
+Refreshing native plugins compatible for Editor in 8.74 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.44 ms.
+Asset Pipeline Refresh (id=af2c512485f0442e9aadd96b851a911c): Total: 0.063 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Opening scene 'Assets/Scenes/GardenCottage_20260824_V02_ProviderSemanticReplacement.unity'
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/GardenCottage_20260824_V02_ProviderSemanticReplacement.unity'
+	Deserialize:            3.164 ms
+	Integration:            235.926 ms
+	Integration of assets:  0.015 ms
+	Thread Wait Time:       0.011 ms
+	Total Operation Time:   239.116 ms
+Unloading 78 unused Assets / (3.6 KB). Loaded Objects now: 7216.
+Memory consumption went from 286.9 MB to 286.9 MB.
+Total: 8.035041 ms (FindLiveObjects: 0.117042 ms CreateObjectMapping: 0.060333 ms MarkObjects: 7.831334 ms  DeleteObjects: 0.025875 ms)
+
+Start importing Assets/GardenCottage/V76/Materials/M_GardenCottage_V76_SeamlessStudio.mat using Guid(f6769a94cbdd44853baaaf1484482118) (NativeFormatImporter) -> (artifact id: '75b6462ec0a4f920bbf20feb0051a3ea') in 0.001357916 seconds
+Refreshing native plugins compatible for Editor in 9.14 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.61 ms.
+Asset Pipeline Refresh (id=f255de2da4c4148a688191060608b1fb): Total: 0.037 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Garden Cottage V76] STATIC PROVIDER GEOMETRY GATE | V76 root solve Part_06 | activeMeshRenderers=1 | forbiddenComponents=0 | missingScripts=0
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:RequireV76StaticProviderGeometryInvariant (UnityEngine.Transform,string) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:10810)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8159)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 10810)
+
+[Garden Cottage V76] STATIC PROVIDER GEOMETRY GATE | V76 root solve Part_07 | activeMeshRenderers=1 | forbiddenComponents=0 | missingScripts=0
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:RequireV76StaticProviderGeometryInvariant (UnityEngine.Transform,string) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:10810)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8160)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 10810)
+
+[Garden Cottage V76] PART_01 EXTENSION TRIANGLE BURIAL | adjustedVertices=4505 | maximumSingleAdjustment=0.044567 | finalViolation=0.000000
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:BuryV76ExtensionTopTrianglesBeneathProvider (UnityEngine.Transform,System.Collections.Generic.List`1<UnityEngine.Vector3>,System.Collections.Generic.IReadOnlyList`1<int>,System.Collections.Generic.IReadOnlyList`1<GardenCottageHouseCoreV06Builder/V76FoundationUvTriangle>,System.Collections.Generic.IReadOnlyDictionary`2<long, System.Collections.Generic.List`1<int>>,single,single) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:12078)
+GardenCottageHouseCoreV06Builder:EnsureV76Part08FoundationExtension (UnityEngine.Transform,UnityEngine.Transform) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:12232)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8166)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 12078)
+
+Start importing Assets/GardenCottage/V76/DerivedMeshes/GardenCottage_Part_01_BenchGrassExtension_V76.asset using Guid(cae59ed37f3a04db2b335151ba52c4f6) (NativeFormatImporter) -> (artifact id: '7fcb448f9f3c892a11cf124618097798') in 0.002346125 seconds
+Refreshing native plugins compatible for Editor in 9.20 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.50 ms.
+Asset Pipeline Refresh (id=5fe6d851e9ea9402ca415763854b94f4): Total: 0.027 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/GardenCottage/V76/Materials/M_GardenCottage_V76_BenchGrassExtension.mat using Guid(8b6a85c7d1ba647a89860ccc13d1a2a2) (NativeFormatImporter) -> (artifact id: '7ddbb9d5e637d6283649647d18649fd1') in 0.003187417 seconds
+Refreshing native plugins compatible for Editor in 9.07 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=4f88ab28ee21d465c8271ae582559e69): Total: 0.045 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/GardenCottage/V76/Materials/M_GardenCottage_V76_BenchClayBaseExtension.mat using Guid(138c3f5d20dd9413381f301fb01e8006) (NativeFormatImporter) -> (artifact id: '25efa94134d2c1e743a71ad2548d3347') in 0.00395625 seconds
+Refreshing native plugins compatible for Editor in 9.39 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.53 ms.
+Asset Pipeline Refresh (id=35963462a208e4c6db610a38654d81fa): Total: 0.046 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Garden Cottage V76] PART_01 PROVIDER/EXTENSION CONTINUITY | columns=1/5 | pairedSamples=31/65 | maxHeightDelta=0.024165
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:RequireV76Part08FoundationExtensionProviderContinuity (UnityEngine.Transform) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:12401)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8168)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 12401)
+
+[Garden Cottage V76] PART_01 DENSE DIRECTIONAL OVERLAP | pairs=42884 | unsafe=0 | minimumBurial=0.008381 | maximumSignedExtensionAboveProvider=-0.008381
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:RequireV76Part08FoundationExtensionProviderContinuity (UnityEngine.Transform) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:12447)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8168)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 12447)
+
+[Garden Cottage V76] ACTUAL FACADE TRIANGLE PLANE | schema=V76_PART02_FACADE_ROI_GRID_V1 | roi=[1070.0000,611.0000..1118.0000,659.0000] | grid=5x5 | rayHits=25 | accepted=23 | rejectedNormals=2 | rows=5 | columns=5 | median=0.7358 | MAD=0.0005 | p90Residual=0.0032 | p90NormalAngleDeg=5.0932 | surfaceClearance=0.004000 | vineBackCoordinate=0.739848
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:DetermineV76FacadeWallSideCoordinate (UnityEngine.Camera,UnityEngine.Transform,GardenCottageHouseCoreV06Builder/FacadeTarget,string&) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:13864)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8190)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 13864)
+
+[Garden Cottage V76] STRICT COMPOUND CONTACT | samples=15 | hitCoverage=0.800 | contactCoverage=0.800 | gapRange=-0.005..0.024
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:RequireCompoundFoundationContact (UnityEngine.Transform,UnityEngine.Transform,single,single,single) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:11677)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8209)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 11677)
+
+Shader warmup: 141 shaders 16 combinations 0.002s
+[Garden Cottage V76] COMPOUND INTERNAL SEMANTIC GATE | creamTop=0.090 | brownTop=0.177 | blueMiddle=0.205 | gardenBottom=0.278 | blueSpan=0.795 | blueFill=0.479 | gapRuns=3 | gapRatio=0.132 | upperComponents=12 | firstBlueComponentX=141 | postCentreX=202.0 | bottomSpan=1.000 | bottomBandFill=0.636 | longestSolidRows=25
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:RequireV76CompoundSemanticCoverage (string) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:15370)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8225)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 15370)
+
+[Garden Cottage V76] PART_08 STRICT FOUR-FOOT CONTACT | hits=4/4 | contacts=4/4 | gapRange=0.007..0.010 | minimumNormalY=1.000 | surfaceRange=0.002
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:RequireV76Part08FourFootContact (UnityEngine.Transform,UnityEngine.Transform,single,single) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:12615)
+GardenCottageHouseCoreV06Builder:SolveV76Part08FourFootContact (UnityEngine.Transform,UnityEngine.Camera,UnityEngine.Transform,GardenCottageHouseCoreV06Builder/GroundedTarget,GardenCottageHouseCoreV06Builder/VisibleEnvelopeTarget,single) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:12965)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8228)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 12615)
+
+[Garden Cottage V76] PART_08 FOUR-FOOT REFERENCE SOLVE | originalAnchor=(0.972472, -0.201506, -1.400187) | originalProjection=(1299.09, 1061.27) | translation=(-0.053237, 0.027466, -0.063920) | magnitude=0.087604 | solvedAnchor=(0.919235, -0.174039, -1.464108) | solvedProjection=(1300.36, 1062.16) | reference=(1250.00, 1040.00) | referencePixelError=55.018 | projectedEnvelope=(x:1113.04, y:806.71, width:264.43, height:266.48) | envelopeCentreError=0.264 | gapRange=0.007..0.010 | minimumNormalY=1.000 | surfaceRange=0.002
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:SolveV76Part08FourFootContact (UnityEngine.Transform,UnityEngine.Camera,UnityEngine.Transform,GardenCottageHouseCoreV06Builder/GroundedTarget,GardenCottageHouseCoreV06Builder/VisibleEnvelopeTarget,single) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:12969)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8228)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 12969)
+
+Shader warmup: 144 shaders 20 combinations 0.002s
+Shader warmup: 144 shaders 21 combinations 0.001s
+[Garden Cottage V76] PART_01 JOINT UNITY RASTER | components=1 | largestCoverage=1.0000 | envelope=(x:0.00, y:861.00, width:1384.00, height:483.00)
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:RequireV76JointFoundationRaster (string) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:15047)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8246)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 15047)
+
+Shader warmup: 144 shaders 21 combinations 0.000s
+Shader warmup: 144 shaders 21 combinations 0.000s
+Shader warmup: 144 shaders 21 combinations 0.000s
+Shader warmup: 144 shaders 21 combinations 0.000s
+Shader warmup: 144 shaders 21 combinations 0.000s
+Shader warmup: 144 shaders 21 combinations 0.000s
+Shader warmup: 144 shaders 21 combinations 0.000s
+Shader warmup: 144 shaders 21 combinations 0.000s
+Shader warmup: 144 shaders 21 combinations 0.000s
+Shader warmup: 144 shaders 21 combinations 0.000s
+[Garden Cottage V76] CURVED VINE SEMANTIC COLOUR GATE | fill=0.353 | green=0.618 | flower=0.309 | topSpan=1.000 | curveOffset=0.102
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:RequireV76VineSemanticColourCoverage (string) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:15126)
+GardenCottageHouseCoreV06Builder:SolveV76FacadeVisibleEnvelope (UnityEngine.Transform,UnityEngine.Transform,UnityEngine.Camera,UnityEngine.Transform,GardenCottageHouseCoreV06Builder/FacadeTarget,GardenCottageHouseCoreV06Builder/VisibleEnvelopeTarget,UnityEngine.Renderer[],System.Collections.Generic.Dictionary`2<UnityEngine.Renderer, bool>,single,string,string,single,int) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:11521)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8251)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 15126)
+
+[Garden Cottage V76] FACADE VISIBLE ENVELOPE SOLVE | actual=(x:1020.00, y:335.00, width:147.00, height:600.00) | target=(x:1008.00, y:368.00, width:171.00, height:534.00) | centreError=0.00
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:SolveV76FacadeVisibleEnvelope (UnityEngine.Transform,UnityEngine.Transform,UnityEngine.Camera,UnityEngine.Transform,GardenCottageHouseCoreV06Builder/FacadeTarget,GardenCottageHouseCoreV06Builder/VisibleEnvelopeTarget,UnityEngine.Renderer[],System.Collections.Generic.Dictionary`2<UnityEngine.Renderer, bool>,single,string,string,single,int) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:11522)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8251)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 11522)
+
+[Garden Cottage V76] VINE BOUNDED T CLEARANCE SOLVE | screenDelta=(0.0, 0.0) | tangentUpWorldDelta=(0.0000, 0.0000) | outwardGap=0.000m
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder/<>c__DisplayClass938_0:<SolveV76VineMinimumOutwardClearance>b__8 (UnityEngine.Vector2,single) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:14362)
+GardenCottageHouseCoreV06Builder:SolveV76VineMinimumOutwardClearance (UnityEngine.Camera,UnityEngine.Transform,UnityEngine.Transform,UnityEngine.Transform,single,string) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:14374)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8254)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 14362)
+
+Shader warmup: 144 shaders 21 combinations 0.000s
+[Garden Cottage V76] CURVED VINE SEMANTIC COLOUR GATE | fill=0.353 | green=0.618 | flower=0.309 | topSpan=1.000 | curveOffset=0.102
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:RequireV76VineSemanticColourCoverage (string) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:15126)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8271)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 15126)
+
+Shader warmup: 144 shaders 21 combinations 0.000s
+[Garden Cottage V76] ACTUAL-TRIANGLE OCCLUSION AUDIT
+# Garden Cottage V76 tree/roof and Part_06 actual-triangle clearance audit
+
+## Part_05 behind Part_02 roof ownership
+
+| Reference roof pixel (top-left) | nearest Part_02/Part_05 hit | depth | pass |
+|---|---|---:|---|
+| (635, 455) | Part_02 HouseRoof | 7.319 | PASS |
+| (660, 500) | Part_02 HouseRoof | 7.017 | PASS |
+| (690, 545) | Part_02 HouseRoof | 6.725 | PASS |
+
+## Part_06 shallow-relief and roof/body penetration gate
+
+All spans below come only from readable, non-degenerate triangle-referenced provider vertices transformed to world space; no Renderer/AABB extent is used.
+
+- Part_02 facade-plane sampler: `schema=V76_PART02_FACADE_ROI_GRID_V1 | roi=[1070.0000,611.0000..1118.0000,659.0000] | grid=5x5 | rayHits=25 | accepted=23 | rejectedNormals=2 | rows=5 | columns=5 | median=0.7358 | MAD=0.0005 | p90Residual=0.0032 | p90NormalAngleDeg=5.0932`.
+- Actual vertex count: `21492`.
+- Facade-normal projection min/max/span: `0.7398 / 0.7612 / 0.0214 m`.
+- World-up projection min/max/span: `-0.0256 / 1.6079 / 1.6335 m`.
+- Thickness / height: `0.0131` (hard range `0.0120..0.0300`; absolute thickness range `0.0180..0.0450 m`).
+- Actual Part_02 facade clearance origin / Part_06 back / outward gap: `0.7398 / 0.7398 / 0.0000 m` (hard range `-0.0005..0.0080 m`; the local attachment and in-volume blocker gates below remain mandatory).
+- Facade/roof ROI: complete top-left envelope expanded from `(x:1008.00, y:368.00, width:171.00, height:534.00)`; probes are 5 px cells represented by the backmost actual Part_06 vertex with a per-cell actual depth span.
+- Per-view hard gates: at least 16 silhouette cells and 24 actual Part_02 attachments spanning at least three of four vertical bands; at least 100 vertical body-carrier cells with 60 actual hits and >=0.15 coverage; body-carrier median gap 0.002..0.015 m and p90 <=0.025 m; full local p95 and closest-triangle p95 <=0.050 m; true Part_02 blocker ratios measured inside the relief thickness + 0.002 m must each be <=0.02 for both the full silhouette and the vertical body carrier. The ray origin/contact tolerance intentionally ignores at most 0.002 m immediately at the back surface. At least 6/7 fixed canonical front-reference rays, reprojected from their current Part_06 world hits for stereo consistency, remain Part_06-owned and all four independent roof-negative probes remain Part_02-owned in each eye. Full self-derived silhouette ownership is diagnostic because the reference vine intentionally passes behind the eave; it cannot force the root to float away from the facade.
+
+| view | vertex cells | local attachments / coverage / bands | min / median / p95 local gap (m) | min / p95 local normal-ray triangle (m) | in-volume blockers / ratio | ownership rays | Part_06 owned | Part_02 owned | fixed canonical front-pixel anchors Part_06-owned | roof guards Part_02-owned | pass |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| front | 1420 | 273 / 0.1923 / 3 | 0.0032 / 0.0075 / 0.0316 | 0.0000 / 0.0259 | 10 / 0.0070 | 1350 | 0.8556 | 0.1444 | 6 / 7 | 4 / 4 | PASS |
+| left-eye | 1431 | 271 / 0.1894 / 3 | 0.0012 / 0.0076 / 0.0287 | 0.0000 / 0.0281 | 8 / 0.0056 | 1332 | 0.8483 | 0.1517 | 6 / 7 | 4 / 4 | PASS |
+
+### Body-carrier hard geometry and diagnostic ownership (vertical facade band)
+
+| view | body cells | actual Part_02 hits / coverage | median / p90 gap (m) | in-volume blockers / ratio | Part_06 / Part_02 ownership | 
+|---|---:|---:|---:|---:|---:|
+| front | 1051 | 271 / 0.2578 | 0.0075 / 0.0215 | 10 / 0.0095 | 0.8100 / 0.1900 |
+| left-eye | 1066 | 269 / 0.2523 | 0.0076 / 0.0186 | 8 / 0.0075 | 0.8024 / 0.1976 |
+
+Automated result: `PASS`. Original-resolution manual review remains additive and cannot override a failed geometric gate.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:BuildV76OcclusionAuditReport (UnityEngine.Camera,UnityEngine.Transform,UnityEngine.Transform,UnityEngine.Transform,single,string,bool&,bool,System.Action`2<GardenCottageHouseCoreV06Builder/V76FacadeViewAudit, GardenCottageHouseCoreV06Builder/V76FacadeViewAudit>,int) (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:14272)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8288)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 14272)
+
+Start importing Assets/GardenCottage/V76/GardenCottage_V76_ProviderSemanticReplacementMatrices.json using Guid(7eaf6ce66d6484503a3ee6819c2d7617) (TextScriptImporter) -> (artifact id: '5440be70b2d06000935222a19056e6e5') in 0.002041833 seconds
+Refreshing native plugins compatible for Editor in 27.10 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.79 ms.
+Asset Pipeline Refresh (id=988a25383a0114707919754a89e71efb): Total: 0.069 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/GardenCottage_20260824_V02_ProviderSemanticReplacement.unity using Guid(3c670a83eafc94ad89158ffd37640150) (DefaultImporter) -> (artifact id: '66c1b03662197bed186dc080c7cd9fed') in 0.000884417 seconds
+Refreshing native plugins compatible for Editor in 8.95 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.52 ms.
+Asset Pipeline Refresh (id=6f49d9236115b4882bd0e62728360007): Total: 0.036 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Shader warmup: 144 shaders 22 combinations 0.003s
+[Garden Cottage V76] REVIEWED YAWS + FINAL SOLVE PASSED · matrix, strict contact, facade depth, occlusion report and front capture persisted
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolveCore () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8326)
+GardenCottageHouseCoreV06Builder:ApplyV76ReviewedProviderYawsAndSolve () (at Assets/Editor/GardenCottageHouseCoreV06Builder.cs:8095)
+
+(Filename: Assets/Editor/GardenCottageHouseCoreV06Builder.cs Line: 8326)
+
+Batchmode quit successfully invoked - shutting down!
+Thread 0x33d3d3000 may have been prematurely finalized
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
+Call to StopSubsystems without an initialized manager.Please make sure wait for initialization to complete before calling this API.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.XR.Management.XRManagerSettings:StopSubsystems () (at ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs:427)
+UnityEngine.XR.Management.XRManagerSettings:OnDisable () (at ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs:481)
+
+(Filename: ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs Line: 427)
+
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+[Licensing::IpcConnector] LicenseClient-bytedance-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-bytedance channel disconnected successfully.
+Thread 0x1708bf000 may have been prematurely finalized
+Thread 0x170d1f000 may have been prematurely finalized
+Thread 0x1709d7000 may have been prematurely finalized
+Thread 0x17094b000 may have been prematurely finalized
+Thread 0x170f4f000 may have been prematurely finalized
+Thread 0x171067000 may have been prematurely finalized
+Thread 0x170fdb000 may have been prematurely finalized
+Thread 0x170c93000 may have been prematurely finalized
+Thread 0x170dab000 may have been prematurely finalized
+Thread 0x170a63000 may have been prematurely finalized
+Thread 0x170ec3000 may have been prematurely finalized
+Thread 0x170aef000 may have been prematurely finalized
+Thread 0x170b7b000 may have been prematurely finalized
+Thread 0x1710f3000 may have been prematurely finalized
+Thread 0x170e37000 may have been prematurely finalized
+Thread 0x170c07000 may have been prematurely finalized
+Thread 0x17117f000 may have been prematurely finalized
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      ALC ILPP context 1 is unloading
+debugger-agent: Unable to listen on 44
+Exiting batchmode successfully now!
+[Package Manager] Server process was shutdown

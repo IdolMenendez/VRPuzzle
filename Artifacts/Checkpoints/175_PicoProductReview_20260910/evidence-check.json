@@ -1,0 +1,188 @@
+{
+  "capture_count": 20,
+  "maximum_mean_rgb_difference": 2.0897633744855966e-06,
+  "images": [
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/GardenCottage_V76_FRONT.png",
+      "size": [
+        1450,
+        1498
+      ],
+      "bytes": 1694953,
+      "mean_rgb_difference": 0.0
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/GardenCottage_V76_LEFT.png",
+      "size": [
+        1450,
+        1498
+      ],
+      "bytes": 1695634,
+      "mean_rgb_difference": 4.6038396022282585e-07
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Collection_20260910_V82_ResourceOptimization_FRONT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 1834387,
+      "mean_rgb_difference": 0.0
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Collection_20260910_V82_ResourceOptimization_LEFT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 1829465,
+      "mean_rgb_difference": 0.0
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Completion_20260910_V82_ResourceOptimization_FRONT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 1616858,
+      "mean_rgb_difference": 9.645061728395062e-07
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Completion_20260910_V82_ResourceOptimization_LEFT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 1617767,
+      "mean_rgb_difference": 6.430041152263375e-07
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Level_CottageHint_20260910_V82_ResourceOptimization_FRONT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 2410443,
+      "mean_rgb_difference": 0.0
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Level_CottageHint_20260910_V82_ResourceOptimization_LEFT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 2410135,
+      "mean_rgb_difference": 0.0
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Level_Eiffel_20260910_V82_ResourceOptimization_FRONT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 2850522,
+      "mean_rgb_difference": 2.0897633744855966e-06
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Level_Eiffel_20260910_V82_ResourceOptimization_LEFT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 2855565,
+      "mean_rgb_difference": 3.2150205761316875e-07
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Level_Pagoda_20260910_V82_ResourceOptimization_FRONT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 2463142,
+      "mean_rgb_difference": 0.0
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Level_Pagoda_20260910_V82_ResourceOptimization_LEFT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 2462895,
+      "mean_rgb_difference": 0.0
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Level_Ship_20260910_V82_ResourceOptimization_FRONT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 2519526,
+      "mean_rgb_difference": 0.0
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Level_Ship_20260910_V82_ResourceOptimization_LEFT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 2522902,
+      "mean_rgb_difference": 0.0
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Level_Windmill_20260910_V82_ResourceOptimization_FRONT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 2491151,
+      "mean_rgb_difference": 0.0
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Level_Windmill_20260910_V82_ResourceOptimization_LEFT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 2487358,
+      "mean_rgb_difference": 0.0
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Selection_20260910_V82_ResourceOptimization_FRONT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 1935823,
+      "mean_rgb_difference": 0.0
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Selection_20260910_V82_ResourceOptimization_LEFT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 1937169,
+      "mean_rgb_difference": 0.0
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Splash_20260910_V82_ResourceOptimization_FRONT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 2410382,
+      "mean_rgb_difference": 0.0
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/175_PicoProductReview_20260910/Final/Runtime_Splash_20260910_V82_ResourceOptimization_LEFT.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 2409833,
+      "mean_rgb_difference": 0.0
+    }
+  ],
+  "apk_bytes": 230554388,
+  "apk_sha256": "eee4e98e5b39f7b7906ca83bfe9d01657edba097f8a003228125dadd67c7172a"
+}

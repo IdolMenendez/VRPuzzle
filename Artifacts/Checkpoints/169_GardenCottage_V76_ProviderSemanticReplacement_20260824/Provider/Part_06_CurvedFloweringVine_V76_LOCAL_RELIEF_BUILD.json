@@ -1,0 +1,100 @@
+{
+  "schema": "PPVRLocalReliefBuildV1",
+  "provider": "LocalRelief",
+  "status": "SUCCEEDED",
+  "progress": 100,
+  "build_id": "localrelief-part_06-v04-0f13d36bd19640a998329c6f6d894b70",
+  "task_id": "local-v04-0f13d36bd19640a998329c6f6d894b70",
+  "created_utc": "2026-08-26T09:54:00.616627Z",
+  "source": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/GardenCottage/V76/PartSources/GardenCottage_Part_06_CurvedFloweringVine_SourceEnvelope_V76_R03_CompactWallRelief.png",
+  "source_sha256": "ae1d7acffdd978088714e3593b39032e6f982d38e35f8f7a307c5ac5bcfd4417",
+  "models": [
+    "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/GardenCottage/V76/Parts3D/DerivedLocalRelief/GardenCottage_Part_06_CurvedFloweringVine_V76_LocalReliefFallback_Hero.glb"
+  ],
+  "output_sha256": "cedfca071e44e0f2712b4f8579d154a3c82c25404ce0234d6682e6f004a3d512",
+  "cutout_preview": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/GardenCottage/V76/Parts3D/DerivedLocalRelief/GardenCottage_Part_06_CurvedFloweringVine_V76_LocalReliefFallback_Cutout.png",
+  "cutout_sha256": "178243f565fbccef8e14bf3fc3ab75ab76014b5c6258f9f73390d1f3af5efb36",
+  "vertices": 21492,
+  "triangles": 35252,
+  "depth_ratio": 0.013100000098347664,
+  "indexed_contact_vertices": 30,
+  "texture_embedded": true,
+  "credentials_persisted": false,
+  "network_used": false,
+  "generator": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Tools/AI3D/build_garden_cottage_v76_part06_smoothed_relief_v04.py",
+  "generator_sha256": "b367f7523fdcc2bd1eb83a8d901cf847960b2a95921021e6a7d18b890ee97013",
+  "parent_generator": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Tools/AI3D/build_garden_cottage_v76_part06_smoothed_relief_v03.py",
+  "parent_generator_sha256": "6fcb3b3e43744053211505d081b52610086118d7797f7205811f630cec3a5a63",
+  "base_generator": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Tools/AI3D/build_garden_cottage_v76_local_relief_fallback.py",
+  "base_generator_sha256": "269290c738dcc5b16003eb62f113cb5fd58b00c8949d492053442070f0e10855",
+  "recipe": "Part06SmoothedThinReliefV04",
+  "segmentation": {
+    "source_width": 887,
+    "source_height": 1774,
+    "grid_width": 160,
+    "grid_height": 320,
+    "background_rgb": [
+      248,
+      242,
+      238
+    ],
+    "mask_threshold": 18.0,
+    "foreground_cells": 8330,
+    "foreground_bbox_grid": {
+      "min_x": 20,
+      "min_y": 13,
+      "max_x": 105,
+      "max_y": 306
+    },
+    "foreground_fill_ratio": 0.1626953125
+  },
+  "mesh": {
+    "vertices": 21492,
+    "triangles": 35252,
+    "indices": 105756,
+    "boundary_edges": 966,
+    "indexed_contact_vertices": 30,
+    "depth_ratio": 0.013100000098347664,
+    "bounds_min": [
+      -0.14625850319862366,
+      0.0,
+      -0.006550000049173832
+    ],
+    "bounds_max": [
+      0.14625850319862366,
+      1.0,
+      0.006550000049173832
+    ],
+    "smoothing": {
+      "schema": "PART06_BOUNDARY_LAPLACIAN_V02",
+      "lambda": 0.25,
+      "passes": 1,
+      "max_displacement_cells": 0.17677669529663997,
+      "cap_cells": 0.35,
+      "boundary_corners": 966,
+      "moved_boundary_corners": 518,
+      "moved_vertices": 3108,
+      "side_quads_reoriented": 966
+    },
+    "minimum_twice_triangle_area": 5.784585027868161e-06,
+    "uv_sha256": "fdd159ef9b3ecf6b36bfbcfd02cc202ae9eb51365373b7c09abf578d1744783a",
+    "index_sha256": "8b7e714a570857e11fec1fa9fcdb7e0d636cc901277c84ef00309eb5c0d958a2"
+  },
+  "validation": {
+    "glb_version": 2,
+    "glb_bytes": 2443104,
+    "json_parsed": true,
+    "buffer_bytes": 2441212,
+    "buffer_views": 5,
+    "accessors": 4,
+    "vertices": 21492,
+    "triangles": 35252,
+    "index_max": 21491,
+    "embedded_png_bytes": 1330444,
+    "embedded_png_rgba": true,
+    "embedded_texture_size": [
+      887,
+      1774
+    ]
+  }
+}

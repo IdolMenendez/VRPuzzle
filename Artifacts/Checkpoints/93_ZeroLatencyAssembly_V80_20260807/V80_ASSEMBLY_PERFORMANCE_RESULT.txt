@@ -1,0 +1,6 @@
+V80 assembly performance result
+Level_CottageHint | baselineTriangles=1481245 | optimizedTriangles=1062755 | reduction=28.3 % | activeRenderers=111 | activeLights=4 | shadowLights=0 | shadowRenderers=0 | activeBlueprintModules=0
+Level_Ship | baselineTriangles=4956570 | optimizedTriangles=2905040 | reduction=41.4 % | activeRenderers=110 | activeLights=4 | shadowLights=0 | shadowRenderers=0 | activeBlueprintModules=0
+Level_Eiffel | baselineTriangles=1347216 | optimizedTriangles=1100411 | reduction=18.3 % | activeRenderers=117 | activeLights=5 | shadowLights=0 | shadowRenderers=0 | activeBlueprintModules=0
+Level_Pagoda | baselineTriangles=1267254 | optimizedTriangles=1060382 | reduction=16.3 % | activeRenderers=107 | activeLights=4 | shadowLights=0 | shadowRenderers=0 | activeBlueprintModules=0
+Level_Windmill | baselineTriangles=1263592 | optimizedTriangles=1058551 | reduction=16.2 % | activeRenderers=113 | activeLights=4 | shadowLights=0 | shadowRenderers=0 | activeBlueprintModules=0

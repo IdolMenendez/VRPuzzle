@@ -1,0 +1,14 @@
+{
+  "apk": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Builds/PersonallyPuzzledVR-PICO-ZeroLatencyAssemblyV80.apk",
+  "bytes": 443157258,
+  "MB": 443.157258,
+  "MiB": 422.62769508361816,
+  "previous_bytes": 443233558,
+  "difference_bytes": -76300,
+  "difference_percent": -0.017214400539589114,
+  "sha256": "9a21da11258a881c4dcb626cfd3e53a29e36cfec450c1eea8d0351693d1b463f",
+  "zip_crc_pass": true,
+  "abis": [
+    "arm64-v8a"
+  ]
+}

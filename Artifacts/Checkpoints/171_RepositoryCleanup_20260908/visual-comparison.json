@@ -1,0 +1,202 @@
+[
+  {
+    "image": "GardenCottage_V76_FRONT.png",
+    "size": [
+      1450,
+      1498
+    ],
+    "max_channel_delta": 3,
+    "mean_channel_delta": 3.2226877215597807e-06,
+    "changed_pixel_count": 9
+  },
+  {
+    "image": "GardenCottage_V76_LEFT.png",
+    "size": [
+      1450,
+      1498
+    ],
+    "max_channel_delta": 4,
+    "mean_channel_delta": 7.826527323788038e-06,
+    "changed_pixel_count": 26
+  },
+  {
+    "image": "Runtime_Collection_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 1,
+    "mean_channel_delta": 3.2150205761316875e-07,
+    "changed_pixel_count": 2
+  },
+  {
+    "image": "Runtime_Collection_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 1,
+    "mean_channel_delta": 1.6075102880658437e-07,
+    "changed_pixel_count": 1
+  },
+  {
+    "image": "Runtime_Completion_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 1,
+    "mean_channel_delta": 8.037551440329218e-07,
+    "changed_pixel_count": 4
+  },
+  {
+    "image": "Runtime_Completion_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 68,
+    "mean_channel_delta": 2.3791152263374485e-05,
+    "changed_pixel_count": 9
+  },
+  {
+    "image": "Runtime_Level_CottageHint_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 42,
+    "mean_channel_delta": 6.221064814814815e-05,
+    "changed_pixel_count": 89
+  },
+  {
+    "image": "Runtime_Level_CottageHint_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 116,
+    "mean_channel_delta": 0.0001232960390946502,
+    "changed_pixel_count": 82
+  },
+  {
+    "image": "Runtime_Level_Eiffel_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 24,
+    "mean_channel_delta": 5.3208590534979426e-05,
+    "changed_pixel_count": 41
+  },
+  {
+    "image": "Runtime_Level_Eiffel_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 31,
+    "mean_channel_delta": 4.0670010288065845e-05,
+    "changed_pixel_count": 33
+  },
+  {
+    "image": "Runtime_Level_Pagoda_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 1,
+    "mean_channel_delta": 1.286008230452675e-06,
+    "changed_pixel_count": 6
+  },
+  {
+    "image": "Runtime_Level_Pagoda_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 1,
+    "mean_channel_delta": 6.430041152263375e-07,
+    "changed_pixel_count": 4
+  },
+  {
+    "image": "Runtime_Level_Ship_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 31,
+    "mean_channel_delta": 0.00020640432098765433,
+    "changed_pixel_count": 419
+  },
+  {
+    "image": "Runtime_Level_Ship_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 33,
+    "mean_channel_delta": 0.00021106610082304527,
+    "changed_pixel_count": 475
+  },
+  {
+    "image": "Runtime_Level_Windmill_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 1,
+    "mean_channel_delta": 8.037551440329218e-07,
+    "changed_pixel_count": 5
+  },
+  {
+    "image": "Runtime_Level_Windmill_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 1,
+    "mean_channel_delta": 8.037551440329218e-07,
+    "changed_pixel_count": 5
+  },
+  {
+    "image": "Runtime_Selection_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 0,
+    "mean_channel_delta": 0.0,
+    "changed_pixel_count": 0
+  },
+  {
+    "image": "Runtime_Selection_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 0,
+    "mean_channel_delta": 0.0,
+    "changed_pixel_count": 0
+  },
+  {
+    "image": "Runtime_Splash_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 123,
+    "mean_channel_delta": 0.028058931327160495,
+    "changed_pixel_count": 44829
+  },
+  {
+    "image": "Runtime_Splash_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "max_channel_delta": 10,
+    "mean_channel_delta": 1.4146090534979424e-05,
+    "changed_pixel_count": 35
+  }
+]

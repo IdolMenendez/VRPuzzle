@@ -1,0 +1,162 @@
+[
+  {
+    "image": "GardenCottage_V76_FRONT.png",
+    "size": [
+      1450,
+      1498
+    ],
+    "mean_absolute_channel_difference_0_255": 0.00045225051025888925
+  },
+  {
+    "image": "GardenCottage_V76_LEFT.png",
+    "size": [
+      1450,
+      1498
+    ],
+    "mean_absolute_channel_difference_0_255": 0.00045086935837822077
+  },
+  {
+    "image": "Runtime_Collection_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 3.2150205761316875e-07
+  },
+  {
+    "image": "Runtime_Collection_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 1.6075102880658437e-07
+  },
+  {
+    "image": "Runtime_Completion_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 6.26929012345679e-06
+  },
+  {
+    "image": "Runtime_Completion_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 2.7809927983539093e-05
+  },
+  {
+    "image": "Runtime_Level_CottageHint_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 7.844650205761316e-05
+  },
+  {
+    "image": "Runtime_Level_CottageHint_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 0.00010320216049382716
+  },
+  {
+    "image": "Runtime_Level_Eiffel_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 0.00015769675925925925
+  },
+  {
+    "image": "Runtime_Level_Eiffel_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 0.00020109953703703704
+  },
+  {
+    "image": "Runtime_Level_Pagoda_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 7.844650205761316e-05
+  },
+  {
+    "image": "Runtime_Level_Pagoda_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 0.00010320216049382716
+  },
+  {
+    "image": "Runtime_Level_Ship_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 0.00015544624485596707
+  },
+  {
+    "image": "Runtime_Level_Ship_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 0.00024546682098765434
+  },
+  {
+    "image": "Runtime_Level_Windmill_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 8.551954732510288e-05
+  },
+  {
+    "image": "Runtime_Level_Windmill_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 0.00011895576131687243
+  },
+  {
+    "image": "Runtime_Selection_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 4.983281893004115e-06
+  },
+  {
+    "image": "Runtime_Selection_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 2.4112654320987654e-06
+  },
+  {
+    "image": "Runtime_Splash_20260807_V80_ZeroLatencyAssembly_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 2.1540637860082306e-05
+  },
+  {
+    "image": "Runtime_Splash_20260807_V80_ZeroLatencyAssembly_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_absolute_channel_difference_0_255": 6.719393004115226e-05
+  }
+]

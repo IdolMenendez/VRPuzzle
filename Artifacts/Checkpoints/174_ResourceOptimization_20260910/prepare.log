@@ -1,0 +1,2021 @@
+Unity Editor version:    6000.0.77f1 (88f89d0d8b31)
+Branch:                  6000.0/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 26.5.1 (Build 25F80)
+Darwin version:          25.5.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        49152 MB
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-bytedance" at "2026-09-10T05:15:37.844046Z"
+Launching external process: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/PackageManager/Server/UnityPackageManager
+
+COMMAND LINE ARGUMENTS:
+/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MacOS/Unity
+-batchmode
+-projectPath
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+-executeMethod
+ResourceOptimizationV82.Prepare
+-quit
+-logFile
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/174_ResourceOptimization_20260910/prepare.log
+Successfully changed project path to: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8388927104]  Target information:
+
+Player connection [8388927104]  * "[IP] 10.79.241.240 [Port] 55504 [Flags] 2 [Guid] 495070311 [EditorId] 495070311 [Version] 1048832 [Id] OSXEditor(0,H6CF6V271T) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8388927104] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8388927104] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              db5067cead2342248f0b4ce4eff03220
+  Correlation Id:          6ad893757afb311ba06f7186ddb1c098
+  External correlation Id: 6033591295781329708
+  Machine Id:              LeVNMX2qyTd1zEMhHx8Y3O6ln5U=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-bytedance" (connect: 0.00s, validation: 0.00s, handshake: 0.21s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-bytedance-notifications" at "2026-09-10T05:15:38.051117Z"
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: ewogICJzdWJzR3JvdXAiIDogInVuaXR5IGVkaXRvciIsCiAgIm5hbWVzcGFjZSIgOiAidW5pdHlfZWRpdG9yIiwKICAidHlwZSIgOiAiRURJVE9SIiwKICAidGFnIiA6ICJVbml0eVBlcnNvbmFsXXXX
+  Product: Unity Personal Version
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.22s
+[Package Manager] Connected to IPC stream "Upm-86226" after 0.3 seconds.
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+[Licensing::Client] Successfully resolved entitlement details
+Refreshing native plugins compatible for Editor in 7.99 ms, found 6 plugins.
+Preloading 3 native plugins for Editor in 4.48 ms.
+Initialize engine version: 6000.0.77f1 (88f89d0d8b31)
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+ preferred device: Apple M5 Pro (high power)
+Metal devices available: 1
+0: Apple M5 Pro (high power)
+Using device Apple M5 Pro (high power)
+Initializing Metal device caps: Apple M5 Pro
+Initialize mono
+Mono path[0] = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56226
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.000930 seconds.
+- Loaded All Assemblies, in  0.149 seconds
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.164 seconds
+Domain Reload Profiling: 314ms
+	BeginReloadAssembly (44ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (15ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (18ms)
+	LoadAllAssembliesAndSetupDomain (67ms)
+		LoadAssemblies (44ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (66ms)
+			TypeCache.Refresh (65ms)
+				TypeCache.ScanAssembly (59ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (164ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (149ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (34ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (29ms)
+			ProcessInitializeOnLoadAttributes (60ms)
+			ProcessInitializeOnLoadMethodAttributes (25ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 53 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.cloud.gltfast@6.19.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.cloud.gltfast@92828f845157)
+    com.unity.xr.arfoundation@6.0.5 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1)
+    com.unity.xr.compositionlayers@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.compositionlayers@fc89f0bd9eb1)
+    com.unity.xr.hands@1.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.hands@b137b9cef9d8)
+    com.unity.xr.management@4.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.management@3126858600e6)
+    com.unity.xr.openxr@1.13.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd)
+    com.unity.xr.interaction.toolkit@3.0.7 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.interaction.toolkit@3c62ab08b942)
+    com.unity.inputsystem@1.11.2 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.inputsystem@3c4a97c3950f)
+    com.unity.scriptablebuildpipeline@1.20.1 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.scriptablebuildpipeline@51d0ffeee857)
+    com.unity.ide.rider@3.0.34 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ide.rider@ecbf706690e5)
+    com.unity.xr.core-utils@2.6.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.core-utils@a8b900321199)
+    com.unity.xr.legacyinputhelpers@2.1.12 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.legacyinputhelpers@b7579e86f3b4)
+    com.unity.editorcoroutines@1.1.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.editorcoroutines@87a15ed012c2)
+    com.unity.burst@1.8.29 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.burst@6bb9aca3ef38)
+    com.unity.collections@2.6.7 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.collections@31e963071226)
+    com.unity.mathematics@1.3.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.mathematics@19a9377c4ffa)
+    com.unity.searcher@4.9.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.searcher@1e17ce91558d)
+    com.unity.nuget.mono-cecil@1.11.6 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff)
+    com.unity.test-framework.performance@3.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.test-framework.performance@8b56083ec0f0)
+  Built-in packages:
+    com.unity.render-pipelines.universal@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.universal@f53585c49405)
+    com.unity.textmeshpro@5.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.textmeshpro@53f43edfd2e0)
+    com.unity.modules.androidjni@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.androidjni)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.jsonserialize)
+    com.unity.modules.unityanalytics@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unityanalytics)
+    com.unity.modules.ai@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.ai)
+    com.unity.modules.animation@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.audio)
+    com.unity.modules.imageconversion@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.imgui)
+    com.unity.modules.particlesystem@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.physics)
+    com.unity.modules.screencapture@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.terrain)
+    com.unity.modules.ui@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.umbra)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.video@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.video)
+    com.unity.modules.vr@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.vr)
+    com.unity.modules.xr@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.hierarchycore)
+    com.unity.ext.nunit@2.0.5 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ext.nunit@031a54704bff)
+    com.unity.ugui@2.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ugui@92256ab62536)
+    com.unity.render-pipelines.core@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.core@f127f5fd8324)
+    com.unity.shadergraph@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.shadergraph@fe106b49deb4)
+    com.unity.render-pipelines.universal-config@17.0.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.universal-config@dd206bf35d04)
+    com.unity.rendering.light-transport@1.0.1 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.rendering.light-transport@9bd588f963c0)
+    com.unity.test-framework@1.6.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.test-framework@082c24152fd4)
+  Embedded packages:
+    com.bytedance.pico.xr@file:/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr)
+[Package Manager] com.unity.textmeshpro is deprecated: This package is no longer supported. TextMeshPro functionalities are now included in the com.unity.ugui package. To continue using them, consider adding it to your project dependencies.
+[Subsystems] Looking for new subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr
+[Subsystems] Novel subsystem found at Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr
+[Subsystems] No descriptors matched for  examples in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'meshings' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  examples in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  displays in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  displays in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  meshings in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json.
+[Package Manager] Done registering packages in 0.10 seconds
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+[ScriptCompilation] Requested script compilation because: Assetdatabase observed changes in script compilation related files
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://unix:/tmp/ilpp.sock-5753aa6841acce6ec0f178d3d44a5ca9
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Content root path: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc - - 200 - application/grpc 22.6806ms
+Starting: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/1300b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+DisplayProgressbar: Compiling Scripts
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+[40m[1m[33mwarn[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+[40m[1m[33mwarn[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll" in favor of "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Burst.Cecil, Version=0.11.6.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.burst@6bb9aca3ef38/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Mono.Cecil, Version=0.11.5.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/Mono.Cecil.dll
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc - - 200 - application/grpc 17.3191ms
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll, with 144 defines and 348 references
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running Unity.Jobs.CodeGen.JobsILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with Library/Bee/artifacts/1300b0aE.dag/Unity.Collections.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Burst.Cecil.Rocks, Version=0.11.6.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.burst@6bb9aca3ef38/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc - - 200 - application/grpc 194.0822ms
+ExitCode: 0 Duration: 1s713ms
+[ 820/1107  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[1103/1107  1s] Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+Assets/Editor/AndroidSizeOptimization.cs(58,9): warning CS0618: 'PlayerSettings.SetIconsForTargetGroup(BuildTargetGroup, Texture2D[])' is obsolete: 'Use SetIcons(NamedBuildTarget, Texture2D[], IconKind) instead'
+[1104/1107  0s] ILPostProcess Library/Bee/artifacts/1300b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll, with 144 defines and 348 references
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[1105/1107  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+[1106/1107  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+*** Tundra build success (1.69 seconds), 5 items updated, 1107 evaluated
+Assets/Editor/AndroidSizeOptimization.cs(58,9): warning CS0618: 'PlayerSettings.SetIconsForTargetGroup(BuildTargetGroup, Texture2D[])' is obsolete: 'Use SetIcons(NamedBuildTarget, Texture2D[], IconKind) instead'
+AssetDatabase: script compilation time: 2.059630s
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.414 seconds
+'Packages/com.unity.xr.openxr/Runtime/OpenXRLoaderInternal.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.xr.openxr/Runtime/OpenXRLoader.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Start importing Assets/Optimization using Guid(18380bfcbb38b45059cd6eedc4d4dba8) (DefaultImporter) -> (artifact id: 'eef5990a837e86002a38ec7524f444ee') in 0.007415833 seconds
+Start importing Assets/Optimization/V82 using Guid(3795bfc33f8a840ef8fbfe4376deaf73) (DefaultImporter) -> (artifact id: '69f383e2e187277f6e0cf0f8b5abea13') in 0.001021666 seconds
+Start importing Assets/Optimization/V82/Fonts using Guid(8829deaa20d784d3d8a5d9e6091c0490) (DefaultImporter) -> (artifact id: '451e82f12e308f2292e02a9af39c7b3c') in 0.000768083 seconds
+Refreshing native plugins compatible for Editor in 8.54 ms, found 15 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 8.54 ms, found 15 plugins.
+PXRLog [Build Check]RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+ByteDance.PICO.XR.Editor.PXR_SDKBuildCheck:.cctor () (at ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs Line: 31)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.491 seconds
+Domain Reload Profiling: 1905ms
+	BeginReloadAssembly (175ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (117ms)
+	RebuildCommonClasses (15ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (11ms)
+	LoadAllAssembliesAndSetupDomain (207ms)
+		LoadAssemblies (158ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (85ms)
+			TypeCache.Refresh (58ms)
+				TypeCache.ScanAssembly (52ms)
+			BuildScriptInfoCaches (19ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (1492ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1390ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (65ms)
+			ProcessInitializeOnLoadAttributes (1221ms)
+			ProcessInitializeOnLoadMethodAttributes (95ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (26ms)
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Start importing Assets/Optimization/V82/Fonts/NotoSansCJKsc-Subset.otf using Guid(edc068084079d464bac0fb565c8b1132) (TrueTypeFontImporter) -> (artifact id: '2c232323565555d19583dddd00814b7e') in 0.009496083 seconds
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Refreshing native plugins compatible for Editor in 9.30 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.50 ms.
+Asset Pipeline Refresh (id=e38fabdaa78fd4199bae1d290cf5c4a1): Total: 6.555 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	Summary:
+		Imports: total=3 (actual=3, local cache=0, cache server=0)
+		Asset DB Process Time: managed=1 ms, native=3862 ms
+		Asset DB Callback time: managed=84 ms, native=110 ms
+		Scripting: domain reloads=1, domain reload time=414 ms, compile time=2060 ms, other=21 ms
+		Project Asset Count: scripts=1682, non-scripts=2684
+		Asset File Changes: new=4, changed=6, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 101.882ms
+	ApplyChangesToAssetFolders: 0.173ms
+	Scan: 2121.302ms
+	OnSourceAssetsModified: 0.391ms
+	CategorizeAssetsWithTransientArtifact: 28.335ms
+	ProcessAssetsWithTransientArtifactChanges: 30.734ms
+	CategorizeAssets: 29.457ms
+	ImportOutOfDateAssets: 1540.445ms (-543.729ms without children)
+		ImportManagerImport: 22.422ms (1.966ms without children)
+			ImportInProcess: 20.440ms
+			UpdateCategorizedAssets: 0.015ms
+		CompileScripts: 2060.318ms
+		ReloadNativeAssets: 0.042ms
+		UnloadImportedAssets: 0.611ms
+		ReloadImportedAssets: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.587ms
+		InitializingProgressBar: 0.004ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.191ms
+	PostProcessAllAssets: 83.981ms
+	Hotreload: 11.332ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.000ms
+	UnloadStreamsBegin: 1.188ms
+	PersistCurrentRevisions: 0.154ms
+	UnloadStreamsEnd: 0.000ms
+	GenerateScriptTypeHashes: 1.472ms
+	Untracked: 2606.111ms
+
+Application.AssetDatabase Initial Refresh End
+Scanning for USB devices : 0.104ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Personally Puzzled XR
+2026-09-10 13:15:45.488 Unity[86226:78278185] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc14f2d040 Start Auto Demo, ke='Command-F9'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 13:15:45.488 Unity[86226:78278185] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc14f2cfa0 Start Player Manual, ke='Command-F8'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 13:15:45.488 Unity[86226:78278185] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc14f2cf00 Stop Play Mode, ke='Command-F10'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 13:15:45.490 Unity[86226:78278185] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc14f97ac0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6021 unused Assets / (6.9 MB). Loaded Objects now: 6778.
+Memory consumption went from 243.7 MB to 236.7 MB.
+Total: 10.999250 ms (FindLiveObjects: 0.167542 ms CreateObjectMapping: 0.131458 ms MarkObjects: 7.540750 ms  DeleteObjects: 3.158708 ms)
+
+2026-09-10 13:15:45.523 Unity[86226:78278185] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc14fa2f80 Start Auto Demo, ke='Command-F9'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 13:15:45.523 Unity[86226:78278185] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc14fa3020 Start Player Manual, ke='Command-F8'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 13:15:45.523 Unity[86226:78278185] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc14fa30c0 Stop Play Mode, ke='Command-F10'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 13:15:45.525 Unity[86226:78278185] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xc14f9c820 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:Refresh () (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:393)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:36)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 393]
+
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:Refresh () (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:393)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:36)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 393]
+
+Start importing Assets/Scenes/RuntimeV82_ResourceOptimization using Guid(473b6d7347cea4a72932bff3f12bf223) (DefaultImporter) -> (artifact id: '55578ede708343987d791909207daed4') in 0.001318583 seconds
+Start importing Assets/Optimization/V82/Assets using Guid(2a44e7d5ab65d4572abe180202f2bbec) (DefaultImporter) -> (artifact id: 'a10c68f2fa1baa8a108196a6d0dc636e') in 0.000953458 seconds
+Start importing Assets/Optimization/V82/Assets/Selection using Guid(c4aa7ca0ce4244ed29c9c5149347815a) (DefaultImporter) -> (artifact id: '8d439518d2db062243d0beca7dca1914') in 0.000888709 seconds
+Start importing Assets/Optimization/V82/Assets/Assembly using Guid(d55bb654656014ec8a126a71afc60ae5) (DefaultImporter) -> (artifact id: '8ebea7ceda7dd1b4bf070a8409bb73af') in 0.000910625 seconds
+Start importing Assets/Optimization/V82/Assets/Art using Guid(163557823ab7d488ca3a37b4b7c2cc5a) (DefaultImporter) -> (artifact id: '8799b92ecb2fe36f4028e83aac03e215') in 0.001098042 seconds
+Start importing Assets/Optimization/V82/Assets/Splash using Guid(c8cc23fe1faf54df286626899cac990b) (DefaultImporter) -> (artifact id: '344725565cf8ca616a69ddcb63f8284a') in 0.000797417 seconds
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D using Guid(32ee8ce6a46ce498b80d2134cdef40ba) (DefaultImporter) -> (artifact id: '0a63ee986b3d3805dfae86427cff127a') in 0.000723375 seconds
+Start importing Assets/Optimization/V82/Assets/Assembly/V07 using Guid(95373665b45834507a924621870e35de) (DefaultImporter) -> (artifact id: 'ad2fae79f717ceeec994308678ca4b85') in 0.000939958 seconds
+Start importing Assets/Optimization/V82/Assets/Assembly/V04 using Guid(d6319f0f42e694309b0340894af6df99) (DefaultImporter) -> (artifact id: 'b42fdc9fa3fe744ad6ce381c8a458fff') in 0.00069625 seconds
+Start importing Assets/Optimization/V82/Assets/Assembly/V05 using Guid(e9ca4d773d778485d8660d1755ed17d9) (DefaultImporter) -> (artifact id: 'ae00c0fd101ed62f07e73645c05c6fb0') in 0.00084425 seconds
+Start importing Assets/Optimization/V82/Assets/Assembly/V09 using Guid(4ba5a63acbb23408ea05c6bf1d030779) (DefaultImporter) -> (artifact id: '4324c10cf80a4a83dbd2a057ca3e0f10') in 0.001024708 seconds
+Start importing Assets/Optimization/V82/Assets/Art/Models using Guid(8ce6d8df73bd84bcba1384fa56ad818d) (DefaultImporter) -> (artifact id: '53a0919178cb11bf5adaa7c485024c1e') in 0.001139792 seconds
+Start importing Assets/Optimization/V82/Assets/Selection/V04 using Guid(ec895003c762240f2930e2f09f8b10f9) (DefaultImporter) -> (artifact id: 'c00859c1273a7d46cab8a5148d2e8956') in 0.000873084 seconds
+Start importing Assets/Optimization/V82/Assets/Assembly/V16 using Guid(2e774982681914428a17698f927fd094) (DefaultImporter) -> (artifact id: '0311893a1e369d9a6f924e41ac355092') in 0.00088225 seconds
+Start importing Assets/Optimization/V82/Assets/Splash/V05 using Guid(4e8ff85d29ac74a27a9967b70cd0b16b) (DefaultImporter) -> (artifact id: 'eef2552c243c35e2470d4b6ab4542653') in 0.000758417 seconds
+Start importing Assets/Optimization/V82/Assets/Assembly/V08 using Guid(ce2a3399eb39d438d99b3848e41f5885) (DefaultImporter) -> (artifact id: '1b36c34d7a82b1a0fdf776271297e6cb') in 0.000848208 seconds
+Start importing Assets/Optimization/V82/Assets/Assembly/V05/EiffelCompleteModules using Guid(8090383bae31240aeb0231b6052afb24) (DefaultImporter) -> (artifact id: '9da26340f7027cad87f526901f1afee4') in 0.000802166 seconds
+Start importing Assets/Optimization/V82/Assets/Splash/V05/Generated3D using Guid(96b3129423a9d44738965f4b1545b9ba) (DefaultImporter) -> (artifact id: '802f4ae49160fc465d070e15fb447315') in 0.000854041 seconds
+Start importing Assets/Optimization/V82/Assets/Selection/V04/AI3D using Guid(96163d5a9fe844550976efc37958f919) (DefaultImporter) -> (artifact id: '34d0fddca4abc80da7fd01b9e658794e') in 0.000937541 seconds
+Start importing Assets/Optimization/V82/Assets/Selection/V04/Generated3D using Guid(e6d3bf017b3c04c619b9a9973c064098) (DefaultImporter) -> (artifact id: '4c58bbc55e3872eabfb7027da7340a5e') in 0.001064792 seconds
+Start importing Assets/Optimization/V82/Assets/Assembly/V09/PagodaCompleteModules using Guid(67dff959ee7f14ab880676942cea282b) (DefaultImporter) -> (artifact id: 'a2689559acbe7cfebaa3216ca6169a4b') in 0.000915125 seconds
+Start importing Assets/Optimization/V82/Assets/Assembly/V08/ShipCompleteModules using Guid(d732540a04294424da3de5951ba07218) (DefaultImporter) -> (artifact id: '6892092b28f4e6912de018afe0abdf40') in 0.000737167 seconds
+Start importing Assets/Optimization/V82/Assets/Art/Models/models using Guid(d811e5c5d83fd45908611cb706820b47) (DefaultImporter) -> (artifact id: '31f026f76e09f42fb7680ed8832053d5') in 0.001040458 seconds
+Start importing Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules using Guid(e87e9fe40418b428aa96497352b75e82) (DefaultImporter) -> (artifact id: 'd69d3f2732694e00120f5c53a4ec8340') in 0.000879042 seconds
+Start importing Assets/Optimization/V82/Assets/Assembly/V16/EiffelCleanModules using Guid(b9306a1b56dce4d368aa6be72488d59d) (DefaultImporter) -> (artifact id: '3f75f883c19f70e8b31f955e287bb4f3') in 0.000865375 seconds
+Start importing Assets/Optimization/V82/Assets/Assembly/V04/CottageSemantic13 using Guid(fb1fdc9131de8473b9dd74300d755fa8) (DefaultImporter) -> (artifact id: '63874ead1f3ad9f1047ed167849a6679') in 0.000771792 seconds
+Start importing Assets/Optimization/V82/Assets/Assembly/V07/Generated3D using Guid(5c0ebe9274565462089b9dcb4e1230cf) (DefaultImporter) -> (artifact id: '16e314779cdb7d5577ef3ba7c5e24932') in 0.00072975 seconds
+Start importing Assets/Optimization/V82/Assets/Assembly/V04/CottageSemantic13/Generated3D using Guid(430e9c5b85fcd4e6e8c9ea5baa1705dd) (DefaultImporter) -> (artifact id: '8c40faaacc1325471099045f342a0e83') in 0.000897625 seconds
+Start importing Assets/Optimization/V82/Assets/Selection/V04/Generated3D/BiplaneTextures using Guid(3f8a4a026fc814972832bebf3de60b31) (DefaultImporter) -> (artifact id: '07bfebb5a08a2f70811443ade102ec61') in 0.000931208 seconds
+Refreshing native plugins compatible for Editor in 8.39 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=a9f2ea6ba6ff8422a83e6689bdd18283): Total: 1.393 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=29 (actual=29, local cache=0, cache server=0)
+		Asset DB Process Time: managed=1 ms, native=1360 ms
+		Asset DB Callback time: managed=7 ms, native=23 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2684
+		Asset File Changes: new=29, changed=29, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.076ms
+	Scan: 1294.858ms
+	OnSourceAssetsModified: 0.365ms
+	CategorizeAssetsWithTransientArtifact: 0.032ms
+	ProcessAssetsWithTransientArtifactChanges: 0.035ms
+	CategorizeAssets: 18.888ms
+	ImportOutOfDateAssets: 40.560ms (0.182ms without children)
+		ImportManagerImport: 39.846ms (0.978ms without children)
+			ImportInProcess: 38.692ms
+			UpdateCategorizedAssets: 0.175ms
+		ReloadNativeAssets: 0.024ms
+		UnloadImportedAssets: 0.090ms
+		ReloadImportedAssets: 0.001ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.250ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.168ms
+	PostProcessAllAssets: 19.248ms
+	Hotreload: 10.779ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.080ms
+	UnloadStreamsBegin: 0.328ms
+	PersistCurrentRevisions: 0.216ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 7.570ms
+
+Start importing Assets/Optimization/V82/Assets/Selection/V04/Generated3D/BiplaneTextures/00_Image_0.png using Guid(ce38b08962fd34d4ab05a8ecaf8b1903) (TextureImporter) -> (artifact id: 'f4db28576d931d9865a560d4ddc39a51') in 0.501281875 seconds
+Refreshing native plugins compatible for Editor in 9.88 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.56 ms.
+Asset Pipeline Refresh (id=7262e5166c674446c93242968f69f94e): Total: 0.578 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=45 ms, native=518 ms
+		Asset DB Callback time: managed=2 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2685
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 9
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.054ms
+	Scan: 46.276ms
+	OnSourceAssetsModified: 0.030ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.015ms
+	CategorizeAssets: 9.123ms
+	ImportOutOfDateAssets: 503.808ms (0.139ms without children)
+		ImportManagerImport: 503.135ms (0.181ms without children)
+			ImportInProcess: 502.936ms
+			UpdateCategorizedAssets: 0.018ms
+		ReloadNativeAssets: 0.019ms
+		UnloadImportedAssets: 0.116ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.262ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.135ms
+	PostProcessAllAssets: 2.211ms
+	Hotreload: 11.726ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.065ms
+	UnloadStreamsBegin: 0.001ms
+	PersistCurrentRevisions: 0.112ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.370ms
+
+Start importing Assets/Optimization/V82/Assets/Selection/V04/Generated3D/BiplaneTextures/00_Image_0.png using Guid(ce38b08962fd34d4ab05a8ecaf8b1903) (TextureImporter) -> (artifact id: '01739e56f92959232bcdaf4c9839bc9d') in 0.461265833 seconds
+Refreshing native plugins compatible for Editor in 11.13 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.57 ms.
+Asset Pipeline Refresh (id=6365ef91a54564ad898c6b841583f3a2): Total: 0.504 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=485 ms
+		Asset DB Callback time: managed=5 ms, native=13 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2685
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 9
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.087ms
+	Scan: 7.184ms
+	OnSourceAssetsModified: 0.028ms
+	CategorizeAssetsWithTransientArtifact: 0.006ms
+	ProcessAssetsWithTransientArtifactChanges: 0.035ms
+	CategorizeAssets: 9.868ms
+	ImportOutOfDateAssets: 462.935ms (-0.359ms without children)
+		ImportManagerImport: 462.217ms (0.677ms without children)
+			ImportInProcess: 461.521ms
+			UpdateCategorizedAssets: 0.019ms
+		ReloadNativeAssets: 0.021ms
+		UnloadImportedAssets: 0.137ms
+		ReloadImportedAssets: 0.481ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.273ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.160ms
+	PostProcessAllAssets: 5.070ms
+	Hotreload: 13.609ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.066ms
+	UnloadStreamsBegin: 0.033ms
+	PersistCurrentRevisions: 0.126ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 5.308ms
+
+Start importing Assets/Optimization/V82/Assets/Selection/V04/Generated3D/BiplaneTextures/02_Image_2.png using Guid(da0e3a82e09fc4285b4a727eda721ddd) (TextureImporter) -> (artifact id: '18cb5bc6cf99dbde7e37826a0e51fad1') in 0.427228916 seconds
+Refreshing native plugins compatible for Editor in 12.24 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.52 ms.
+Asset Pipeline Refresh (id=49d8bf36f194049a6bfc713344498633): Total: 0.507 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=3 ms, native=489 ms
+		Asset DB Callback time: managed=0 ms, native=14 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2686
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 9
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.050ms
+	Scan: 47.884ms
+	OnSourceAssetsModified: 0.220ms
+	CategorizeAssetsWithTransientArtifact: 0.004ms
+	ProcessAssetsWithTransientArtifactChanges: 0.024ms
+	CategorizeAssets: 9.149ms
+	ImportOutOfDateAssets: 428.285ms (0.134ms without children)
+		ImportManagerImport: 427.602ms (0.161ms without children)
+			ImportInProcess: 427.428ms
+			UpdateCategorizedAssets: 0.013ms
+		ReloadNativeAssets: 0.023ms
+		UnloadImportedAssets: 0.122ms
+		ReloadImportedAssets: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.262ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.140ms
+	PostProcessAllAssets: 0.895ms
+	Hotreload: 13.834ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.065ms
+	UnloadStreamsBegin: 0.036ms
+	PersistCurrentRevisions: 0.112ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 6.866ms
+
+Start importing Assets/Optimization/V82/Assets/Selection/V04/Generated3D/BiplaneTextures/02_Image_2.png using Guid(da0e3a82e09fc4285b4a727eda721ddd) (TextureImporter) -> (artifact id: 'ea71cb5b83440423dc4d5d192fde9e21') in 0.426822666 seconds
+Refreshing native plugins compatible for Editor in 8.35 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.55 ms.
+Asset Pipeline Refresh (id=85d2c0c6db4d8415d917e36477afad78): Total: 0.465 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=453 ms
+		Asset DB Callback time: managed=1 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2686
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 9
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.078ms
+	Scan: 9.432ms
+	OnSourceAssetsModified: 1.412ms
+	CategorizeAssetsWithTransientArtifact: 0.006ms
+	ProcessAssetsWithTransientArtifactChanges: 0.031ms
+	CategorizeAssets: 9.622ms
+	ImportOutOfDateAssets: 428.780ms (-0.017ms without children)
+		ImportManagerImport: 428.054ms (0.334ms without children)
+			ImportInProcess: 427.707ms
+			UpdateCategorizedAssets: 0.012ms
+		ReloadNativeAssets: 0.019ms
+		UnloadImportedAssets: 0.153ms
+		ReloadImportedAssets: 0.145ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.267ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.155ms
+	PostProcessAllAssets: 0.756ms
+	Hotreload: 9.830ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.065ms
+	UnloadStreamsBegin: 0.016ms
+	PersistCurrentRevisions: 0.133ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.959ms
+
+Start importing Assets/Optimization/V82/Assets/Selection/V04/Generated3D/BiplaneTextures/03_Image_3.png using Guid(f9948338c867d4101b7b2d5f6b065f55) (TextureImporter) -> (artifact id: '5df17f472566d0e7fe2cc65a783cdc1c') in 0.200103083 seconds
+Refreshing native plugins compatible for Editor in 12.35 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.47 ms.
+Asset Pipeline Refresh (id=b021c95c068e6456ebeec7ff732cab1b): Total: 0.236 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Selection/V04/Generated3D/BiplaneTextures/03_Image_3.png using Guid(f9948338c867d4101b7b2d5f6b065f55) (TextureImporter) -> (artifact id: '3ec29c4d9391e5aebb55509e4362a6e9') in 0.0286745 seconds
+Refreshing native plugins compatible for Editor in 10.16 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.81 ms.
+Asset Pipeline Refresh (id=ba79809dfa423415f95ac545948d57b6): Total: 0.065 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Art/Models/models/08_desk_lamp.fbx using Guid(cb06ead5e939748a78398506c21cd0bb) (FBXImporter) -> (artifact id: 'b498cadcc79f17d00e2ad04a52080f8a') in 0.034355583 seconds
+Refreshing native plugins compatible for Editor in 12.12 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.53 ms.
+Asset Pipeline Refresh (id=52502b011188d47a99a1fb42e26e1e99): Total: 0.069 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Art/Models/models/08_desk_lamp.fbx using Guid(cb06ead5e939748a78398506c21cd0bb) (FBXImporter) -> (artifact id: '9fd0dfbb1871987fee36d27a68afcd25') in 0.018957 seconds
+Refreshing native plugins compatible for Editor in 10.20 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.49 ms.
+Asset Pipeline Refresh (id=891471b88631544a18b4d1672d8d2a7d): Total: 0.068 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Assembly/V04/CottageSemantic13/Generated3D/WorkshopCottage_Semantic13_20260716_V04_LOD0.fbx using Guid(17347af5d55534fc39ff203f7952556c) (FBXImporter) -> (artifact id: 'cecadea0f4f55095b1790870d1abf4db') in 0.106494875 seconds
+Refreshing native plugins compatible for Editor in 8.71 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=0aceb95cee4f54537863b390c36e2d88): Total: 0.211 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Assembly/V04/CottageSemantic13/Generated3D/WorkshopCottage_Semantic13_20260716_V04_LOD0.fbx using Guid(17347af5d55534fc39ff203f7952556c) (FBXImporter) -> (artifact id: '198a7ff9e321a7e3a69db5c70e5a0231') in 0.09911375 seconds
+Refreshing native plugins compatible for Editor in 8.26 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.47 ms.
+Asset Pipeline Refresh (id=7d5ce5ec9afb0481b84b5a93fea15008): Total: 0.132 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Assembly/V05/EiffelCompleteModules/EiffelTower_CompleteModules16_Meshy_20260716_V05.fbx using Guid(e2d815570f3b549faa2e5e6df0f1e46a) (FBXImporter) -> (artifact id: 'b6d425e299dc35e12eac5685e5252db5') in 1.159171333 seconds
+Refreshing native plugins compatible for Editor in 9.37 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.52 ms.
+Asset Pipeline Refresh (id=eced79ed765724d9aac1e2898fb7dd18): Total: 1.276 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1260 ms
+		Asset DB Callback time: managed=0 ms, native=14 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2690
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 8
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.050ms
+	Scan: 86.982ms
+	OnSourceAssetsModified: 0.028ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 9.205ms
+	ImportOutOfDateAssets: 1160.405ms (0.133ms without children)
+		ImportManagerImport: 1159.724ms (0.159ms without children)
+			ImportInProcess: 1159.551ms
+			UpdateCategorizedAssets: 0.014ms
+		ReloadNativeAssets: 0.019ms
+		UnloadImportedAssets: 0.124ms
+		ReloadImportedAssets: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.257ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.144ms
+	PostProcessAllAssets: 1.825ms
+	Hotreload: 13.466ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.045ms
+	PersistCurrentRevisions: 0.106ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 3.934ms
+
+Start importing Assets/Optimization/V82/Assets/Assembly/V05/EiffelCompleteModules/EiffelTower_CompleteModules16_Meshy_20260716_V05.fbx using Guid(e2d815570f3b549faa2e5e6df0f1e46a) (FBXImporter) -> (artifact id: '33fd50d55ca3aa7a2206311639891375') in 1.097877209 seconds
+Refreshing native plugins compatible for Editor in 8.23 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.47 ms.
+Asset Pipeline Refresh (id=dad2398ab785449df9b20c4a3dc20782): Total: 1.133 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1119 ms
+		Asset DB Callback time: managed=0 ms, native=12 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2690
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 8
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.073ms
+	Scan: 6.246ms
+	OnSourceAssetsModified: 0.020ms
+	CategorizeAssetsWithTransientArtifact: 0.004ms
+	ProcessAssetsWithTransientArtifactChanges: 0.030ms
+	CategorizeAssets: 9.397ms
+	ImportOutOfDateAssets: 1099.170ms (-0.077ms without children)
+		ImportManagerImport: 1098.517ms (0.372ms without children)
+			ImportInProcess: 1098.128ms
+			UpdateCategorizedAssets: 0.018ms
+		ReloadNativeAssets: 0.018ms
+		UnloadImportedAssets: 0.132ms
+		ReloadImportedAssets: 0.193ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.250ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.135ms
+	PostProcessAllAssets: 0.683ms
+	Hotreload: 12.023ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.032ms
+	PersistCurrentRevisions: 0.115ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.802ms
+
+Start importing Assets/Optimization/V82/Assets/Assembly/V07/Generated3D/CompleteModuleCradle_V07_Meshy_Hero.fbx using Guid(4ea5669914b97498c907086c9bcdac61) (FBXImporter)Launching external process: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.81 seconds
+ -> (artifact id: '88dc339b9f4173583d1f3ee515c08c1f') in 0.933700667 seconds
+Refreshing native plugins compatible for Editor in 8.35 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.52 ms.
+Asset Pipeline Refresh (id=82e4a4e90e7f04f1593b5b0dc1323ce7): Total: 0.979 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=3 ms, native=963 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2691
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 8
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.049ms
+	Scan: 19.168ms
+	OnSourceAssetsModified: 0.028ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 8.894ms
+	ImportOutOfDateAssets: 934.767ms (0.132ms without children)
+		ImportManagerImport: 934.127ms (0.155ms without children)
+			ImportInProcess: 933.951ms
+			UpdateCategorizedAssets: 0.022ms
+		ReloadNativeAssets: 0.018ms
+		UnloadImportedAssets: 0.101ms
+		ReloadImportedAssets: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.247ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.138ms
+	PostProcessAllAssets: 1.326ms
+	Hotreload: 10.663ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.048ms
+	PersistCurrentRevisions: 0.111ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 3.873ms
+
+Start importing Assets/Optimization/V82/Assets/Assembly/V07/Generated3D/CompleteModuleCradle_V07_Meshy_Hero.fbx using Guid(4ea5669914b97498c907086c9bcdac61) (FBXImporter) -> (artifact id: '3a2f16140292df5b7edb0d5a5cfeafe3') in 0.085433208 seconds
+Refreshing native plugins compatible for Editor in 8.62 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=1ff8389b8b4964888b0d7adf256c4613): Total: 0.118 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Assembly/V08/ShipCompleteModules/WorkshopShip_CompleteConstructionModules13_Meshy_20260717_V08.fbx using Guid(6722a7bc4050c4250b61828cf5d6bf9f) (FBXImporter) -> (artifact id: 'fe44a0d39ca4468a1c568007c27b088b') in 0.90941325 seconds
+Refreshing native plugins compatible for Editor in 8.99 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.53 ms.
+Asset Pipeline Refresh (id=9a0cbe682481f4f1cb2df7272205aa3c): Total: 1.046 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1031 ms
+		Asset DB Callback time: managed=0 ms, native=13 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2692
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 8
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.047ms
+	Scan: 107.734ms
+	OnSourceAssetsModified: 0.027ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.015ms
+	CategorizeAssets: 8.978ms
+	ImportOutOfDateAssets: 910.680ms (0.153ms without children)
+		ImportManagerImport: 909.976ms (0.201ms without children)
+			ImportInProcess: 909.725ms
+			UpdateCategorizedAssets: 0.050ms
+		ReloadNativeAssets: 0.018ms
+		UnloadImportedAssets: 0.098ms
+		ReloadImportedAssets: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.249ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.183ms
+	PostProcessAllAssets: 2.324ms
+	Hotreload: 12.263ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.063ms
+	UnloadStreamsBegin: 0.036ms
+	PersistCurrentRevisions: 0.123ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 3.874ms
+
+Start importing Assets/Optimization/V82/Assets/Assembly/V08/ShipCompleteModules/WorkshopShip_CompleteConstructionModules13_Meshy_20260717_V08.fbx using Guid(6722a7bc4050c4250b61828cf5d6bf9f) (FBXImporter) -> (artifact id: '05a4da2e11178a2c571d4c6f86e27f96') in 0.842497458 seconds
+Refreshing native plugins compatible for Editor in 8.75 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.49 ms.
+Asset Pipeline Refresh (id=bc7ae6a48b27349f2a12b87db9fed529): Total: 0.878 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=864 ms
+		Asset DB Callback time: managed=0 ms, native=12 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2692
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 8
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.093ms
+	Scan: 6.439ms
+	OnSourceAssetsModified: 0.019ms
+	CategorizeAssetsWithTransientArtifact: 0.006ms
+	ProcessAssetsWithTransientArtifactChanges: 0.068ms
+	CategorizeAssets: 9.452ms
+	ImportOutOfDateAssets: 843.852ms (-0.096ms without children)
+		ImportManagerImport: 843.203ms (0.387ms without children)
+			ImportInProcess: 842.770ms
+			UpdateCategorizedAssets: 0.045ms
+		ReloadNativeAssets: 0.020ms
+		UnloadImportedAssets: 0.127ms
+		ReloadImportedAssets: 0.209ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.249ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.137ms
+	PostProcessAllAssets: 0.704ms
+	Hotreload: 12.043ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.063ms
+	UnloadStreamsBegin: 0.032ms
+	PersistCurrentRevisions: 0.119ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.789ms
+
+Start importing Assets/Optimization/V82/Assets/Assembly/V09/PagodaCompleteModules/SelectionPagoda_CompleteModules9_CandidateL_Embedded_20260721_V09.fbx using Guid(f2827a41d0d304c6a908233af49eca43) (FBXImporter)A polygon of Mesh 'Part_02_StoneLandscapeTerraceStairsCherryTree' in Assets/Optimization/V82/Assets/Assembly/V09/PagodaCompleteModules/SelectionPagoda_CompleteModules9_CandidateL_Embedded_20260721_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_04_LowerRoofEaves' in Assets/Optimization/V82/Assets/Assembly/V09/PagodaCompleteModules/SelectionPagoda_CompleteModules9_CandidateL_Embedded_20260721_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_04_LowerRoofEaves' in Assets/Optimization/V82/Assets/Assembly/V09/PagodaCompleteModules/SelectionPagoda_CompleteModules9_CandidateL_Embedded_20260721_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_04_LowerRoofEaves' in Assets/Optimization/V82/Assets/Assembly/V09/PagodaCompleteModules/SelectionPagoda_CompleteModules9_CandidateL_Embedded_20260721_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_06_MiddleRoofEaves' in Assets/Optimization/V82/Assets/Assembly/V09/PagodaCompleteModules/SelectionPagoda_CompleteModules9_CandidateL_Embedded_20260721_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_07_UpperStoreyBody' in Assets/Optimization/V82/Assets/Assembly/V09/PagodaCompleteModules/SelectionPagoda_CompleteModules9_CandidateL_Embedded_20260721_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+ -> (artifact id: '346260cb551a62b3c5e02491c3765dff') in 0.117666416 seconds
+Refreshing native plugins compatible for Editor in 7.82 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.49 ms.
+Asset Pipeline Refresh (id=04af65d8bce6a44a9b01c38d65c9e601): Total: 0.182 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Assembly/V09/PagodaCompleteModules/SelectionPagoda_CompleteModules9_CandidateL_Embedded_20260721_V09.fbx using Guid(f2827a41d0d304c6a908233af49eca43) (FBXImporter)A polygon of Mesh 'Part_02_StoneLandscapeTerraceStairsCherryTree' in Assets/Optimization/V82/Assets/Assembly/V09/PagodaCompleteModules/SelectionPagoda_CompleteModules9_CandidateL_Embedded_20260721_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_04_LowerRoofEaves' in Assets/Optimization/V82/Assets/Assembly/V09/PagodaCompleteModules/SelectionPagoda_CompleteModules9_CandidateL_Embedded_20260721_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_04_LowerRoofEaves' in Assets/Optimization/V82/Assets/Assembly/V09/PagodaCompleteModules/SelectionPagoda_CompleteModules9_CandidateL_Embedded_20260721_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_04_LowerRoofEaves' in Assets/Optimization/V82/Assets/Assembly/V09/PagodaCompleteModules/SelectionPagoda_CompleteModules9_CandidateL_Embedded_20260721_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_06_MiddleRoofEaves' in Assets/Optimization/V82/Assets/Assembly/V09/PagodaCompleteModules/SelectionPagoda_CompleteModules9_CandidateL_Embedded_20260721_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_07_UpperStoreyBody' in Assets/Optimization/V82/Assets/Assembly/V09/PagodaCompleteModules/SelectionPagoda_CompleteModules9_CandidateL_Embedded_20260721_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+ -> (artifact id: '7a591e693d736bf17854baa0d63e9468') in 0.113108458 seconds
+Refreshing native plugins compatible for Editor in 8.64 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.53 ms.
+Asset Pipeline Refresh (id=3102a43c8c41d4dbfa7641bc22d881cd): Total: 0.146 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx using Guid(fc1bf314254754cff98e27fa1331dc6b) (FBXImporter)A polygon of Mesh 'Part_01_WalnutCollectorPlinth' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_01_WalnutCollectorPlinth' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_01_WalnutCollectorPlinth' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_02_FlowerLandscapeTerrace' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_02_FlowerLandscapeTerrace' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_02_FlowerLandscapeTerrace' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_02_FlowerLandscapeTerrace' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_04_BalconyAndUpperTower' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_06_OpposingBladePair_NE_SW' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_06_OpposingBladePair_NE_SW' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_06_OpposingBladePair_NE_SW' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_06_OpposingBladePair_NE_SW' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_07_OpposingBladePair_NW_SE' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_07_OpposingBladePair_NW_SE' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_07_OpposingBladePair_NW_SE' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_07_OpposingBladePair_NW_SE' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_07_OpposingBladePair_NW_SE' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+A polygon of Mesh 'Part_07_OpposingBladePair_NW_SE' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:CopyAsset (string,string)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:58)
+
+[Assets/Editor/ResourceOptimizationV82.cs line 58]
+
+ -> (artifact id: 'a49d0454983a24dd3daf859c5b926b53') in 0.1477025 seconds
+Refreshing native plugins compatible for Editor in 10.35 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.52 ms.
+Asset Pipeline Refresh (id=b3bfd8bfab8d64e09948048b32bd1c52): Total: 0.213 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx using Guid(fc1bf314254754cff98e27fa1331dc6b) (FBXImporter)A polygon of Mesh 'Part_01_WalnutCollectorPlinth' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_01_WalnutCollectorPlinth' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_01_WalnutCollectorPlinth' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_02_FlowerLandscapeTerrace' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_02_FlowerLandscapeTerrace' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_02_FlowerLandscapeTerrace' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_02_FlowerLandscapeTerrace' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_04_BalconyAndUpperTower' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_06_OpposingBladePair_NE_SW' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_06_OpposingBladePair_NE_SW' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_06_OpposingBladePair_NE_SW' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_06_OpposingBladePair_NE_SW' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_07_OpposingBladePair_NW_SE' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_07_OpposingBladePair_NW_SE' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_07_OpposingBladePair_NW_SE' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_07_OpposingBladePair_NW_SE' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_07_OpposingBladePair_NW_SE' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+A polygon of Mesh 'Part_07_OpposingBladePair_NW_SE' in Assets/Optimization/V82/Assets/Assembly/V09/WindmillCompleteModules/SelectionWindmill_CompleteModules8_CandidateA_Embedded_20260722_V09.fbx is self-intersecting and has been discarded.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:ImportAsset (string,UnityEditor.ImportAssetOptions)
+UnityEditor.AssetDatabase:ImportAsset (string) (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:278)
+UnityEditor.AssetImporter:SaveAndReimport () (at /Users/bokken/build/output/unity/unity/Editor/Mono/AssetPipeline/AssetImporter.bindings.cs:114)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:82)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 278]
+
+ -> (artifact id: 'ace5fceba4e2f918bb6411314b1ca0a9') in 0.14432425 seconds
+Refreshing native plugins compatible for Editor in 9.19 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=d999e1a7a5bb14ce5acb78d29e5b803e): Total: 0.178 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Assembly/V16/EiffelCleanModules/EiffelTower_CleanArchitecturalModules10_V16.fbx using Guid(132979fb07474409a9432f966d6f400f) (FBXImporter) -> (artifact id: 'db01bafecbb2ea90cfc8acb9097f0d53') in 0.131531 seconds
+Refreshing native plugins compatible for Editor in 7.69 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.47 ms.
+Asset Pipeline Refresh (id=7c518079e895347e19d93962d7d44e2f): Total: 0.173 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Assembly/V16/EiffelCleanModules/EiffelTower_CleanArchitecturalModules10_V16.fbx using Guid(132979fb07474409a9432f966d6f400f) (FBXImporter) -> (artifact id: 'bbb02ff1ec34930c989505196b40aead') in 0.122077833 seconds
+Refreshing native plugins compatible for Editor in 9.37 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=27748e9128f76496a9cca1379a4444b0): Total: 0.155 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Selection/V04/AI3D/SelectionCandidatePedestal_V04_Meshy_LOD0.fbx using Guid(ba559fdfecdf14d678f04df98903acf5) (FBXImporter) -> (artifact id: '0a0d4be1acb6b61a5a85010dc1b834cb') in 0.05315275 seconds
+Refreshing native plugins compatible for Editor in 9.48 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=4c6a34e66fa5144f3bd07a755448f025): Total: 0.088 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Selection/V04/AI3D/SelectionCandidatePedestal_V04_Meshy_LOD0.fbx using Guid(ba559fdfecdf14d678f04df98903acf5) (FBXImporter) -> (artifact id: '58ab4f49cd08a1ea6b69f0c673281210') in 0.039913708 seconds
+Refreshing native plugins compatible for Editor in 9.26 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.55 ms.
+Asset Pipeline Refresh (id=2ad9d2b5eaaac4d0cb0bc1ba005f0afe): Total: 0.075 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Selection/V04/AI3D/SelectionCentralPedestal_V04_Meshy_Hero.fbx using Guid(4923049899b6649aba4d56e28d7ef5e8) (FBXImporter) -> (artifact id: 'b3f4823e9fe69f19b8ed4bd8b3df345c') in 0.183464583 seconds
+Refreshing native plugins compatible for Editor in 8.61 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.50 ms.
+Asset Pipeline Refresh (id=81cad64f0dd044b0a9e5799a4995e44b): Total: 0.239 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Selection/V04/AI3D/SelectionCentralPedestal_V04_Meshy_Hero.fbx using Guid(4923049899b6649aba4d56e28d7ef5e8) (FBXImporter) -> (artifact id: '2532474299c440ab563595b129e04048') in 0.17826225 seconds
+Refreshing native plugins compatible for Editor in 8.71 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.50 ms.
+Asset Pipeline Refresh (id=14df3aeaab3664c20887c490c3b8d14d): Total: 0.212 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Selection/V04/AI3D/SelectionCurvedMuseumWall_V04_Meshy_Hero.fbx using Guid(30fc6c2fdbce2491d88d66ee01f4070c) (FBXImporter) -> (artifact id: 'a274cbed7043c0bd7d1fda0bf8ace26f') in 0.286232542 seconds
+Refreshing native plugins compatible for Editor in 9.09 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.47 ms.
+Asset Pipeline Refresh (id=7fc3bb320cc354dbfb0ea11b2d5169f4): Total: 0.348 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=335 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2698
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 8
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.050ms
+	Scan: 35.189ms
+	OnSourceAssetsModified: 0.025ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.015ms
+	CategorizeAssets: 8.987ms
+	ImportOutOfDateAssets: 287.317ms (0.137ms without children)
+		ImportManagerImport: 286.673ms (0.171ms without children)
+			ImportInProcess: 286.474ms
+			UpdateCategorizedAssets: 0.028ms
+		ReloadNativeAssets: 0.019ms
+		UnloadImportedAssets: 0.088ms
+		ReloadImportedAssets: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.248ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.150ms
+	PostProcessAllAssets: 1.426ms
+	Hotreload: 10.560ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.036ms
+	PersistCurrentRevisions: 0.119ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 3.863ms
+
+Start importing Assets/Optimization/V82/Assets/Selection/V04/AI3D/SelectionCurvedMuseumWall_V04_Meshy_Hero.fbx using Guid(30fc6c2fdbce2491d88d66ee01f4070c) (FBXImporter) -> (artifact id: '6f803b354619df0b6ebbff0899a76648') in 0.2844115 seconds
+Refreshing native plugins compatible for Editor in 8.75 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=119150a9e9c5947f4b48f9880cddcee3): Total: 0.317 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=305 ms
+		Asset DB Callback time: managed=0 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2698
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 8
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.078ms
+	Scan: 6.082ms
+	OnSourceAssetsModified: 0.014ms
+	CategorizeAssetsWithTransientArtifact: 0.004ms
+	ProcessAssetsWithTransientArtifactChanges: 0.030ms
+	CategorizeAssets: 9.434ms
+	ImportOutOfDateAssets: 285.669ms (-0.063ms without children)
+		ImportManagerImport: 285.045ms (0.351ms without children)
+			ImportInProcess: 284.672ms
+			UpdateCategorizedAssets: 0.022ms
+		ReloadNativeAssets: 0.017ms
+		UnloadImportedAssets: 0.108ms
+		ReloadImportedAssets: 0.178ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.250ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.134ms
+	PostProcessAllAssets: 0.671ms
+	Hotreload: 10.110ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.063ms
+	UnloadStreamsBegin: 0.021ms
+	PersistCurrentRevisions: 0.115ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.584ms
+
+Start importing Assets/Optimization/V82/Assets/Selection/V04/AI3D/SelectionEiffelMiniature_V04_Meshy_Hero.fbx using Guid(856b6c80af2c94fd4b37df937f3ef4fc) (FBXImporter) -> (artifact id: '4266b4da63fa068aae727d7a2ca0c1f4') in 0.246703167 seconds
+Refreshing native plugins compatible for Editor in 7.60 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=09223e057571c4562be0fb04752e7776): Total: 0.312 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=301 ms
+		Asset DB Callback time: managed=0 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2699
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 8
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.050ms
+	Scan: 40.118ms
+	OnSourceAssetsModified: 0.029ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 9.116ms
+	ImportOutOfDateAssets: 247.822ms (0.139ms without children)
+		ImportManagerImport: 247.174ms (0.166ms without children)
+			ImportInProcess: 246.984ms
+			UpdateCategorizedAssets: 0.024ms
+		ReloadNativeAssets: 0.019ms
+		UnloadImportedAssets: 0.100ms
+		ReloadImportedAssets: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.253ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.133ms
+	PostProcessAllAssets: 1.374ms
+	Hotreload: 9.107ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.065ms
+	UnloadStreamsBegin: 0.042ms
+	PersistCurrentRevisions: 0.109ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.058ms
+
+Start importing Assets/Optimization/V82/Assets/Selection/V04/AI3D/SelectionEiffelMiniature_V04_Meshy_Hero.fbx using Guid(856b6c80af2c94fd4b37df937f3ef4fc) (FBXImporter) -> (artifact id: '31efc68ca6655213798ffb30ff1d18b3') in 0.238586625 seconds
+Refreshing native plugins compatible for Editor in 8.61 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=54abf8437323f41a09f2b3a91ece3a9e): Total: 0.271 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Selection/V04/AI3D/SelectionPagodaMiniature_V04_Meshy_Hero.fbx using Guid(c817ff73fe6504beaa575a37a7c9eec9) (FBXImporter) -> (artifact id: '005c7f23d1ce5d00f08b39713e46f420') in 0.20886325 seconds
+Refreshing native plugins compatible for Editor in 8.99 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.55 ms.
+Asset Pipeline Refresh (id=9e870e7fc04de48dfb0ed4a0693988ee): Total: 0.274 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Selection/V04/AI3D/SelectionPagodaMiniature_V04_Meshy_Hero.fbx using Guid(c817ff73fe6504beaa575a37a7c9eec9) (FBXImporter) -> (artifact id: '67fec75807b1607396a2ff6acd93eac5') in 0.2102705 seconds
+Refreshing native plugins compatible for Editor in 8.62 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.50 ms.
+Asset Pipeline Refresh (id=cd8ea4a7a7e4a4422921f55a61cb5cff): Total: 0.244 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Selection/V04/AI3D/SelectionWindmillMiniature_V04_Meshy_Hero.fbx using Guid(a3c678e5203b84f87bd8d99686a5a9bd) (FBXImporter) -> (artifact id: 'a194420cce55d86627bdbf5ab26e513c') in 0.221676167 seconds
+Refreshing native plugins compatible for Editor in 7.87 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.50 ms.
+Asset Pipeline Refresh (id=00b36518f15ef4d5dbaa86c80804c858): Total: 0.285 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Selection/V04/AI3D/SelectionWindmillMiniature_V04_Meshy_Hero.fbx using Guid(a3c678e5203b84f87bd8d99686a5a9bd) (FBXImporter) -> (artifact id: '8dcfa4bfd46a04ed15a96d2adc1af3b0') in 0.211066916 seconds
+Refreshing native plugins compatible for Editor in 9.30 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.53 ms.
+Asset Pipeline Refresh (id=15a45cc7373ab44a491a460fbec6fe8f): Total: 0.245 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Selection/V04/Generated3D/SelectionBiplaneMiniature_20260716_V04.fbx using Guid(3ce2c9dae8aed412789424d56468a641) (FBXImporter) -> (artifact id: 'c16d5cdb3f4c6d760c9ea86ad37b252b') in 0.308678125 seconds
+Refreshing native plugins compatible for Editor in 8.02 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=d00002f3bb3484bf187e7eac0969236f): Total: 0.389 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=377 ms
+		Asset DB Callback time: managed=0 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2702
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 8
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.050ms
+	Scan: 54.545ms
+	OnSourceAssetsModified: 0.027ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.015ms
+	CategorizeAssets: 9.165ms
+	ImportOutOfDateAssets: 310.117ms (0.133ms without children)
+		ImportManagerImport: 309.425ms (0.170ms without children)
+			ImportInProcess: 309.221ms
+			UpdateCategorizedAssets: 0.034ms
+		ReloadNativeAssets: 0.022ms
+		UnloadImportedAssets: 0.107ms
+		ReloadImportedAssets: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.282ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.146ms
+	PostProcessAllAssets: 0.856ms
+	Hotreload: 9.581ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.066ms
+	UnloadStreamsBegin: 0.053ms
+	PersistCurrentRevisions: 0.109ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.153ms
+
+Start importing Assets/Optimization/V82/Material_0_Biplane.mat using Guid(5bcc90240c9574b6787973265bb2820b) (NativeFormatImporter) -> (artifact id: '92c820ceab123d0fe5d6fb8742032a04') in 0.001075458 seconds
+Refreshing native plugins compatible for Editor in 8.97 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.49 ms.
+Asset Pipeline Refresh (id=103068ccfe8cb4dfebe663ba859f5abd): Total: 0.032 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Selection/V04/Generated3D/SelectionBiplaneMiniature_20260716_V04.fbx using Guid(3ce2c9dae8aed412789424d56468a641) (FBXImporter) -> (artifact id: 'cc9053afe63e655f3f917ea07b918295') in 0.301691 seconds
+Refreshing native plugins compatible for Editor in 9.43 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=1b34dffa8c04f4ee38a7a76bae06e991): Total: 0.335 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=323 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2703
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 8
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.074ms
+	Scan: 6.199ms
+	OnSourceAssetsModified: 0.019ms
+	CategorizeAssetsWithTransientArtifact: 0.004ms
+	ProcessAssetsWithTransientArtifactChanges: 0.029ms
+	CategorizeAssets: 9.485ms
+	ImportOutOfDateAssets: 303.062ms (-0.077ms without children)
+		ImportManagerImport: 302.424ms (0.366ms without children)
+			ImportInProcess: 302.047ms
+			UpdateCategorizedAssets: 0.011ms
+		ReloadNativeAssets: 0.019ms
+		UnloadImportedAssets: 0.107ms
+		ReloadImportedAssets: 0.196ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.249ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.142ms
+	PostProcessAllAssets: 0.687ms
+	Hotreload: 11.020ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.018ms
+	PersistCurrentRevisions: 0.114ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.694ms
+
+Start importing Assets/Optimization/V82/Material_0_Biplane.mat using Guid(5bcc90240c9574b6787973265bb2820b) (NativeFormatImporter) -> (artifact id: '5810459bcd9d2757b8b3e9e169741d31') in 0.000914959 seconds
+Refreshing native plugins compatible for Editor in 8.36 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.52 ms.
+Asset Pipeline Refresh (id=ece2cf8b88139405fa3278267dbd0af0): Total: 0.030 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/AssemblyWorkbench_V03_Hero.fbx using Guid(a22e5cd098ee3499aa8dc345f56f589c) (FBXImporter) -> (artifact id: '3799b520ef542aa555e642395a8586e9') in 0.099263417 seconds
+Refreshing native plugins compatible for Editor in 8.55 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=16731924c7b484aecaf7263f9819636e): Total: 0.142 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/AssemblyWorkbench_V03_Hero.fbx using Guid(a22e5cd098ee3499aa8dc345f56f589c) (FBXImporter) -> (artifact id: 'd9025c48d3d29459949c95e4d66a70a2') in 0.094963959 seconds
+Refreshing native plugins compatible for Editor in 8.76 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=952e9978ecf044ff5b05a01d02464af0): Total: 0.128 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/CurvedWorkshopStorage_Hero.fbx using Guid(61dcdf657e10c4490b7031a7fe42f31c) (FBXImporter) -> (artifact id: 'cfad413f08b8bdd7f0c7cf7bb9fd80a6') in 0.081920958 seconds
+Refreshing native plugins compatible for Editor in 9.03 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=ac3192701156840fb8115a40ca3ac7ee): Total: 0.117 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/CurvedWorkshopStorage_Hero.fbx using Guid(61dcdf657e10c4490b7031a7fe42f31c) (FBXImporter) -> (artifact id: '55a2fce82f1662f7dafcdbb388aed081') in 0.079366209 seconds
+Refreshing native plugins compatible for Editor in 8.88 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.50 ms.
+Asset Pipeline Refresh (id=ccae2cc3b3c204632b5fa8b715ffa566): Total: 0.114 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/ModelBuilder_Hero.fbx using Guid(eb87299366bbe4fad8f65db368f25627) (FBXImporter) -> (artifact id: 'db379ea8d388a3418057221fa4f22d92') in 0.072581833 seconds
+Refreshing native plugins compatible for Editor in 8.70 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.52 ms.
+Asset Pipeline Refresh (id=0f5466bb935514bffaba12e8efc728fa): Total: 0.107 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/ModelBuilder_Hero.fbx using Guid(eb87299366bbe4fad8f65db368f25627) (FBXImporter) -> (artifact id: '5535dc9aff1f528f92667318fe4cf662') in 0.069909375 seconds
+Refreshing native plugins compatible for Editor in 9.33 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=061eec0d51d9b4628bb29bfa10f3d861): Total: 0.104 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/ReferenceHand_L_20260715_V04.fbx using Guid(1965fc722c15f46549f750b8f490e05d) (FBXImporter) -> (artifact id: 'db506a26f65e2892ec9747682096ce00') in 0.01416175 seconds
+Refreshing native plugins compatible for Editor in 8.29 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.50 ms.
+Asset Pipeline Refresh (id=e8e4b10c1a14247ec9dc1f1587c6519f): Total: 0.045 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/ReferenceHand_L_20260715_V04.fbx using Guid(1965fc722c15f46549f750b8f490e05d) (FBXImporter) -> (artifact id: '8796805fa2cea5eee1d081a21b3adbca') in 0.013770958 seconds
+Refreshing native plugins compatible for Editor in 8.39 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 1.06 ms.
+Asset Pipeline Refresh (id=f3b8307f6f3c848258d9bc7cd3db031b): Total: 0.046 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/ReferenceHand_R_20260715_V04.fbx using Guid(1c69330ba16bf41029261f5bf99f2527) (FBXImporter) -> (artifact id: 'b0c597c7410a55e090e81fce84dd0d58') in 0.014082167 seconds
+Refreshing native plugins compatible for Editor in 8.60 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=c60f8058970424a5a9d8a77690022ceb): Total: 0.046 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/ReferenceHand_R_20260715_V04.fbx using Guid(1c69330ba16bf41029261f5bf99f2527) (FBXImporter) -> (artifact id: 'e6e561d4785cc1413f2cc1d9778303e4') in 0.01377475 seconds
+Refreshing native plugins compatible for Editor in 8.46 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=5768bbdb2dddc4618a32dd8cfca4652a): Total: 0.046 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/ReferenceLeftHandOpen_20260715_V04_R2_Hero.fbx using Guid(dcea4b3c7e3d645bd8268383ac7dfbaf) (FBXImporter) -> (artifact id: 'e736474eed312a7b033bd8c4710b9fce') in 0.140395375 seconds
+Refreshing native plugins compatible for Editor in 8.86 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=bc5b79a42f9e246898ca825c48e70cee): Total: 0.209 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/ReferenceLeftHandOpen_20260715_V04_R2_Hero.fbx using Guid(dcea4b3c7e3d645bd8268383ac7dfbaf) (FBXImporter) -> (artifact id: 'cbd000cbb60319b5e76e6681b1dd4f3d') in 0.138857375 seconds
+Refreshing native plugins compatible for Editor in 8.80 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.48 ms.
+Asset Pipeline Refresh (id=93f9c066198de4b478d7f9b3408c13e2): Total: 0.172 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/ShipwrightWorkbench_V03_Hero.fbx using Guid(b0f850d5745864e88a842e0b8230e992) (FBXImporter) -> (artifact id: '135104caf578caa20578fe1eae435670') in 0.103732583 seconds
+Refreshing native plugins compatible for Editor in 8.95 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.48 ms.
+Asset Pipeline Refresh (id=418e4511149d94ce18a5b9b934bf1da3): Total: 0.148 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/ShipwrightWorkbench_V03_Hero.fbx using Guid(b0f850d5745864e88a842e0b8230e992) (FBXImporter) -> (artifact id: '432535b38bc13dda6c5545d2b1e70061') in 0.109459208 seconds
+Refreshing native plugins compatible for Editor in 8.78 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.49 ms.
+Asset Pipeline Refresh (id=732accc3059104c5193139172e1a5c1e): Total: 0.143 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/WorkshopShip_Hero.fbx using Guid(93c301551421444f7876fbc818fde720) (FBXImporter) -> (artifact id: '567ff8665a76f09bf5ae2deabdbc5040') in 0.058121042 seconds
+Refreshing native plugins compatible for Editor in 8.69 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=4478da6e5a52a419f81c0a480b456290): Total: 0.092 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/WorkshopShip_Hero.fbx using Guid(93c301551421444f7876fbc818fde720) (FBXImporter) -> (artifact id: '7f1ae310dcf28699581d3eb9b908955f') in 0.056335875 seconds
+Refreshing native plugins compatible for Editor in 8.66 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.49 ms.
+Asset Pipeline Refresh (id=e77694b657cdb49048d414a999d0a5ae): Total: 0.089 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/WorkshopWallStorage_V03_Hero.fbx using Guid(84cdbfa14a1bd4c33bca048b5bf27657) (FBXImporter) -> (artifact id: 'd7e1e9bbd9b6c0c763e4917867b5ff09') in 0.123428709 seconds
+Refreshing native plugins compatible for Editor in 8.54 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.52 ms.
+Asset Pipeline Refresh (id=d7f9fdc1dfa104d52a8ae842dfcfac85): Total: 0.169 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/Generated3D/WorkshopWallStorage_V03_Hero.fbx using Guid(84cdbfa14a1bd4c33bca048b5bf27657) (FBXImporter) -> (artifact id: '62534bc9f44c12b5f93f1379b1418329') in 0.113370125 seconds
+Refreshing native plugins compatible for Editor in 8.70 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=7a5980fd4a75f453a9a2925ed34a5a2a): Total: 0.146 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/V05/Generated3D/MeshyPointingRightHand_20260716_V05.fbx using Guid(b7058d5bc7ecf43b8b336269b80fb239) (FBXImporter) -> (artifact id: '0c9a9e6048622ff7e6f70a261463d7e1') in 0.119787875 seconds
+Refreshing native plugins compatible for Editor in 9.01 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.52 ms.
+Asset Pipeline Refresh (id=556be80808f404131af29f120e19d37c): Total: 0.181 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Assets/Splash/V05/Generated3D/MeshyPointingRightHand_20260716_V05.fbx using Guid(b7058d5bc7ecf43b8b336269b80fb239) (FBXImporter) -> (artifact id: '522b654c797b646f2da9479691404d2c') in 0.116365209 seconds
+Refreshing native plugins compatible for Editor in 9.40 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=2f7c643494ad84a9c983ef18448c88af): Total: 0.151 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Optimization/V82/Fonts/NotoSansCJKsc-Subset.otf using Guid(edc068084079d464bac0fb565c8b1132) (TrueTypeFontImporter) -> (artifact id: '2c232323565555d19583dddd00814b7e') in 0.002547083 seconds
+Refreshing native plugins compatible for Editor in 8.85 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=7e97659b300e64378bd9b6c73288d104): Total: 0.024 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEditor.AssetDatabase:Refresh () (at /Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs:393)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:114)
+
+[/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs line 393]
+
+Start importing Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_CottageHint_20260910_V82_ResourceOptimization.unity using Guid(b03874eab48eb4b4ebdb5f655c1fe13a) (DefaultImporter) -> (artifact id: '060a7bb90dab1ad10162d4aeeebc6fce') in 0.001119083 seconds
+Start importing Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Eiffel_20260910_V82_ResourceOptimization.unity using Guid(f1369ce230d7f4e02b61af6563d3f614) (DefaultImporter) -> (artifact id: '89645b54f0de0d98e01512420590aedb') in 0.000817833 seconds
+Start importing Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Collection_20260910_V82_ResourceOptimization.unity using Guid(544898b6afeba4457a9bddbc6f2377b7) (DefaultImporter) -> (artifact id: '5a18f09ce81e9340416e0c67af0137e5') in 0.001064209 seconds
+Start importing Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Splash_20260910_V82_ResourceOptimization.unity using Guid(a5e91fc684b604191be73c66666f79d1) (DefaultImporter) -> (artifact id: '1167a31fc8a20af15512633b4c4e183b') in 0.000796583 seconds
+Start importing Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Pagoda_20260910_V82_ResourceOptimization.unity using Guid(66e1a801b85d4483b9cb420e7680cbdb) (DefaultImporter) -> (artifact id: '32e497d0e7363bb7ee2a6f094dbe0f8f') in 0.000930875 seconds
+Start importing Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Completion_20260910_V82_ResourceOptimization.unity using Guid(78359ef48f9b8411aadfa578ad735c4a) (DefaultImporter) -> (artifact id: '7163f8111bfb8217874f4c4f9eaa5006') in 0.001217875 seconds
+Start importing Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Bootstrap_20260910_V82_ResourceOptimization.unity using Guid(5979c676849c84f2bba70a0af1201b7c) (DefaultImporter) -> (artifact id: '1431a4a55cd738124cbe5059780aebef') in 0.000714584 seconds
+Start importing Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Windmill_20260910_V82_ResourceOptimization.unity using Guid(0c880f2807fd84280ad00d6efac3a752) (DefaultImporter) -> (artifact id: '5b9fa29a0606e34ed224a83300a1de7b') in 0.000908541 seconds
+Start importing Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Ship_20260910_V82_ResourceOptimization.unity using Guid(ac4993378624d4045a5fdb031c70f55b) (DefaultImporter) -> (artifact id: 'a98bd0939803d3150cbcfb7a869eb811') in 0.000714292 seconds
+Start importing Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Selection_20260910_V82_ResourceOptimization.unity using Guid(cd6aaca6a49da409f9d8f5c15a1b4b25) (DefaultImporter) -> (artifact id: '8da1dca8a8cf10f08a7d64df9a360df4') in 0.000702667 seconds
+Refreshing native plugins compatible for Editor in 8.51 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.52 ms.
+Asset Pipeline Refresh (id=7190e8715206d48eba9dc0852a74644b): Total: 0.474 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=10 (actual=10, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=462 ms
+		Asset DB Callback time: managed=0 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1711, non-scripts=2723
+		Asset File Changes: new=10, changed=10, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.065ms
+	Scan: 398.353ms
+	OnSourceAssetsModified: 0.046ms
+	CategorizeAssetsWithTransientArtifact: 0.010ms
+	ProcessAssetsWithTransientArtifactChanges: 0.018ms
+	CategorizeAssets: 9.432ms
+	ImportOutOfDateAssets: 49.472ms (38.031ms without children)
+		ImportManagerImport: 10.874ms (0.254ms without children)
+			ImportInProcess: 10.583ms
+			UpdateCategorizedAssets: 0.037ms
+		ReloadNativeAssets: 0.023ms
+		UnloadImportedAssets: 0.127ms
+		ReloadImportedAssets: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.271ms
+		InitializingProgressBar: 0.003ms
+		OnDemandSchedulerStart: 0.142ms
+	PostProcessAllAssets: 1.133ms
+	Hotreload: 10.020ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.076ms
+	UnloadStreamsBegin: 0.002ms
+	PersistCurrentRevisions: 0.158ms
+	UnloadStreamsEnd: 0.386ms
+	Untracked: 4.457ms
+
+Start importing ProjectSettings/EditorBuildSettings.asset using Guid(0000000000000000b000000000000000) (LibraryAssetImporter) -> (artifact id: '30da6479ecd2c9c8a9f33cf90445df8f') in 0.005401625 seconds
+Refreshing native plugins compatible for Editor in 7.70 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.46 ms.
+Asset Pipeline Refresh (id=1871665941e6e46fdb3562020b5721e6): Total: 0.033 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Bootstrap_20260910_V82_ResourceOptimization.unity'
+Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Bootstrap_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            11.538 ms
+	Integration:            136.326 ms
+	Integration of assets:  0.033 ms
+	Thread Wait Time:       0.010 ms
+	Total Operation Time:   147.908 ms
+Unloading 1365 unused Assets / (153.9 MB). Loaded Objects now: 7090.
+Memory consumption went from 0.92 GB to 0.77 GB.
+Total: 12.101125 ms (FindLiveObjects: 0.140458 ms CreateObjectMapping: 0.075333 ms MarkObjects: 7.737500 ms  DeleteObjects: 4.147375 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Bootstrap_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:119)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Splash_20260910_V82_ResourceOptimization.unity'
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Splash_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            9.758 ms
+	Integration:            139.235 ms
+	Integration of assets:  13.764 ms
+	Thread Wait Time:       -5.503 ms
+	Total Operation Time:   157.253 ms
+Unloading 142 unused Assets / (66.4 KB). Loaded Objects now: 8301.
+Memory consumption went from 266.2 MB to 266.1 MB.
+Total: 8.201500 ms (FindLiveObjects: 0.143541 ms CreateObjectMapping: 0.068750 ms MarkObjects: 7.753625 ms  DeleteObjects: 0.235417 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Splash_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:119)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Selection_20260910_V82_ResourceOptimization.unity'
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Selection_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            21.081 ms
+	Integration:            425.424 ms
+	Integration of assets:  1.340 ms
+	Thread Wait Time:       -1.190 ms
+	Total Operation Time:   446.655 ms
+Unloading 65 unused Assets / (1.1 MB). Loaded Objects now: 9666.
+Memory consumption went from 440.8 MB to 439.7 MB.
+Total: 8.120541 ms (FindLiveObjects: 0.173291 ms CreateObjectMapping: 0.082625 ms MarkObjects: 7.650000 ms  DeleteObjects: 0.214125 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Selection_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:119)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_CottageHint_20260910_V82_ResourceOptimization.unity'
+Unloading 79 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_CottageHint_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            22.847 ms
+	Integration:            135.209 ms
+	Integration of assets:  0.080 ms
+	Thread Wait Time:       -0.005 ms
+	Total Operation Time:   158.132 ms
+Unloading 234 unused Assets / (1.0 MB). Loaded Objects now: 8376.
+Memory consumption went from 439.4 MB to 438.4 MB.
+Total: 8.206792 ms (FindLiveObjects: 0.155125 ms CreateObjectMapping: 0.082250 ms MarkObjects: 7.444834 ms  DeleteObjects: 0.524417 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_CottageHint_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:119)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Ship_20260910_V82_ResourceOptimization.unity'
+Unloading 72 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Ship_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            8.451 ms
+	Integration:            183.554 ms
+	Integration of assets:  0.071 ms
+	Thread Wait Time:       0.004 ms
+	Total Operation Time:   192.081 ms
+Unloading 39 unused Assets / (266.8 KB). Loaded Objects now: 8093.
+Memory consumption went from 369.7 MB to 369.4 MB.
+Total: 7.952166 ms (FindLiveObjects: 0.133375 ms CreateObjectMapping: 0.061333 ms MarkObjects: 7.631750 ms  DeleteObjects: 0.125417 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Ship_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:119)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Eiffel_20260910_V82_ResourceOptimization.unity'
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Eiffel_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            7.816 ms
+	Integration:            123.928 ms
+	Integration of assets:  0.084 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   131.833 ms
+Unloading 48 unused Assets / (507.7 KB). Loaded Objects now: 8047.
+Memory consumption went from 365.2 MB to 364.7 MB.
+Total: 8.079333 ms (FindLiveObjects: 0.135541 ms CreateObjectMapping: 0.068667 ms MarkObjects: 7.647250 ms  DeleteObjects: 0.227667 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Eiffel_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:119)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Pagoda_20260910_V82_ResourceOptimization.unity'
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Pagoda_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            8.831 ms
+	Integration:            126.063 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   134.901 ms
+Unloading 22 unused Assets / (324.9 KB). Loaded Objects now: 8198.
+Memory consumption went from 289.5 MB to 289.2 MB.
+Total: 7.807167 ms (FindLiveObjects: 0.140833 ms CreateObjectMapping: 0.069167 ms MarkObjects: 7.520833 ms  DeleteObjects: 0.076209 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Pagoda_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:119)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Windmill_20260910_V82_ResourceOptimization.unity'
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Windmill_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            9.025 ms
+	Integration:            125.660 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.013 ms
+	Total Operation Time:   134.700 ms
+Unloading 11 unused Assets / (0.5 MB). Loaded Objects now: 8284.
+Memory consumption went from 289.5 MB to 288.9 MB.
+Total: 7.889667 ms (FindLiveObjects: 0.133833 ms CreateObjectMapping: 0.066125 ms MarkObjects: 7.630167 ms  DeleteObjects: 0.059208 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Windmill_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:119)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Completion_20260910_V82_ResourceOptimization.unity'
+Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Completion_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            17.262 ms
+	Integration:            257.078 ms
+	Integration of assets:  81.572 ms
+	Thread Wait Time:       -0.190 ms
+	Total Operation Time:   355.721 ms
+Unloading 36 unused Assets / (511.7 KB). Loaded Objects now: 9120.
+Memory consumption went from 0.52 GB to 0.52 GB.
+Total: 7.793709 ms (FindLiveObjects: 0.159583 ms CreateObjectMapping: 0.078084 ms MarkObjects: 7.394125 ms  DeleteObjects: 0.161417 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Completion_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:119)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Collection_20260910_V82_ResourceOptimization.unity'
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Collection_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            9.773 ms
+	Integration:            129.533 ms
+	Integration of assets:  0.849 ms
+	Thread Wait Time:       -0.763 ms
+	Total Operation Time:   139.392 ms
+Unloading 90 unused Assets / (1.1 MB). Loaded Objects now: 8256.
+Memory consumption went from 0.53 GB to 0.53 GB.
+Total: 7.907709 ms (FindLiveObjects: 0.156500 ms CreateObjectMapping: 0.068750 ms MarkObjects: 7.354750 ms  DeleteObjects: 0.327417 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Collection_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:119)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/GardenCottage_20260824_V02_ProviderSemanticReplacement.unity'
+Unloading 83 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/GardenCottage_20260824_V02_ProviderSemanticReplacement.unity'
+	Deserialize:            2.271 ms
+	Integration:            243.454 ms
+	Integration of assets:  0.010 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   245.741 ms
+Unloading 364 unused Assets / (1.5 MB). Loaded Objects now: 7122.
+Memory consumption went from 0.57 GB to 0.57 GB.
+Total: 8.236834 ms (FindLiveObjects: 0.119500 ms CreateObjectMapping: 0.068625 ms MarkObjects: 7.677209 ms  DeleteObjects: 0.371334 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/GardenCottage_20260824_V02_ProviderSemanticReplacement.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+ResourceOptimizationV82:Prepare () (at Assets/Editor/ResourceOptimizationV82.cs:119)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+InvalidOperationException: Missing scene references: 2
+  at LatestProjectTools.Validate () [0x002fa] in /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Editor/LatestProjectTools.cs:140 
+  at ResourceOptimizationV82.Prepare () [0x00783] in /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Editor/ResourceOptimizationV82.cs:119 
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 140)
+
+executeMethod method ResourceOptimizationV82.Prepare threw exception.
+[Package Manager] Server process was shutdown
+AcceleratorClientConnectionCallback - disconnected - :0
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      ALC ILPP context 1 is unloading

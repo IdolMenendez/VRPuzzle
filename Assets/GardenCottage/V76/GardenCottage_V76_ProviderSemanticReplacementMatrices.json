@@ -1,0 +1,407 @@
+{
+    "stage": "Garden Cottage V76 reviewed LocalRelief semantic replacement: rendered cardinal-yaw evidence selects the deterministic source frame for Part_06 and Part_07. Part_06 then alternates bounded uniform raster scale with GPU visible-envelope centre correction restricted to the true Part_02 facade tangent plus world up while retaining its actual-triangle facade coordinate. Part_07 remains frozen at its accepted strict multi-cell Part_01 contact solve. Part_08 retains its accepted source, rotation and uniform scale while a translation-only four-foot solve contacts a versioned rendered Part_01 lawn continuation that is independently required to overlap the immutable provider lawn across actual triangles. The Part_01 provider GLB bytes/root T×R×S remain frozen; all other unrelated roots remain frozen from V75.",
+    "transformConvention": "column-vector Unity local matrix; p_assembly = T * R * S * p_part",
+    "solverContract": "V76: one uniform T×R×S root per LocalRelief semantic. Part_06 uses a GPU visible-envelope objective constrained to facade tangent/up plus a Part_02 actual-triangle wall plane. Part_07 uses a GPU compound envelope plus strict actual Part_01 triangle-footprint coverage. Part_08 uses four independent physical feet, reference-envelope and fixed-door gates against one visible Part_01 child continuation; the continuation must broadly overlap the immutable provider lawn on actual triangles and remain a single connected Unity raster. Fallback support planes, non-uniform scale, invisible colliders and extra semantic roots are forbidden.",
+    "parts": [
+        {
+            "stage": "Garden Cottage V76 reviewed LocalRelief semantic replacement: rendered cardinal-yaw evidence selects the deterministic source frame for Part_06 and Part_07. Part_06 then alternates bounded uniform raster scale with GPU visible-envelope centre correction restricted to the true Part_02 facade tangent plus world up while retaining its actual-triangle facade coordinate. Part_07 remains frozen at its accepted strict multi-cell Part_01 contact solve. Part_08 retains its accepted source, rotation and uniform scale while a translation-only four-foot solve contacts a versioned rendered Part_01 lawn continuation that is independently required to overlap the immutable provider lawn across actual triangles. The Part_01 provider GLB bytes/root T×R×S remain frozen; all other unrelated roots remain frozen from V75.",
+            "semanticPart": "Part_01 · GardenFoundation · V48 ultra-elongated direct GLB · V49 independently generated",
+            "sourceAsset": "Assets/GardenCottage/V48/Parts3D/GardenCottage_Part_01_UltraElongatedGardenFoundation_V48_Tripo_ReferenceEnvelope_Hero.glb",
+            "solveMethod": "Immutable Part_01 provider GLB/root T×R×S retained from V75; one versioned rendered grass/clay child extends the support footprint, with provider-only actual-triangle overlap and a connected joint Unity-raster gate",
+            "materialBinding": "Assets/GardenCottage/V48/Parts3D/GardenCottage_Part_01_UltraElongatedGardenFoundation_V48_Tripo_ReferenceEnvelope_Hero.glb | Assets/GardenCottage/V76/Materials/M_GardenCottage_V76_BenchClayBaseExtension.mat | Assets/GardenCottage/V76/Materials/M_GardenCottage_V76_BenchGrassExtension.mat",
+            "translation": {
+                "x": -0.4841914176940918,
+                "y": -0.23643887042999268,
+                "z": -0.34234845638275149
+            },
+            "rotationEuler": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "localScale": {
+                "x": 6.147834777832031,
+                "y": 2.9275405406951906,
+                "z": 2.9275405406951906
+            },
+            "trsRowMajor": [
+                -7.328790161409415e-7,
+                0.0,
+                -2.9275407791137697,
+                -0.4841914176940918,
+                0.0,
+                2.9275405406951906,
+                0.0,
+                -0.23643887042999268,
+                6.147835731506348,
+                0.0,
+                -3.4899002798738368e-7,
+                -0.34234845638275149,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "stage": "Garden Cottage V76 reviewed LocalRelief semantic replacement: rendered cardinal-yaw evidence selects the deterministic source frame for Part_06 and Part_07. Part_06 then alternates bounded uniform raster scale with GPU visible-envelope centre correction restricted to the true Part_02 facade tangent plus world up while retaining its actual-triangle facade coordinate. Part_07 remains frozen at its accepted strict multi-cell Part_01 contact solve. Part_08 retains its accepted source, rotation and uniform scale while a translation-only four-foot solve contacts a versioned rendered Part_01 lawn continuation that is independently required to overlap the immutable provider lawn across actual triangles. The Part_01 provider GLB bytes/root T×R×S remain frozen; all other unrelated roots remain frozen from V75.",
+            "semanticPart": "Part_02 · StorefrontCore · V72 shallow-threshold semantic replacement direct GLB · V72 shallow storefront seed independently generated",
+            "sourceAsset": "Assets/GardenCottage/V72/Parts3D/GardenCottage_Part_02_ShallowStorefrontCore_V72_Tripo_SemanticReplacement_Hero.glb",
+            "solveMethod": "Retained V09 direct-GLB HouseCore pose selected by rendered gable audit",
+            "materialBinding": "Assets/GardenCottage/V72/Parts3D/GardenCottage_Part_02_ShallowStorefrontCore_V72_Tripo_SemanticReplacement_Hero.glb",
+            "translation": {
+                "x": 0.20697639882564546,
+                "y": 0.7637268304824829,
+                "z": -0.3247852325439453
+            },
+            "rotationEuler": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "localScale": {
+                "x": 1.930537462234497,
+                "y": 1.930537462234497,
+                "z": 1.930537462234497
+            },
+            "trsRowMajor": [
+                -2.3013799932414259e-7,
+                0.0,
+                -1.9305377006530762,
+                0.20697639882564546,
+                0.0,
+                1.930537462234497,
+                0.0,
+                0.7637268304824829,
+                1.9305377006530762,
+                0.0,
+                -2.3013799932414259e-7,
+                -0.3247852325439453,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "stage": "Garden Cottage V76 reviewed LocalRelief semantic replacement: rendered cardinal-yaw evidence selects the deterministic source frame for Part_06 and Part_07. Part_06 then alternates bounded uniform raster scale with GPU visible-envelope centre correction restricted to the true Part_02 facade tangent plus world up while retaining its actual-triangle facade coordinate. Part_07 remains frozen at its accepted strict multi-cell Part_01 contact solve. Part_08 retains its accepted source, rotation and uniform scale while a translation-only four-foot solve contacts a versioned rendered Part_01 lawn continuation that is independently required to overlap the immutable provider lawn across actual triangles. The Part_01 provider GLB bytes/root T×R×S remain frozen; all other unrelated roots remain frozen from V75.",
+            "semanticPart": "Part_04 · FlowerShopPorch · original GLB · V09 independently generated",
+            "sourceAsset": "Assets/GardenCottage/V01/Parts3D/GardenCottage_Part_04_FlowerShopPorch_V01_Tripo_Hero.glb",
+            "solveMethod": "Retained V09 direct-GLB HouseCore pose selected by rendered gable audit",
+            "materialBinding": "Assets/GardenCottage/V01/Parts3D/GardenCottage_Part_04_FlowerShopPorch_V01_Tripo_Hero.glb",
+            "translation": {
+                "x": 0.21433646976947785,
+                "y": 0.19813524186611176,
+                "z": -0.34067413210868838
+            },
+            "rotationEuler": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "localScale": {
+                "x": 0.7993611693382263,
+                "y": 0.7993611693382263,
+                "z": 0.7993611693382263
+            },
+            "trsRowMajor": [
+                -9.52912770912917e-8,
+                0.0,
+                -0.7993612885475159,
+                0.21433646976947785,
+                0.0,
+                0.7993611693382263,
+                0.0,
+                0.19813524186611176,
+                0.7993612885475159,
+                0.0,
+                -9.52912770912917e-8,
+                -0.34067413210868838,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "stage": "Garden Cottage V76 reviewed LocalRelief semantic replacement: rendered cardinal-yaw evidence selects the deterministic source frame for Part_06 and Part_07. Part_06 then alternates bounded uniform raster scale with GPU visible-envelope centre correction restricted to the true Part_02 facade tangent plus world up while retaining its actual-triangle facade coordinate. Part_07 remains frozen at its accepted strict multi-cell Part_01 contact solve. Part_08 retains its accepted source, rotation and uniform scale while a translation-only four-foot solve contacts a versioned rendered Part_01 lawn continuation that is independently required to overlap the immutable provider lawn across actual triangles. The Part_01 provider GLB bytes/root T×R×S remain frozen; all other unrelated roots remain frozen from V75.",
+            "semanticPart": "Part_05 · Tree · V41 broad root-connected direct GLB · V42 independently generated",
+            "sourceAsset": "Assets/GardenCottage/V41/Parts3D/GardenCottage_Part_05_BroadTree_V41_Tripo_SemanticBoundary_Hero.glb",
+            "solveMethod": "Retained V09 direct-GLB HouseCore pose selected by rendered gable audit",
+            "materialBinding": "Assets/GardenCottage/V41/Parts3D/GardenCottage_Part_05_BroadTree_V41_Tripo_SemanticBoundary_Hero.glb",
+            "translation": {
+                "x": -0.0900372713804245,
+                "y": 0.8185899257659912,
+                "z": 0.9456144571304321
+            },
+            "rotationEuler": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "localScale": {
+                "x": 2.0403783321380617,
+                "y": 2.0403783321380617,
+                "z": 2.0403783321380617
+            },
+            "trsRowMajor": [
+                2.0403783321380617,
+                0.0,
+                0.0,
+                -0.0900372713804245,
+                0.0,
+                2.0403783321380617,
+                0.0,
+                0.8185899257659912,
+                0.0,
+                0.0,
+                2.0403783321380617,
+                0.9456144571304321,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "stage": "Garden Cottage V76 reviewed LocalRelief semantic replacement: rendered cardinal-yaw evidence selects the deterministic source frame for Part_06 and Part_07. Part_06 then alternates bounded uniform raster scale with GPU visible-envelope centre correction restricted to the true Part_02 facade tangent plus world up while retaining its actual-triangle facade coordinate. Part_07 remains frozen at its accepted strict multi-cell Part_01 contact solve. Part_08 retains its accepted source, rotation and uniform scale while a translation-only four-foot solve contacts a versioned rendered Part_01 lawn continuation that is independently required to overlap the immutable provider lawn across actual triangles. The Part_01 provider GLB bytes/root T×R×S remain frozen; all other unrelated roots remain frozen from V75.",
+            "semanticPart": "Part_06 · CurvedFloweringVine · V76 deterministic LocalRelief direct GLB · V76 provider-replacement audit seed independently generated",
+            "sourceAsset": "Assets/GardenCottage/V76/Parts3D/DerivedLocalRelief/GardenCottage_Part_06_CurvedFloweringVine_V76_LocalReliefFallback_Hero.glb",
+            "solveMethod": "Facade-visible-envelope solve: GPU reference envelope (x:1008.00, y:368.00, width:171.00, height:534.00); translation constrained to facade tangent plus world up; mesh wall-side coordinate retained; uniform scale bounded by raster ratio",
+            "materialBinding": "Assets/GardenCottage/V76/Parts3D/DerivedLocalRelief/GardenCottage_Part_06_CurvedFloweringVine_V76_LocalReliefFallback_Hero.glb",
+            "translation": {
+                "x": 0.7567715048789978,
+                "y": -0.02561246231198311,
+                "z": -0.7505475878715515
+            },
+            "rotationEuler": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "localScale": {
+                "x": 1.6334894895553589,
+                "y": 1.6334894895553589,
+                "z": 1.6334894895553589
+            },
+            "trsRowMajor": [
+                -1.6334894895553589,
+                0.0,
+                -1.428041827011839e-7,
+                0.7567715048789978,
+                0.0,
+                1.6334894895553589,
+                0.0,
+                -0.02561246231198311,
+                1.428041827011839e-7,
+                0.0,
+                -1.6334894895553589,
+                -0.7505475878715515,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "stage": "Garden Cottage V76 reviewed LocalRelief semantic replacement: rendered cardinal-yaw evidence selects the deterministic source frame for Part_06 and Part_07. Part_06 then alternates bounded uniform raster scale with GPU visible-envelope centre correction restricted to the true Part_02 facade tangent plus world up while retaining its actual-triangle facade coordinate. Part_07 remains frozen at its accepted strict multi-cell Part_01 contact solve. Part_08 retains its accepted source, rotation and uniform scale while a translation-only four-foot solve contacts a versioned rendered Part_01 lawn continuation that is independently required to overlap the immutable provider lawn across actual triangles. The Part_01 provider GLB bytes/root T×R×S remain frozen; all other unrelated roots remain frozen from V75.",
+            "semanticPart": "Part_07 · SignFenceFlowerbed · V76 deterministic LocalRelief direct GLB · V76 provider-replacement audit seed independently generated",
+            "sourceAsset": "Assets/GardenCottage/V76/Parts3D/DerivedLocalRelief/GardenCottage_Part_07_SignFenceFlowerbed_V76_LocalReliefFallback_Hero.glb",
+            "solveMethod": "Visible-envelope semantic solve: reference envelope (x:80.00, y:625.00, width:420.00, height:635.00); physical support grounded independently; uniform scale bounded by raster ratio",
+            "materialBinding": "Assets/GardenCottage/V76/Parts3D/DerivedLocalRelief/GardenCottage_Part_07_SignFenceFlowerbed_V76_LocalReliefFallback_Hero.glb",
+            "translation": {
+                "x": -1.6193656921386719,
+                "y": -0.19534966349601746,
+                "z": -1.1007742881774903
+            },
+            "rotationEuler": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "localScale": {
+                "x": 1.3344546556472779,
+                "y": 1.3344546556472779,
+                "z": 1.3344546556472779
+            },
+            "trsRowMajor": [
+                -1.3344546556472779,
+                0.0,
+                -1.1666173094226906e-7,
+                -1.6193656921386719,
+                0.0,
+                1.3344546556472779,
+                0.0,
+                -0.19534966349601746,
+                1.1666173094226906e-7,
+                0.0,
+                -1.3344546556472779,
+                -1.1007742881774903,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "stage": "Garden Cottage V76 reviewed LocalRelief semantic replacement: rendered cardinal-yaw evidence selects the deterministic source frame for Part_06 and Part_07. Part_06 then alternates bounded uniform raster scale with GPU visible-envelope centre correction restricted to the true Part_02 facade tangent plus world up while retaining its actual-triangle facade coordinate. Part_07 remains frozen at its accepted strict multi-cell Part_01 contact solve. Part_08 retains its accepted source, rotation and uniform scale while a translation-only four-foot solve contacts a versioned rendered Part_01 lawn continuation that is independently required to overlap the immutable provider lawn across actual triangles. The Part_01 provider GLB bytes/root T×R×S remain frozen; all other unrelated roots remain frozen from V75.",
+            "semanticPart": "Part_08 · PottingBench · V57 compact reference-envelope direct GLB · V58 compact semantic source independently generated",
+            "sourceAsset": "Assets/GardenCottage/V57/Parts3D/GardenCottage_Part_08_CompactPottingBench_V57_Tripo_ReferenceEnvelope_Hero.glb",
+            "solveMethod": "Translation-only four-foot solve: 4/4 actual composite Part_01 triangle contacts, fixed-door zero-occlusion probes and GPU reference envelope; source rotation and uniform scale frozen",
+            "materialBinding": "Assets/GardenCottage/V57/Parts3D/GardenCottage_Part_08_CompactPottingBench_V57_Tripo_ReferenceEnvelope_Hero.glb",
+            "translation": {
+                "x": 0.9294592142105103,
+                "y": 0.10715299844741821,
+                "z": -1.1789246797561646
+            },
+            "rotationEuler": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "localScale": {
+                "x": 0.7165483832359314,
+                "y": 0.7165483832359314,
+                "z": 0.7165483832359314
+            },
+            "trsRowMajor": [
+                0.7165483832359314,
+                0.0,
+                0.0,
+                0.9294592142105103,
+                0.0,
+                0.7165483832359314,
+                0.0,
+                0.10715299844741821,
+                0.0,
+                0.0,
+                0.7165483832359314,
+                -1.1789246797561646,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "stage": "Garden Cottage V76 reviewed LocalRelief semantic replacement: rendered cardinal-yaw evidence selects the deterministic source frame for Part_06 and Part_07. Part_06 then alternates bounded uniform raster scale with GPU visible-envelope centre correction restricted to the true Part_02 facade tangent plus world up while retaining its actual-triangle facade coordinate. Part_07 remains frozen at its accepted strict multi-cell Part_01 contact solve. Part_08 retains its accepted source, rotation and uniform scale while a translation-only four-foot solve contacts a versioned rendered Part_01 lawn continuation that is independently required to overlap the immutable provider lawn across actual triangles. The Part_01 provider GLB bytes/root T×R×S remain frozen; all other unrelated roots remain frozen from V75.",
+            "semanticPart": "Part_09 · Mailbox · V16 direct GLB · V16 independently generated",
+            "sourceAsset": "Assets/GardenCottage/V16/Parts3D/GardenCottage_Part_09_Mailbox_V16_Tripo_Hero.glb",
+            "solveMethod": "Retained V09 direct-GLB HouseCore pose selected by rendered gable audit",
+            "materialBinding": "Assets/GardenCottage/V16/Parts3D/GardenCottage_Part_09_Mailbox_V16_Tripo_Hero.glb",
+            "translation": {
+                "x": -1.1319762468338013,
+                "y": 0.031989358365535739,
+                "z": -1.2393020391464234
+            },
+            "rotationEuler": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "localScale": {
+                "x": 0.46690818667411806,
+                "y": 0.46690818667411806,
+                "z": 0.46690818667411806
+            },
+            "trsRowMajor": [
+                -5.565979321886516e-8,
+                0.0,
+                -0.4669082462787628,
+                -1.1319762468338013,
+                0.0,
+                0.46690818667411806,
+                0.0,
+                0.031989358365535739,
+                0.4669082462787628,
+                0.0,
+                -5.565979321886516e-8,
+                -1.2393020391464234,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "stage": "Garden Cottage V76 reviewed LocalRelief semantic replacement: rendered cardinal-yaw evidence selects the deterministic source frame for Part_06 and Part_07. Part_06 then alternates bounded uniform raster scale with GPU visible-envelope centre correction restricted to the true Part_02 facade tangent plus world up while retaining its actual-triangle facade coordinate. Part_07 remains frozen at its accepted strict multi-cell Part_01 contact solve. Part_08 retains its accepted source, rotation and uniform scale while a translation-only four-foot solve contacts a versioned rendered Part_01 lawn continuation that is independently required to overlap the immutable provider lawn across actual triangles. The Part_01 provider GLB bytes/root T×R×S remain frozen; all other unrelated roots remain frozen from V75.",
+            "semanticPart": "Part_10 · Chalkboard · V05 native direct GLB restored for V75 orientation audit · V75 direct-GLB audit seed independently generated",
+            "sourceAsset": "Assets/GardenCottage/V75/Parts3D/GardenCottage_Part_10_Chalkboard_V75_Tripo_Direct.glb",
+            "solveMethod": "Retained V09 direct-GLB HouseCore pose selected by rendered gable audit",
+            "materialBinding": "Assets/GardenCottage/V75/Materials/M_GardenCottage_V75_ChalkboardReferenceDecal.mat | Assets/GardenCottage/V75/Parts3D/GardenCottage_Part_10_Chalkboard_V75_Tripo_Direct.glb",
+            "translation": {
+                "x": -0.5489352345466614,
+                "y": -0.01572597026824951,
+                "z": -1.48007071018219
+            },
+            "rotationEuler": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "localScale": {
+                "x": 0.3717464804649353,
+                "y": 0.3717464804649353,
+                "z": 0.3717464804649353
+            },
+            "trsRowMajor": [
+                -4.431563382922832e-8,
+                0.0,
+                -0.3717465102672577,
+                -0.5489352345466614,
+                0.0,
+                0.3717464804649353,
+                0.0,
+                -0.01572597026824951,
+                0.3717465102672577,
+                0.0,
+                -4.431563382922832e-8,
+                -1.48007071018219,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "stage": "Garden Cottage V76 reviewed LocalRelief semantic replacement: rendered cardinal-yaw evidence selects the deterministic source frame for Part_06 and Part_07. Part_06 then alternates bounded uniform raster scale with GPU visible-envelope centre correction restricted to the true Part_02 facade tangent plus world up while retaining its actual-triangle facade coordinate. Part_07 remains frozen at its accepted strict multi-cell Part_01 contact solve. Part_08 retains its accepted source, rotation and uniform scale while a translation-only four-foot solve contacts a versioned rendered Part_01 lawn continuation that is independently required to overlap the immutable provider lawn across actual triangles. The Part_01 provider GLB bytes/root T×R×S remain frozen; all other unrelated roots remain frozen from V75.",
+            "semanticPart": "Part_11 · ToolBasket · V16 direct GLB · V16 independently generated",
+            "sourceAsset": "Assets/GardenCottage/V16/Parts3D/GardenCottage_Part_11_ToolBasket_V16_Tripo_Hero.glb",
+            "solveMethod": "Retained V09 direct-GLB HouseCore pose selected by rendered gable audit",
+            "materialBinding": "Assets/GardenCottage/V16/Parts3D/GardenCottage_Part_11_ToolBasket_V16_Tripo_Hero.glb",
+            "translation": {
+                "x": -0.581292450428009,
+                "y": 0.026869282126426698,
+                "z": -0.7160061597824097
+            },
+            "rotationEuler": {
+                "x": 0.0,
+                "y": 270.0,
+                "z": 0.0
+            },
+            "localScale": {
+                "x": 0.4577988386154175,
+                "y": 0.4577988386154175,
+                "z": 0.4577988386154175
+            },
+            "trsRowMajor": [
+                -5.457387430851668e-8,
+                0.0,
+                -0.45779889822006228,
+                -0.581292450428009,
+                0.0,
+                0.4577988386154175,
+                0.0,
+                0.026869282126426698,
+                0.45779889822006228,
+                0.0,
+                -5.457387430851668e-8,
+                -0.7160061597824097,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        }
+    ]
+}

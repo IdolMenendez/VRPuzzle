@@ -1,0 +1,1478 @@
+Unity Editor version:    6000.0.77f1 (88f89d0d8b31)
+Branch:                  6000.0/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 26.0.1 (Build 25A362)
+Darwin version:          25.0.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        32768 MB
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-bytedance" at "2026-08-07T07:56:32.494541Z"
+Launching external process: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/PackageManager/Server/UnityPackageManager
+
+COMMAND LINE ARGUMENTS:
+/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MacOS/Unity
+-batchmode
+-nographics
+-projectPath
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+-executeMethod
+ZeroLatencyAssemblyV80Builder.RunFocusedSmoke
+-logFile
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/93_ZeroLatencyAssembly_V80_20260807/V80_FOCUSED_PLAYMODE_SMOKE.log
+Successfully changed project path to: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8399767552]  Target information:
+
+Player connection [8399767552]  * "[IP] 10.79.227.39 [Port] 55504 [Flags] 2 [Guid] 2383431805 [EditorId] 2383431805 [Version] 1048832 [Id] OSXEditor(0,LCXWKGF7G9) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8399767552] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8399767552] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              f44996582cb241ec9a05c6e31f463beb
+  Correlation Id:          7ba11a785c8d33fa07a808b207e121bb
+  External correlation Id: 9189042715155795785
+  Machine Id:              dO+TnD1+POWlYX1lWH0Vk58fOBw=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-bytedance" (connect: 0.00s, validation: 0.00s, handshake: 0.38s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-bytedance-notifications" at "2026-08-07T07:56:32.878658Z"
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-DVYR-N3BA-3EDN-4273-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: ewogICJzdWJzR3JvdXAiIDogInVuaXR5IGVkaXRvciIsCiAgIm5hbWVzcGFjZSIgOiAidW5pdHlfZWRpdG9yIiwKICAidHlwZSIgOiAiRURJVE9SIiwKICAidGFnIiA6ICJVbml0eVBlcnNvbmFsXXXX
+  Product: Unity Personal Version
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-DVYR-N3BA-3EDN-4273-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: ewogICJzdWJzR3JvdXAiIDogInVuaXR5IGVkaXRvciIsCiAgIm5hbWVzcGFjZSIgOiAidW5pdHlfZWRpdG9yIiwKICAidHlwZSIgOiAiRURJVE9SIiwKICAidGFnIiA6ICJVbml0eVBlcnNvbmFsXXXX
+  Product: Unity Personal Version
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Module] Licensing Background thread has ended after 0.39s
+[Package Manager] Connected to IPC stream "Upm-21146" after 1.0 seconds.
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-DVYR-N3BA-3EDN-4273-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: ewogICJzdWJzR3JvdXAiIDogInVuaXR5IGVkaXRvciIsCiAgIm5hbWVzcGFjZSIgOiAidW5pdHlfZWRpdG9yIiwKICAidHlwZSIgOiAiRURJVE9SIiwKICAidGFnIiA6ICJVbml0eVBlcnNvbmFsXXXX
+  Product: Unity Personal Version
+  Type: Assigned
+  Expiration: Unlimited
+Refreshing native plugins compatible for Editor in 19.35 ms, found 6 plugins.
+Preloading 3 native plugins for Editor in 22.87 ms.
+Initialize engine version: 6000.0.77f1 (88f89d0d8b31)
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets
+Forcing GfxDevice: Null
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Initialize mono
+Mono path[0] = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56146
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.003369 seconds.
+- Loaded All Assemblies, in  0.383 seconds
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.277 seconds
+Domain Reload Profiling: 660ms
+	BeginReloadAssembly (166ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (136ms)
+		LoadAssemblies (168ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (130ms)
+			TypeCache.Refresh (129ms)
+				TypeCache.ScanAssembly (114ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (277ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (252ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (61ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (43ms)
+			ProcessInitializeOnLoadAttributes (100ms)
+			ProcessInitializeOnLoadMethodAttributes (46ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-DVYR-N3BA-3EDN-4273-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: ewogICJzdWJzR3JvdXAiIDogInVuaXR5IGVkaXRvciIsCiAgIm5hbWVzcGFjZSIgOiAidW5pdHlfZWRpdG9yIiwKICAidHlwZSIgOiAiRURJVE9SIiwKICAidGFnIiA6ICJVbml0eVBlcnNvbmFsXXXX
+  Product: Unity Personal Version
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-DVYR-N3BA-3EDN-4273-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: ewogICJzdWJzR3JvdXAiIDogInVuaXR5IGVkaXRvciIsCiAgIm5hbWVzcGFjZSIgOiAidW5pdHlfZWRpdG9yIiwKICAidHlwZSIgOiAiRURJVE9SIiwKICAidGFnIiA6ICJVbml0eVBlcnNvbmFsXXXX
+  Product: Unity Personal Version
+  Type: Assigned
+  Expiration: Unlimited
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 52 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.xr.arfoundation@6.0.5 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1)
+    com.unity.xr.compositionlayers@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.compositionlayers@fc89f0bd9eb1)
+    com.unity.xr.hands@1.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.hands@b137b9cef9d8)
+    com.unity.xr.management@4.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.management@3126858600e6)
+    com.unity.xr.openxr@1.13.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd)
+    com.unity.xr.interaction.toolkit@3.0.7 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.interaction.toolkit@3c62ab08b942)
+    com.unity.inputsystem@1.11.2 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.inputsystem@3c4a97c3950f)
+    com.unity.scriptablebuildpipeline@1.20.1 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.scriptablebuildpipeline@51d0ffeee857)
+    com.unity.ide.rider@3.0.34 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ide.rider@ecbf706690e5)
+    com.unity.mathematics@1.3.2 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.mathematics@8017b507cc74)
+    com.unity.xr.core-utils@2.6.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.core-utils@a8b900321199)
+    com.unity.xr.legacyinputhelpers@2.1.12 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.legacyinputhelpers@b7579e86f3b4)
+    com.unity.editorcoroutines@1.1.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.editorcoroutines@87a15ed012c2)
+    com.unity.searcher@4.9.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.searcher@1e17ce91558d)
+    com.unity.burst@1.8.29 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.burst@6bb9aca3ef38)
+    com.unity.collections@2.6.7 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.collections@31e963071226)
+    com.unity.nuget.mono-cecil@1.11.6 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff)
+    com.unity.test-framework.performance@3.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.test-framework.performance@8b56083ec0f0)
+  Built-in packages:
+    com.unity.render-pipelines.universal@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.universal@f53585c49405)
+    com.unity.textmeshpro@5.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.textmeshpro@53f43edfd2e0)
+    com.unity.modules.androidjni@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.androidjni)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.jsonserialize)
+    com.unity.modules.unityanalytics@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unityanalytics)
+    com.unity.modules.ai@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.ai)
+    com.unity.modules.animation@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.audio)
+    com.unity.modules.imageconversion@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.imgui)
+    com.unity.modules.particlesystem@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.physics)
+    com.unity.modules.screencapture@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.terrain)
+    com.unity.modules.ui@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.umbra)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.video@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.video)
+    com.unity.modules.vr@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.vr)
+    com.unity.modules.xr@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.hierarchycore)
+    com.unity.ext.nunit@2.0.5 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ext.nunit@031a54704bff)
+    com.unity.ugui@2.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ugui@92256ab62536)
+    com.unity.render-pipelines.core@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.core@f127f5fd8324)
+    com.unity.shadergraph@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.shadergraph@fe106b49deb4)
+    com.unity.render-pipelines.universal-config@17.0.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.universal-config@dd206bf35d04)
+    com.unity.rendering.light-transport@1.0.1 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.rendering.light-transport@9bd588f963c0)
+    com.unity.test-framework@1.6.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.test-framework@082c24152fd4)
+  Embedded packages:
+    com.bytedance.pico.xr@file:/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr)
+[Package Manager] com.unity.textmeshpro is deprecated: This package is no longer supported. TextMeshPro functionalities are now included in the com.unity.ugui package. To continue using them, consider adding it to your project dependencies.
+[Subsystems] Looking for new subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr
+[Subsystems] Novel subsystem found at Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr
+[Subsystems] No descriptors matched for  examples in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'meshings' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  examples in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  displays in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  displays in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  meshings in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json.
+[Package Manager] Done registering packages in 0.04 seconds
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://unix:/tmp/ilpp.sock-5753aa6841acce6ec0f178d3d44a5ca9
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Content root path: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc - - 200 - application/grpc 45.9499ms
+Starting: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/1300b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+DisplayProgressbar: Compiling Scripts
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+[40m[1m[33mwarn[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+[40m[1m[33mwarn[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll" in favor of "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Burst.Cecil, Version=0.11.6.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.burst@6bb9aca3ef38/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Mono.Cecil, Version=0.11.5.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/Mono.Cecil.dll
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc - - 200 - application/grpc 31.7769ms
+ExitCode: 0 Duration: 0s450ms
+[ 785/1053  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+*** Tundra build success (0.43 seconds), 1 items updated, 1053 evaluated
+AssetDatabase: script compilation time: 1.102154s
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.919 seconds
+'Packages/com.unity.xr.openxr/Runtime/OpenXRLoaderInternal.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.xr.openxr/Runtime/OpenXRLoader.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Refreshing native plugins compatible for Editor in 18.95 ms, found 15 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 27.28 ms, found 15 plugins.
+PXRLog [Build Check]RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+ByteDance.PICO.XR.Editor.PXR_SDKBuildCheck:.cctor () (at ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs Line: 31)
+
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.071 seconds
+Domain Reload Profiling: 3990ms
+	BeginReloadAssembly (235ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (123ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (630ms)
+		LoadAssemblies (566ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (150ms)
+			TypeCache.Refresh (107ms)
+				TypeCache.ScanAssembly (94ms)
+			BuildScriptInfoCaches (31ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (3072ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2934ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (97ms)
+			ProcessInitializeOnLoadAttributes (2578ms)
+			ProcessInitializeOnLoadMethodAttributes (237ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Asset Pipeline Refresh (id=1efce5e938efc42a9bcab5ee700bc032): Total: 7.800 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=5670 ms
+		Asset DB Callback time: managed=26 ms, native=44 ms
+		Scripting: domain reloads=1, domain reload time=919 ms, compile time=1103 ms, other=35 ms
+		Project Asset Count: scripts=1880, non-scripts=5682
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 48.681ms
+	ApplyChangesToAssetFolders: 0.213ms
+	Scan: 2172.070ms
+	OnSourceAssetsModified: 0.001ms
+	CategorizeAssetsWithTransientArtifact: 49.553ms
+	ProcessAssetsWithTransientArtifactChanges: 55.498ms
+	CategorizeAssets: 115.281ms
+	ImportOutOfDateAssets: 3113.710ms (2007.938ms without children)
+		CompileScripts: 1103.195ms
+		ReloadNativeAssets: 0.024ms
+		UnloadImportedAssets: 0.895ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.982ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.676ms
+	PostProcessAllAssets: 26.386ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.000ms
+	UnloadStreamsBegin: 0.534ms
+	PersistCurrentRevisions: 0.179ms
+	UnloadStreamsEnd: 0.001ms
+	GenerateScriptTypeHashes: 23.638ms
+	Untracked: 2217.901ms
+
+Application.AssetDatabase Initial Refresh End
+Scanning for USB devices : 0.040ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Personally Puzzled XR
+Unloading 61 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5917 unused Assets / (4.2 MB). Loaded Objects now: 6593.
+Memory consumption went from 234.6 MB to 230.4 MB.
+Total: 29.366375 ms (FindLiveObjects: 0.404667 ms CreateObjectMapping: 1.408958 ms MarkObjects: 18.735750 ms  DeleteObjects: 8.816417 ms)
+
+Refreshing native plugins compatible for Editor in 19.53 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.87 ms.
+Asset Pipeline Refresh (id=012d96ab56f3448f8a4af4523395cf3a): Total: 0.271 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=bd646ca9125924711a5c5bc9eda0033f): Total: 0.009 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/RuntimeGame/V80_ZeroLatencyAssembly/PersonallyPuzzled_URP_V80.asset using Guid(0be5669392ddb4fa3b8b9c273612af92) (NativeFormatImporter) -> (artifact id: '10c3db3d5669997eb6e4813e9d386084') in 0.019331792 seconds
+Refreshing native plugins compatible for Editor in 27.01 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 1.42 ms.
+Asset Pipeline Refresh (id=2cf57364e71a246488f7e2abaccffbeb): Total: 0.100 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/RuntimeGame/V80_ZeroLatencyAssembly/PersonallyPuzzled_URP_V80.asset using Guid(0be5669392ddb4fa3b8b9c273612af92) (NativeFormatImporter)Main Object Name 'PersonallyPuzzled_URP_V80_ZeroLatency' does not match filename 'PersonallyPuzzled_URP_V80'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+ZeroLatencyAssemblyV80Builder:BuildOptimizedPipeline () (at Assets/Editor/ZeroLatencyAssemblyV80Builder.cs:306)
+ZeroLatencyAssemblyV80Builder:Prepare () (at Assets/Editor/ZeroLatencyAssemblyV80Builder.cs:255)
+ZeroLatencyAssemblyV80Builder:RunFocusedSmoke () (at Assets/Editor/ZeroLatencyAssemblyV80Builder.cs:154)
+
+[Assets/Editor/ZeroLatencyAssemblyV80Builder.cs line 306]
+
+ -> (artifact id: '882f0eac8c5fad1c95719de1b775b370') in 0.006813125 seconds
+Refreshing native plugins compatible for Editor in 19.82 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.87 ms.
+Asset Pipeline Refresh (id=56a11e3710f0b49a78978625277b149d): Total: 0.070 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 21.81 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 56.50 ms.
+Asset Pipeline Refresh (id=79d8b6505d2f54cb989d5d17ac6413c5): Total: 0.119 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=6d5197149eeb1460c9444a3d58236bff): Total: 0.010 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Bootstrap_20260807_V80_ZeroLatencyAssembly.unity using Guid(6f77253156a954a7d900e12122affa3f) (DefaultImporter) -> (artifact id: '571d4e82cc8f7506b53e378c65646bff') in 0.00229475 seconds
+Refreshing native plugins compatible for Editor in 27.23 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 1.14 ms.
+Asset Pipeline Refresh (id=d99029f4908f748dca6b834c4c5a1e74): Total: 0.160 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 23.50 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 1.19 ms.
+Asset Pipeline Refresh (id=02bad2644295041bd9a946a7b0ea5fb3): Total: 0.070 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=26c0138b38ab14b3b950f48833afaaae): Total: 0.010 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Splash_20260807_V80_ZeroLatencyAssembly.unity using Guid(3027ea0ca0e864c8db4f486d1492fd09) (DefaultImporter) -> (artifact id: '65633b538328ef5bd66eabf764208606') in 0.001004958 seconds
+Refreshing native plugins compatible for Editor in 32.33 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 1.53 ms.
+Asset Pipeline Refresh (id=cfd9b200d208543038cd57542a2383e3): Total: 0.085 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 20.96 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 1.28 ms.
+Asset Pipeline Refresh (id=e96fb20dc997b47e0a96c8997a3f37d1): Total: 0.085 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=70fa58d254b3f4a4dab3e3ad7a242b8a): Total: 0.011 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Selection_20260807_V80_ZeroLatencyAssembly.unity using Guid(6ee0bea2996f34822a17850804f5bdc1) (DefaultImporter) -> (artifact id: 'c42d1a99ee15502fdb0634ffc33fd441') in 0.001033667 seconds
+Refreshing native plugins compatible for Editor in 35.40 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 1.49 ms.
+Asset Pipeline Refresh (id=ea250e1a23f7b449e9717cab5adb6ddc): Total: 0.126 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 39.95 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.82 ms.
+Asset Pipeline Refresh (id=aea2ea40843824e39adc75a4ddb862bc): Total: 0.094 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=bfa16d32cb3d145008f8bddb757bc35c): Total: 0.013 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_CottageHint_20260807_V80_ZeroLatencyAssembly.unity using Guid(3d134027c4f8645079b6b245d915d2b0) (DefaultImporter) -> (artifact id: '287430753dd1ac34e5688efa32470d7a') in 0.00114225 seconds
+Refreshing native plugins compatible for Editor in 21.34 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 1.00 ms.
+Asset Pipeline Refresh (id=36f17347794d344578ad76e25df7ddcc): Total: 0.080 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 19.14 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 16.23 ms.
+Asset Pipeline Refresh (id=2165aaec2997c444aa22b7831742d9b1): Total: 0.081 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=a3e1810af34d54a38a4728c2369f6147): Total: 0.010 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Ship_20260807_V80_ZeroLatencyAssembly.unity using Guid(7ec98bb8d26974e5082d1725badf04ac) (DefaultImporter) -> (artifact id: 'be23e53e327a6e72c6a4fa1bdea1945e') in 0.000801084 seconds
+Refreshing native plugins compatible for Editor in 15.20 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.79 ms.
+Asset Pipeline Refresh (id=8b26fbad65e2e4724ae0babf169d0e30): Total: 0.066 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 15.52 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.70 ms.
+Asset Pipeline Refresh (id=a90502ec4d9b14021ae79666e90f967b): Total: 0.056 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=04cfc09c26f3f481b8053e27273abfe7): Total: 0.010 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Eiffel_20260807_V80_ZeroLatencyAssembly.unity using Guid(fa7dea38a5b5048dfab886c7458bd5f7) (DefaultImporter) -> (artifact id: 'fab985f90263865ee62db71d21b59c92') in 0.001086625 seconds
+Refreshing native plugins compatible for Editor in 17.10 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.83 ms.
+Asset Pipeline Refresh (id=6ea975bc5b3da4891a9c8c7a52edf07c): Total: 0.067 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 17.63 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.88 ms.
+Asset Pipeline Refresh (id=2d337a15a4085490ba91fd147a098f99): Total: 0.058 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=d4216c14018664ccf99f4053f4fd7f5f): Total: 0.010 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Pagoda_20260807_V80_ZeroLatencyAssembly.unity using Guid(c7de55309c7d841e2936d1d826df3e30) (DefaultImporter) -> (artifact id: '1f8fac957a81926fbdde85d10ce91b95') in 0.000853042 seconds
+Refreshing native plugins compatible for Editor in 15.72 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.78 ms.
+Asset Pipeline Refresh (id=6d356ca27fa514fbfaf3016bd295aac3): Total: 0.064 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 14.84 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.74 ms.
+Asset Pipeline Refresh (id=0b72973ac27f845aa8a15a257944cada): Total: 0.056 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=fb4f6f5e419164a91bf4fea3bc0f4a01): Total: 0.012 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Windmill_20260807_V80_ZeroLatencyAssembly.unity using Guid(f98e42044b3e04b629d9e96c061e2ac0) (DefaultImporter) -> (artifact id: 'c91137ca9b3497769e273f0bc62bcbc8') in 0.002917667 seconds
+Refreshing native plugins compatible for Editor in 47.05 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 1.19 ms.
+Asset Pipeline Refresh (id=63f8b3f68ab634ed3b57bee181f4d36c): Total: 0.102 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 16.88 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.71 ms.
+Asset Pipeline Refresh (id=3c7de87db3a4c41cea6b1f37642d30df): Total: 0.074 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=845e4fe9772644cef97cd8642ce62d14): Total: 0.009 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Completion_20260807_V80_ZeroLatencyAssembly.unity using Guid(3cb2b54dd8b0342bab53752fe82961b4) (DefaultImporter) -> (artifact id: '2e02b12208ea27142676b1473a6851bc') in 0.000876625 seconds
+Refreshing native plugins compatible for Editor in 15.58 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.85 ms.
+Asset Pipeline Refresh (id=43048254475954d15b544a74a6ad405f): Total: 0.065 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 18.34 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.86 ms.
+Asset Pipeline Refresh (id=db6131cc2943c4bef91a4d315ccb31e7): Total: 0.058 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=19a7d8f383b03498380e4e128cdf1d28): Total: 0.009 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Collection_20260807_V80_ZeroLatencyAssembly.unity using Guid(3e7f161f4fa984a08a5b8383fe4ff013) (DefaultImporter) -> (artifact id: '41f80d5dfb0a54deb0d048c6a0b1baf9') in 0.000925292 seconds
+Refreshing native plugins compatible for Editor in 16.14 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.75 ms.
+Asset Pipeline Refresh (id=55a9aa24a90c244d38c6483457d97b9c): Total: 0.064 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Opening scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Bootstrap_20260807_V80_ZeroLatencyAssembly.unity'
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Bootstrap_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            22.806 ms
+	Integration:            208.507 ms
+	Integration of assets:  0.131 ms
+	Thread Wait Time:       -0.086 ms
+	Total Operation Time:   231.358 ms
+Unloading 88 unused Assets / (13.0 KB). Loaded Objects now: 6903.
+Memory consumption went from 209.7 MB to 209.7 MB.
+Total: 13.661375 ms (FindLiveObjects: 0.223292 ms CreateObjectMapping: 0.104208 ms MarkObjects: 13.099708 ms  DeleteObjects: 0.233875 ms)
+
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Bootstrap_20260807_V80_ZeroLatencyAssembly.unity using Guid(6f77253156a954a7d900e12122affa3f) (DefaultImporter) -> (artifact id: '9ddc096cc23e64654e0875f18fa1bb09') in 0.001032083 seconds
+Refreshing native plugins compatible for Editor in 14.30 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.78 ms.
+Asset Pipeline Refresh (id=efcea5ea8f91b4c1da1c54aa06a75383): Total: 0.074 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Opening scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Selection_20260807_V80_ZeroLatencyAssembly.unity'
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Selection_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            30.845 ms
+	Integration:            800.998 ms
+	Integration of assets:  0.998 ms
+	Thread Wait Time:       -0.859 ms
+	Total Operation Time:   831.982 ms
+Unloading 225 unused Assets / (34.9 KB). Loaded Objects now: 9481.
+Memory consumption went from 394.2 MB to 394.2 MB.
+Total: 12.237917 ms (FindLiveObjects: 0.298375 ms CreateObjectMapping: 0.110334 ms MarkObjects: 11.683416 ms  DeleteObjects: 0.145541 ms)
+
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Selection_20260807_V80_ZeroLatencyAssembly.unity using Guid(6ee0bea2996f34822a17850804f5bdc1) (DefaultImporter) -> (artifact id: '5c47202c91f3d7ea5803779ebaa51fb9') in 0.001676 seconds
+Refreshing native plugins compatible for Editor in 14.35 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.77 ms.
+Asset Pipeline Refresh (id=5ba536ea795fc49eebd8d340ef116c83): Total: 0.080 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Opening scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_CottageHint_20260807_V80_ZeroLatencyAssembly.unity'
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_CottageHint_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            23.811 ms
+	Integration:            217.435 ms
+	Integration of assets:  0.129 ms
+	Thread Wait Time:       -0.004 ms
+	Total Operation Time:   241.372 ms
+Unloading 266 unused Assets / (35.2 KB). Loaded Objects now: 8191.
+Memory consumption went from 431.8 MB to 431.8 MB.
+Total: 11.585250 ms (FindLiveObjects: 0.267542 ms CreateObjectMapping: 0.106166 ms MarkObjects: 11.065917 ms  DeleteObjects: 0.145125 ms)
+
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_CottageHint_20260807_V80_ZeroLatencyAssembly.unity using Guid(3d134027c4f8645079b6b245d915d2b0) (DefaultImporter) -> (artifact id: '9fc71c7383253d907150f7583926784f') in 0.001272166 seconds
+Refreshing native plugins compatible for Editor in 14.80 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.80 ms.
+Asset Pipeline Refresh (id=d9a795f8aab2940ed985701548fc88e9): Total: 0.078 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Opening scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Ship_20260807_V80_ZeroLatencyAssembly.unity'
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Ship_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            13.566 ms
+	Integration:            265.480 ms
+	Integration of assets:  0.139 ms
+	Thread Wait Time:       0.002 ms
+	Total Operation Time:   279.186 ms
+Unloading 104 unused Assets / (19.9 KB). Loaded Objects now: 7881.
+Memory consumption went from 363.6 MB to 363.6 MB.
+Total: 11.105375 ms (FindLiveObjects: 0.231916 ms CreateObjectMapping: 0.108709 ms MarkObjects: 10.680375 ms  DeleteObjects: 0.083875 ms)
+
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Ship_20260807_V80_ZeroLatencyAssembly.unity using Guid(7ec98bb8d26974e5082d1725badf04ac) (DefaultImporter) -> (artifact id: '0b08644b972bfecdb8d8d13a98d72270') in 0.001280958 seconds
+Refreshing native plugins compatible for Editor in 14.25 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.64 ms.
+Asset Pipeline Refresh (id=49aaf6a29aa964298ab8c2cd2859f67e): Total: 0.076 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Opening scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Eiffel_20260807_V80_ZeroLatencyAssembly.unity'
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Eiffel_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            12.415 ms
+	Integration:            165.045 ms
+	Integration of assets:  0.113 ms
+	Thread Wait Time:       0.013 ms
+	Total Operation Time:   177.586 ms
+Unloading 117 unused Assets / (28.5 KB). Loaded Objects now: 7836.
+Memory consumption went from 359.5 MB to 359.5 MB.
+Total: 11.123375 ms (FindLiveObjects: 0.227334 ms CreateObjectMapping: 0.088541 ms MarkObjects: 10.716334 ms  DeleteObjects: 0.090583 ms)
+
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Eiffel_20260807_V80_ZeroLatencyAssembly.unity using Guid(fa7dea38a5b5048dfab886c7458bd5f7) (DefaultImporter) -> (artifact id: '827c6d09c8f2233975a61524a98c6bcb') in 0.001425209 seconds
+Refreshing native plugins compatible for Editor in 15.56 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.64 ms.
+Asset Pipeline Refresh (id=75e1236803f6a4cdb8f14610280df85e): Total: 0.075 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Opening scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Pagoda_20260807_V80_ZeroLatencyAssembly.unity'
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Pagoda_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            13.914 ms
+	Integration:            169.799 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   183.723 ms
+Unloading 106 unused Assets / (20.7 KB). Loaded Objects now: 7987.
+Memory consumption went from 283.8 MB to 283.8 MB.
+Total: 11.107000 ms (FindLiveObjects: 0.239000 ms CreateObjectMapping: 0.089584 ms MarkObjects: 10.691125 ms  DeleteObjects: 0.086667 ms)
+
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Pagoda_20260807_V80_ZeroLatencyAssembly.unity using Guid(c7de55309c7d841e2936d1d826df3e30) (DefaultImporter) -> (artifact id: '7dc3b23f30eec1492ee6c7dfdc1db0e8') in 0.001254125 seconds
+Refreshing native plugins compatible for Editor in 14.10 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.77 ms.
+Asset Pipeline Refresh (id=864b237ccb48746a49a492f7d665de62): Total: 0.072 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Opening scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Windmill_20260807_V80_ZeroLatencyAssembly.unity'
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Windmill_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            14.209 ms
+	Integration:            164.465 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       0.003 ms
+	Total Operation Time:   178.682 ms
+Unloading 99 unused Assets / (18.0 KB). Loaded Objects now: 8061.
+Memory consumption went from 283.0 MB to 282.9 MB.
+Total: 11.475375 ms (FindLiveObjects: 0.254000 ms CreateObjectMapping: 0.102834 ms MarkObjects: 11.024583 ms  DeleteObjects: 0.093333 ms)
+
+Start importing Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Windmill_20260807_V80_ZeroLatencyAssembly.unity using Guid(f98e42044b3e04b629d9e96c061e2ac0) (DefaultImporter) -> (artifact id: 'ae125d740d1cd35ac719bcc2d0058b4c') in 0.00141925 seconds
+Refreshing native plugins compatible for Editor in 14.07 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.91 ms.
+Asset Pipeline Refresh (id=55d24e3b67d2840cf9ff06bf2b6165c2): Total: 0.076 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+ZeroLatencyAssemblyV80Builder:Prepare () (at Assets/Editor/ZeroLatencyAssemblyV80Builder.cs:263)
+ZeroLatencyAssemblyV80Builder:RunFocusedSmoke () (at Assets/Editor/ZeroLatencyAssemblyV80Builder.cs:154)
+
+[Assets/Editor/ZeroLatencyAssemblyV80Builder.cs line 263]
+
+Asset Pipeline Refresh (id=c63efe1717da44d46a9bfee653593885): Total: 0.635 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=635 ms
+		Asset DB Callback time: managed=0 ms, native=0 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1880, non-scripts=5682
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.065ms
+	Scan: 626.116ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.157ms
+	UnloadStreamsBegin: 0.154ms
+	UnloadStreamsEnd: 0.133ms
+	Untracked: 8.673ms
+
+Refreshing native plugins compatible for Editor in 18.14 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.82 ms.
+Asset Pipeline Refresh (id=c15be96a114b4402d9cfc7a6cd6276a0): Total: 0.065 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=4442a2caf34664f2aba5e4df4a071816): Total: 0.008 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/Backups/RuntimeV80_ZeroLatencyAssembly/Runtime_Bootstrap_20260807_V80_ZeroLatencyAssembly_VALIDATED_BACKUP.unity using Guid(cbef4880c86e8484abae5c17cadd3aa5) (DefaultImporter) -> (artifact id: 'c27a9c1e4186d58f899df6ae201e28f0') in 0.001079667 seconds
+Refreshing native plugins compatible for Editor in 20.60 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.72 ms.
+Asset Pipeline Refresh (id=299cd8693afe7470bac3eeba6e0db25a): Total: 0.069 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 19.01 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.85 ms.
+Asset Pipeline Refresh (id=ed17ea539a95d4173a12ece3eec30798): Total: 0.064 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=ea472d9c6f06b4efebddf2ebefef4247): Total: 0.010 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/Backups/RuntimeV80_ZeroLatencyAssembly/Runtime_Splash_20260807_V80_ZeroLatencyAssembly_VALIDATED_BACKUP.unity using Guid(74abd5ffd18e241e8a2248c1d5e47649) (DefaultImporter) -> (artifact id: '2652d38f8bb9f2db87c8f21980753640') in 0.001605333 seconds
+Refreshing native plugins compatible for Editor in 21.02 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.72 ms.
+Asset Pipeline Refresh (id=7d539f792fe434ff187e84a275c3c950): Total: 0.076 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 21.60 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.92 ms.
+Asset Pipeline Refresh (id=2a8b6c21d3298467eb8df89feb38a616): Total: 0.067 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=bda59a5db7e3f43c39e99beedd8fa580): Total: 0.009 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/Backups/RuntimeV80_ZeroLatencyAssembly/Runtime_Selection_20260807_V80_ZeroLatencyAssembly_VALIDATED_BACKUP.unity using Guid(2401e3f43ead2415e8c14ab9db418702) (DefaultImporter) -> (artifact id: '72bdc490e5c24c32feb8d30558da5935') in 0.000998 seconds
+Refreshing native plugins compatible for Editor in 16.45 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.88 ms.
+Asset Pipeline Refresh (id=9d8b72cea9521470297d2581f016c5e7): Total: 0.083 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 17.58 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.72 ms.
+Asset Pipeline Refresh (id=c3ea281606ea9497c9ed47cc70d86b33): Total: 0.061 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=61ef7c5bcfd104fcba7c8a85d63f9bc4): Total: 0.009 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/Backups/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_CottageHint_20260807_V80_ZeroLatencyAssembly_VALIDATED_BACKUP.unity using Guid(0362860bed61347708b565470337619b) (DefaultImporter) -> (artifact id: 'a70f4ed1a8a744358b9245a2409891ef') in 0.001010209 seconds
+Refreshing native plugins compatible for Editor in 14.74 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.82 ms.
+Asset Pipeline Refresh (id=24316152f16b1458697e4cca204dca99): Total: 0.071 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 15.77 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.80 ms.
+Asset Pipeline Refresh (id=a23691328dca545a49ba3b27413c945f): Total: 0.059 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=00f1511e343b94cc195404e955f1761a): Total: 0.008 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/Backups/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Ship_20260807_V80_ZeroLatencyAssembly_VALIDATED_BACKUP.unity using Guid(96bd1542ef3e14ed8a5ef4302050243c) (DefaultImporter) -> (artifact id: 'c685631632e75918821992ca454b6460') in 0.00127325 seconds
+Refreshing native plugins compatible for Editor in 25.24 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.88 ms.
+Asset Pipeline Refresh (id=6045d07280c2f4109b099e1094fa160a): Total: 0.082 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 17.18 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.77 ms.
+Asset Pipeline Refresh (id=865c26fcc0b9346ebba789934a9497f0): Total: 0.064 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=fdf4d669c049c49c88322e8636d1b4d6): Total: 0.008 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/Backups/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Eiffel_20260807_V80_ZeroLatencyAssembly_VALIDATED_BACKUP.unity using Guid(cae8b5ca30ff54934897e817fbef8c39) (DefaultImporter) -> (artifact id: 'add02086db40d72fd7592f9f302be88b') in 0.001413 seconds
+Refreshing native plugins compatible for Editor in 19.00 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.86 ms.
+Asset Pipeline Refresh (id=57e85406c2b394abc9ab528ba612f965): Total: 0.071 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 15.57 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.75 ms.
+Asset Pipeline Refresh (id=acbdaa756b1504cfdb220695f861eeb5): Total: 0.064 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=f86e65680d9f1436a9acc55c4726a402): Total: 0.009 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/Backups/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Pagoda_20260807_V80_ZeroLatencyAssembly_VALIDATED_BACKUP.unity using Guid(9d8686c1702404bad95d5b38b5dfea34) (DefaultImporter) -> (artifact id: '5866ae03b98e6c76cbd89449e238415a') in 0.001108667 seconds
+Refreshing native plugins compatible for Editor in 25.75 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.80 ms.
+Asset Pipeline Refresh (id=4add4ce72c07d4d2aadfedf5eb5c699e): Total: 0.078 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 17.48 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.77 ms.
+Asset Pipeline Refresh (id=0edf86affa3064ad991f2498f3a3ffd0): Total: 0.068 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=89032cf9be1ef4ce89747b7ec3a9c5a2): Total: 0.013 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/Backups/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Windmill_20260807_V80_ZeroLatencyAssembly_VALIDATED_BACKUP.unity using Guid(8f2daf51b69094503aae0f0d3858b972) (DefaultImporter) -> (artifact id: '0398d0ce8fb8a7a4a873c3e8b9ffabf9') in 0.001268916 seconds
+Refreshing native plugins compatible for Editor in 17.70 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.77 ms.
+Asset Pipeline Refresh (id=acfa08062148b48a6a80b204a6b4eb65): Total: 0.120 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 17.16 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.78 ms.
+Asset Pipeline Refresh (id=6960a303251554ef59551f3ae86c9f29): Total: 0.065 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=aae4a0b285e4a4f378475c6fc98808e1): Total: 0.009 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/Backups/RuntimeV80_ZeroLatencyAssembly/Runtime_Completion_20260807_V80_ZeroLatencyAssembly_VALIDATED_BACKUP.unity using Guid(3b3a72d9309b049d88a85c10d3614fa3) (DefaultImporter) -> (artifact id: '0867973f0ea8ae0af09bc33828bcd52b') in 0.00104575 seconds
+Refreshing native plugins compatible for Editor in 21.33 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 1.26 ms.
+Asset Pipeline Refresh (id=aee29c38b91da462291343f9759ba04e): Total: 0.077 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Refreshing native plugins compatible for Editor in 19.96 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.84 ms.
+Asset Pipeline Refresh (id=076ab0e1d84f645fa9fd55bcaca4a454): Total: 0.069 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=0bcb1a6f858154b59b65ec04d3055c23): Total: 0.013 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Scenes/Backups/RuntimeV80_ZeroLatencyAssembly/Runtime_Collection_20260807_V80_ZeroLatencyAssembly_VALIDATED_BACKUP.unity using Guid(1961eedf97d6b42c99ed49450d4a4ebd) (DefaultImporter) -> (artifact id: '4a036b2955f92b6dbec99b9c598e45f6') in 0.001093625 seconds
+Refreshing native plugins compatible for Editor in 19.01 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 1.26 ms.
+Asset Pipeline Refresh (id=e9e71e22a722747a399661ad89116c9c): Total: 0.076 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+ZeroLatencyAssemblyV80Builder:Prepare () (at Assets/Editor/ZeroLatencyAssemblyV80Builder.cs:278)
+ZeroLatencyAssemblyV80Builder:RunFocusedSmoke () (at Assets/Editor/ZeroLatencyAssemblyV80Builder.cs:154)
+
+[Assets/Editor/ZeroLatencyAssemblyV80Builder.cs line 278]
+
+Asset Pipeline Refresh (id=8b2b428a948df4c159f8ec239ea46e83): Total: 1.774 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1773 ms
+		Asset DB Callback time: managed=0 ms, native=0 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1880, non-scripts=5682
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.082ms
+	Scan: 1763.572ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.151ms
+	UnloadStreamsBegin: 0.002ms
+	UnloadStreamsEnd: 0.180ms
+	Untracked: 9.782ms
+
+Opening scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Bootstrap_20260807_V80_ZeroLatencyAssembly.unity'
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Bootstrap_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            12.300 ms
+	Integration:            570.986 ms
+	Integration of assets:  0.037 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   583.328 ms
+Unloading 158 unused Assets / (23.9 MB). Loaded Objects now: 6937.
+Memory consumption went from 270.2 MB to 246.3 MB.
+Total: 29.598958 ms (FindLiveObjects: 0.315667 ms CreateObjectMapping: 0.131917 ms MarkObjects: 27.760458 ms  DeleteObjects: 1.390334 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_CottageHint_20260807_V80_ZeroLatencyAssembly.unity'
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_CottageHint_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            17.490 ms
+	Integration:            270.898 ms
+	Integration of assets:  0.007 ms
+	Thread Wait Time:       0.001 ms
+	Total Operation Time:   288.396 ms
+Unloading 133 unused Assets / (17.4 KB). Loaded Objects now: 8201.
+Memory consumption went from 264.0 MB to 264.0 MB.
+Total: 13.469500 ms (FindLiveObjects: 0.278042 ms CreateObjectMapping: 0.107958 ms MarkObjects: 12.756542 ms  DeleteObjects: 0.326750 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Ship_20260807_V80_ZeroLatencyAssembly.unity'
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Ship_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            14.355 ms
+	Integration:            315.563 ms
+	Integration of assets:  0.008 ms
+	Thread Wait Time:       0.014 ms
+	Total Operation Time:   329.940 ms
+Unloading 15 unused Assets / (1.4 KB). Loaded Objects now: 7883.
+Memory consumption went from 352.4 MB to 352.4 MB.
+Total: 12.222000 ms (FindLiveObjects: 0.286417 ms CreateObjectMapping: 0.116208 ms MarkObjects: 11.751875 ms  DeleteObjects: 0.066750 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Eiffel_20260807_V80_ZeroLatencyAssembly.unity'
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Eiffel_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            11.901 ms
+	Integration:            174.575 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       0.001 ms
+	Total Operation Time:   186.481 ms
+Unloading 27 unused Assets / (13.1 KB). Loaded Objects now: 7833.
+Memory consumption went from 348.4 MB to 348.4 MB.
+Total: 14.376542 ms (FindLiveObjects: 0.321291 ms CreateObjectMapping: 0.186584 ms MarkObjects: 13.793708 ms  DeleteObjects: 0.074458 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Pagoda_20260807_V80_ZeroLatencyAssembly.unity'
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Pagoda_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            14.976 ms
+	Integration:            186.101 ms
+	Integration of assets:  0.010 ms
+	Thread Wait Time:       0.000 ms
+	Total Operation Time:   201.087 ms
+Unloading 16 unused Assets / (2.7 KB). Loaded Objects now: 7984.
+Memory consumption went from 273.3 MB to 273.3 MB.
+Total: 12.713541 ms (FindLiveObjects: 0.396917 ms CreateObjectMapping: 0.119041 ms MarkObjects: 12.147417 ms  DeleteObjects: 0.049584 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Windmill_20260807_V80_ZeroLatencyAssembly.unity'
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Windmill_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            13.833 ms
+	Integration:            179.324 ms
+	Integration of assets:  0.006 ms
+	Thread Wait Time:       0.012 ms
+	Total Operation Time:   193.175 ms
+Unloading 10 unused Assets / (3.6 KB). Loaded Objects now: 8061.
+Memory consumption went from 273.0 MB to 273.0 MB.
+Total: 12.973542 ms (FindLiveObjects: 0.363000 ms CreateObjectMapping: 0.151083 ms MarkObjects: 12.412625 ms  DeleteObjects: 0.046500 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Eiffel_20260807_V80_ZeroLatencyAssembly.unity'
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Eiffel_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            12.141 ms
+	Integration:            170.589 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       0.002 ms
+	Total Operation Time:   182.737 ms
+Unloading 15 unused Assets / (4.6 KB). Loaded Objects now: 7833.
+Memory consumption went from 273.1 MB to 273.1 MB.
+Total: 12.360000 ms (FindLiveObjects: 0.264209 ms CreateObjectMapping: 0.101750 ms MarkObjects: 11.951000 ms  DeleteObjects: 0.042375 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Bootstrap_20260807_V80_ZeroLatencyAssembly.unity'
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Bootstrap_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            6.264 ms
+	Integration:            168.206 ms
+	Integration of assets:  0.029 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   174.506 ms
+Unloading 47 unused Assets / (16.7 MB). Loaded Objects now: 6937.
+Memory consumption went from 258.3 MB to 241.7 MB.
+Total: 12.545417 ms (FindLiveObjects: 0.222584 ms CreateObjectMapping: 0.105625 ms MarkObjects: 11.327292 ms  DeleteObjects: 0.889583 ms)
+
+[Project] Loading completed in 23.573 seconds
+	Project init time: 				10.379 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		1.011 seconds
+		Asset Database init time: 		0.429 seconds
+		Global illumination init time: 	0.001 seconds
+		Assemblies load time: 			0.681 seconds
+		Unity extensions init time: 	0.007 seconds
+		Asset Database refresh time: 	7.800 seconds
+	Scene opening time: 			13.062 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1786089416009,"processId":21146,"projectLoad":23.572987417000005,"projectInit":10.379146667,"templateInit":0.0,"packageManagerInit":1.010557,"assetDatabaseInit":0.428606542,"globalIlluminationInit":0.00137825,"assembliesLoad":0.680520042,"unityExtensionsInit":0.006785833,"assetDatabaseRefresh":7.800360292,"sceneOpening":13.061953708}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1786089416009,"processId":21146,"editorVersion":"6000.0.77f1 (88f89d0d8b31)","branch":"6000.0/staging","buildType":"Release","platform":"OSX"}
+Thread 0x16e8db000 may have been prematurely finalized
+Reloading assemblies for play mode.
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Call to StopSubsystems without an initialized manager.Please make sure wait for initialization to complete before calling this API.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.XR.Management.XRManagerSettings:StopSubsystems () (at ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs:427)
+UnityEngine.XR.Management.XRManagerSettings:OnDisable () (at ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs:481)
+
+(Filename: ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs Line: 427)
+
+- Loaded All Assemblies, in  0.701 seconds
+Refreshing native plugins compatible for Editor in 14.41 ms, found 15 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+PXRLog [Build Check]RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+ByteDance.PICO.XR.Editor.PXR_SDKBuildCheck:.cctor () (at ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs Line: 31)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.874 seconds
+Domain Reload Profiling: 1578ms
+	BeginReloadAssembly (418ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (18ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (228ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (17ms)
+	LoadAllAssembliesAndSetupDomain (233ms)
+		LoadAssemblies (276ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (104ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (82ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (874ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (649ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (153ms)
+			ProcessInitializeOnLoadAttributes (406ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (24ms)
+Asset Pipeline Refresh (id=926ab103ff88f4dd4bdd5278958bc130): Total: 1.752 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1023 ms
+		Asset DB Callback time: managed=12 ms, native=2 ms
+		Scripting: domain reloads=1, domain reload time=713 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=1880, non-scripts=5682
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 6.005ms
+	ApplyChangesToAssetFolders: 0.212ms
+	Scan: 0.000ms
+	OnSourceAssetsModified: 0.001ms
+	CategorizeAssetsWithTransientArtifact: 0.001ms
+	ProcessAssetsWithTransientArtifactChanges: 2.379ms
+	CategorizeAssets: 67.717ms
+	ImportOutOfDateAssets: 909.458ms (905.135ms without children)
+		CompileScripts: 0.732ms
+		CollectScriptTypesHashes: 1.483ms
+		ReloadNativeAssets: 0.802ms
+		UnloadImportedAssets: 0.082ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.987ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.237ms
+	PostProcessAllAssets: 12.600ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.659ms
+	UnloadStreamsBegin: 0.085ms
+	PersistCurrentRevisions: 0.180ms
+	UnloadStreamsEnd: 0.001ms
+	GenerateScriptTypeHashes: 3.397ms
+	Untracked: 752.799ms
+
+Refreshing native plugins compatible for Editor in 14.09 ms, found 15 plugins.
+[XR] Time interace not found - delta time prediction disabled.
+[Subsystems] OpenXR XR Plugin successfully registered Provider for OpenXR Display
+[Subsystems] OpenXR XR Plugin successfully registered Provider for OpenXR Input
+[Subsystems] OpenXR XR Plugin successfully registered Provider for OpenXR Display
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f4aa4800] [15:56:57.864][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f4aa4800] [15:56:57.864][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f4aa4800] [15:56:57.864][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f4aa4800] [15:56:57.865][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f4aa4800] [15:56:57.865][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f4aa4800] [15:56:57.865][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+[Subsystems] Loading plugin UnityOpenXR for subsystem OpenXR Display...
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f4aa4800] [15:56:57.868][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f4aa4800] [15:56:57.868][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f4aa4800] [15:56:57.869][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f4aa4800] [15:56:57.869][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+[XR] [0x1f4aa4800] [15:56:57.869][Info   ] Available Layers: (0)
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : xrCreateInstance called with invalid API version 1.1.  Max supported version is 1.0
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : Failed loading runtime information
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : xrCreateInstance failed
+[XR] [0x1f4aa4800] [15:56:57.870][Error  ] xrCreateInstance: XR_ERROR_RUNTIME_UNAVAILABLE
+[Subsystems] Failed to initialize subsystem OpenXR Display [error: 1]
+[XR] [0x1f4aa4800] [15:56:57.870][Error  ] xrPollEvent: XR_ERROR_FUNCTION_UNSUPPORTED
+[XR] [0x1f4aa4800] [15:56:57.870][Info   ] 
+
+==== Start Unity OpenXR Diagnostic Report ====
+
+
+[XR] [0x1f4aa4800] [15:56:57.870][Info   ] ==== Report Reason: System Shutdown ====
+
+
+[XR] [0x1f4aa4800] [15:56:57.870][Info   ] ==== OpenXR Init Info ====
+[XR] [0x1f4aa4800] [15:56:57.870][Info   ] 
+[XR] [0x1f4aa4800] [15:56:57.871][Info   ] Stage 1 Missing Entry Points: (1)
+[XR] [0x1f4aa4800] [15:56:57.871][Info   ]   xrInitializeLoaderKHR
+[XR] [0x1f4aa4800] [15:56:57.871][Info   ] 
+[XR] [0x1f4aa4800] [15:56:57.871][Info   ] ==== OpenXR Runtime Info ====
+[XR] [0x1f4aa4800] [15:56:57.871][Info   ] 
+[XR] [0x1f4aa4800] [15:56:57.871][Info   ] Available Layers: (0)
+[XR] [0x1f4aa4800] [15:56:57.871][Info   ] 
+[XR] [0x1f4aa4800] [15:56:57.871][Info   ] ==== Last 20 non-XR_SUCCESS returns ====
+[XR] [0x1f4aa4800] [15:56:57.871][Info   ] [FAILURE] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE (10x)
+[XR] [0x1f4aa4800] [15:56:57.871][Info   ] [FAILURE] xrCreateInstance: XR_ERROR_RUNTIME_UNAVAILABLE (1x)
+[XR] [0x1f4aa4800] [15:56:57.871][Info   ] [FAILURE] xrPollEvent: XR_ERROR_FUNCTION_UNSUPPORTED (1x)
+[XR] [0x1f4aa4800] [15:56:57.871][Info   ] 
+[XR] [0x1f4aa4800] [15:56:57.871][Info   ] ==== Last 20 Events ====
+[XR] [0x1f4aa4800] [15:56:57.871][Info   ] 
+
+==== End Unity OpenXR Diagnostic Report ====
+
+
+Camera "Persistent PICO and desktop main camera" does not use a Tracked Pose Driver (Input System), so its transform will not be updated by an XR device.  In order for this to be updated, please add a Tracked Pose Driver (Input System) with bindings for position and rotation of the center eye.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+Unity.XR.CoreUtils.XROrigin:Awake () (at ./Library/PackageCache/com.unity.xr.core-utils@a8b900321199/Runtime/XROrigin.cs:554)
+
+(Filename: ./Library/PackageCache/com.unity.xr.core-utils@a8b900321199/Runtime/XROrigin.cs Line: 554)
+
+Your project uses a scriptable render pipeline. You can use Camera.stereoTargetEye only with the built-in renderer.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.Camera:set_stereoTargetEye (UnityEngine.StereoTargetEyeMask) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Camera/Camera.bindings.cs:291)
+RuntimePicoSwanDevicePolicyV24:ApplyDevicePolicy () (at Assets/Scripts/RuntimePicoSwanDevicePolicyV24.cs:91)
+RuntimePicoSwanDevicePolicyV24:Awake () (at Assets/Scripts/RuntimePicoSwanDevicePolicyV24.cs:32)
+
+(Filename: /Users/bokken/build/output/unity/unity/Runtime/Export/Camera/Camera.bindings.cs Line: 291)
+
+Your project uses a scriptable render pipeline. You can use Camera.stereoTargetEye only with the built-in renderer.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.Camera:set_stereoTargetEye (UnityEngine.StereoTargetEyeMask) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Camera/Camera.bindings.cs:291)
+RuntimePicoSwanDevicePolicyV24:ApplyDevicePolicy () (at Assets/Scripts/RuntimePicoSwanDevicePolicyV24.cs:91)
+RuntimePicoSwanDevicePolicyV24:OnEnable () (at Assets/Scripts/RuntimePicoSwanDevicePolicyV24.cs:37)
+
+(Filename: /Users/bokken/build/output/unity/unity/Runtime/Export/Camera/Camera.bindings.cs Line: 291)
+
+Your project uses a scriptable render pipeline. You can use Camera.stereoTargetEye only with the built-in renderer.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.Camera:set_stereoTargetEye (UnityEngine.StereoTargetEyeMask) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Camera/Camera.bindings.cs:291)
+RuntimePicoSwanDevicePolicyV24:ApplyDevicePolicy () (at Assets/Scripts/RuntimePicoSwanDevicePolicyV24.cs:91)
+RuntimePicoSwanDevicePolicyV24:OnApplicationPause (bool) (at Assets/Scripts/RuntimePicoSwanDevicePolicyV24.cs:67)
+
+(Filename: /Users/bokken/build/output/unity/unity/Runtime/Export/Camera/Camera.bindings.cs Line: 291)
+
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            3.063 ms
+	Integration:            300.157 ms
+	Integration of assets:  0.023 ms
+	Thread Wait Time:       0.004 ms
+	Total Operation Time:   303.248 ms
+Your project uses a scriptable render pipeline. You can use Camera.stereoTargetEye only with the built-in renderer.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.Camera:set_stereoTargetEye (UnityEngine.StereoTargetEyeMask) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Camera/Camera.bindings.cs:291)
+RuntimePicoSwanDevicePolicyV24:ApplyDevicePolicy () (at Assets/Scripts/RuntimePicoSwanDevicePolicyV24.cs:91)
+RuntimePicoSwanDevicePolicyV24:Start () (at Assets/Scripts/RuntimePicoSwanDevicePolicyV24.cs:42)
+
+(Filename: /Users/bokken/build/output/unity/unity/Runtime/Export/Camera/Camera.bindings.cs Line: 291)
+
+[Personally Puzzled V24 Swan XR] phase=start xrEnabled=False deviceActive=False displays=0 displayRunning=False eyeTexture=0x0 cameraStereo=False targetEyes=Both poseDriver=False handSubsystem=False leftTracked=False rightTracked=False sleepTimeout=-2
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+RuntimePicoSwanDevicePolicyV24:LogDeviceState (string) (at Assets/Scripts/RuntimePicoSwanDevicePolicyV24.cs:156)
+RuntimePicoSwanDevicePolicyV24:Start () (at Assets/Scripts/RuntimePicoSwanDevicePolicyV24.cs:43)
+
+(Filename: Assets/Scripts/RuntimePicoSwanDevicePolicyV24.cs Line: 156)
+
+[Personally Puzzled V24 Swan XR] phase=sample xrEnabled=False deviceActive=False displays=0 displayRunning=False eyeTexture=0x0 cameraStereo=False targetEyes=Both poseDriver=False handSubsystem=False leftTracked=False rightTracked=False sleepTimeout=-2
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+RuntimePicoSwanDevicePolicyV24:LogDeviceState (string) (at Assets/Scripts/RuntimePicoSwanDevicePolicyV24.cs:156)
+RuntimePicoSwanDevicePolicyV24:Update () (at Assets/Scripts/RuntimePicoSwanDevicePolicyV24.cs:53)
+
+(Filename: Assets/Scripts/RuntimePicoSwanDevicePolicyV24.cs Line: 156)
+
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Asset Pipeline Refresh (id=87f9f4d6174ce464486c5f49be2d6f67): Total: 5.721 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=5721 ms
+		Asset DB Callback time: managed=0 ms, native=0 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1880, non-scripts=5682
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.001ms
+	ApplyChangesToAssetFolders: 0.109ms
+	Scan: 5654.885ms
+	OnSourceAssetsModified: 0.001ms
+	CategorizeAssetsWithTransientArtifact: 0.001ms
+	ProcessAssetsWithTransientArtifactChanges: 0.151ms
+	CategorizeAssets: 44.560ms
+	ImportOutOfDateAssets: 1.729ms (0.319ms without children)
+		ReloadNativeAssets: 0.075ms
+		UnloadImportedAssets: 0.270ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.712ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.353ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.187ms
+	UnloadStreamsBegin: 0.092ms
+	PersistCurrentRevisions: 0.180ms
+	UnloadStreamsEnd: 0.001ms
+	Untracked: 19.122ms
+
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+Start importing Assets/XR/Settings/OpenXR Package Settings.asset using Guid(cde9340691ce94cd1831aa7032e70090) (NativeFormatImporter) -> (artifact id: '61a686d5afeb77c93476009f071e9a6f') in 0.020992083 seconds
+Refreshing native plugins compatible for Editor in 19.77 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.81 ms.
+Asset Pipeline Refresh (id=94abaf44f70c949c4a7f37da81d284ff): Total: 0.165 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Personally Puzzled Handoff] prepared Splash->Splash initial=True
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+RuntimeComfortTransitionV01:PrepareHandoff (RuntimePuzzleStage,RuntimePuzzleStage,bool) (at Assets/Scripts/RuntimeComfortTransitionV01.cs:96)
+PersistentPuzzleBootstrap/<TransitionTo>d__109:MoveNext () (at Assets/Scripts/PersistentPuzzleBootstrap.cs:653)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimeComfortTransitionV01.cs Line: 96)
+
+Created GICache directory at /Users/bytedance/Library/Caches/com.unity3d.UnityEditor/GiCache. Took: 0.120s, timestamps: [25.812 - 25.933]
+Start importing Assets/XR/Settings/OpenXR Package Settings.asset using Guid(cde9340691ce94cd1831aa7032e70090) (NativeFormatImporter) -> (artifact id: '61a686d5afeb77c93476009f071e9a6f') in 0.002848333 seconds
+Refreshing native plugins compatible for Editor in 22.42 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.87 ms.
+Asset Pipeline Refresh (id=7db6f1e912e6041b5bb94b5846c5c224): Total: 0.065 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Camera "Persistent PICO and desktop main camera" does not use a Tracked Pose Driver (Input System), so its transform will not be updated by an XR device.  In order for this to be updated, please add a Tracked Pose Driver (Input System) with bindings for position and rotation of the center eye.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+Unity.XR.CoreUtils.XROrigin:Awake () (at ./Library/PackageCache/com.unity.xr.core-utils@a8b900321199/Runtime/XROrigin.cs:554)
+
+(Filename: ./Library/PackageCache/com.unity.xr.core-utils@a8b900321199/Runtime/XROrigin.cs Line: 554)
+
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Splash_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            171.125 ms
+	Integration:            56.635 ms
+	Integration of assets:  0.010 ms
+	Thread Wait Time:       76.630 ms
+	Total Operation Time:   304.400 ms
+[Pinch Integrity V46] input source=v47-shared-release tracked=False pressed=False
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+RuntimeIntentRayV46:SetPinchSourceV46 (string) (at Assets/Scripts/RuntimeIntentRayV46.cs:525)
+RuntimeIntentRayV46:ReadPinch () (at Assets/Scripts/RuntimeIntentRayV46.cs:413)
+RuntimeIntentRayV46:Update () (at Assets/Scripts/RuntimeIntentRayV46.cs:168)
+
+(Filename: Assets/Scripts/RuntimeIntentRayV46.cs Line: 525)
+
+[PPVR Startup Routing] loaded · stage=Splash scene=Runtime_Splash_20260807_V80_ZeroLatencyAssembly
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PersistentPuzzleBootstrap/<TransitionTo>d__109:MoveNext () (at Assets/Scripts/PersistentPuzzleBootstrap.cs:680)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/PersistentPuzzleBootstrap.cs Line: 680)
+
+[Personally Puzzled Handoff V06] covered room registration stage=Splash translation=(0.00, 0.00, -0.30) yaw=0.000 v32=True wholeSceneV33=True towardPlayer=0.300 roots=4 rigidbodies=0 migratedPuzzlePosesV45=0 camera=(0.00, 1.60, 0.00) reference=(0.00, 1.60, -0.30) focusViewport=(0.51, 0.65, 6.06)
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+RuntimeCoveredStageRegistrationV06:ApplyNow (PersistentPuzzleBootstrap) (at Assets/Scripts/RuntimeCoveredStageRegistrationV06.cs:238)
+PersistentPuzzleBootstrap:ApplyCoveredStageRegistration (UnityEngine.SceneManagement.Scene) (at Assets/Scripts/PersistentPuzzleBootstrap.cs:792)
+PersistentPuzzleBootstrap/<TransitionTo>d__109:MoveNext () (at Assets/Scripts/PersistentPuzzleBootstrap.cs:693)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimeCoveredStageRegistrationV06.cs Line: 238)
+
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 275 unused Assets / (17.6 KB). Loaded Objects now: 8363.
+Memory consumption went from 411.4 MB to 411.4 MB.
+Total: 9.510583 ms (FindLiveObjects: 0.188792 ms CreateObjectMapping: 0.107583 ms MarkObjects: 8.664959 ms  DeleteObjects: 0.548917 ms)
+
+[PPVR V47 Gate] stage=Splash event=armed reason=tracking-gap gap=0.121
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SplashModelBuilderEntryV46:ProcessInput (bool,bool,bool,single) (at Assets/Scripts/SplashModelBuilderEntryV46.cs:79)
+SplashModelBuilderEntryV46:Update () (at Assets/Scripts/SplashModelBuilderEntryV46.cs:52)
+
+(Filename: Assets/Scripts/SplashModelBuilderEntryV46.cs Line: 79)
+
+[Personally Puzzled Handoff] revealed Splash
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+RuntimeComfortTransitionV01/<FadeTo>d__37:MoveNext () (at Assets/Scripts/RuntimeComfortTransitionV01.cs:167)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimeComfortTransitionV01.cs Line: 167)
+
+[Personally Puzzled Handoff] prepared Splash->Eiffel initial=False
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+RuntimeComfortTransitionV01:PrepareHandoff (RuntimePuzzleStage,RuntimePuzzleStage,bool) (at Assets/Scripts/RuntimeComfortTransitionV01.cs:96)
+PersistentPuzzleBootstrap/<TransitionTo>d__109:MoveNext () (at Assets/Scripts/PersistentPuzzleBootstrap.cs:653)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+UnityEngine.MonoBehaviour:StartCoroutineManaged2 (System.Collections.IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine (System.Collections.IEnumerator) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/MonoBehaviour.bindings.cs:114)
+PersistentPuzzleBootstrap:RequestStage (RuntimePuzzleStage,string) (at Assets/Scripts/PersistentPuzzleBootstrap.cs:602)
+PersistentPuzzleBootstrap:BeginLevel (int) (at Assets/Scripts/PersistentPuzzleBootstrap.cs:508)
+ZeroLatencyAssemblySmokeRunnerV80/<Start>d__0:MoveNext () (at Assets/Scripts/ZeroLatencyAssemblySmokeV80.cs:66)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimeComfortTransitionV01.cs Line: 96)
+
+[Personally Puzzled Audio V14] Random puzzle BGM: BGM_Open_02_Original_DylannTaylor_V15
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+RuntimeAudioConductor:SelectPuzzleMusic () (at Assets/Scripts/RuntimeAudioConductor.cs:148)
+RuntimeAudioConductor:CrossfadeTo (RuntimePuzzleStage) (at Assets/Scripts/RuntimeAudioConductor.cs:111)
+PersistentPuzzleBootstrap/<TransitionTo>d__109:MoveNext () (at Assets/Scripts/PersistentPuzzleBootstrap.cs:667)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimeAudioConductor.cs Line: 148)
+
+Camera "Persistent PICO and desktop main camera" does not use a Tracked Pose Driver (Input System), so its transform will not be updated by an XR device.  In order for this to be updated, please add a Tracked Pose Driver (Input System) with bindings for position and rotation of the center eye.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+Unity.XR.CoreUtils.XROrigin:Awake () (at ./Library/PackageCache/com.unity.xr.core-utils@a8b900321199/Runtime/XROrigin.cs:554)
+
+(Filename: ./Library/PackageCache/com.unity.xr.core-utils@a8b900321199/Runtime/XROrigin.cs Line: 554)
+
+Loaded scene 'Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Eiffel_20260807_V80_ZeroLatencyAssembly.unity'
+	Deserialize:            109.315 ms
+	Integration:            37.435 ms
+	Integration of assets:  0.482 ms
+	Thread Wait Time:       4.133 ms
+	Total Operation Time:   151.364 ms
+[PPVR Startup Routing] loaded · stage=Eiffel scene=Runtime_Level_Eiffel_20260807_V80_ZeroLatencyAssembly
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PersistentPuzzleBootstrap/<TransitionTo>d__109:MoveNext () (at Assets/Scripts/PersistentPuzzleBootstrap.cs:680)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/PersistentPuzzleBootstrap.cs Line: 680)
+
+[Personally Puzzled Handoff V06] covered room registration stage=Eiffel translation=(0.00, 0.00, -0.12) yaw=0.000 v32=True wholeSceneV33=True towardPlayer=0.300 roots=15 rigidbodies=11 migratedPuzzlePosesV45=10 camera=(0.00, 1.60, 0.00) reference=(0.00, 1.68, -0.30) focusViewport=(0.00, 0.00, 0.00)
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+RuntimeCoveredStageRegistrationV06:ApplyNow (PersistentPuzzleBootstrap) (at Assets/Scripts/RuntimeCoveredStageRegistrationV06.cs:238)
+PersistentPuzzleBootstrap:ApplyCoveredStageRegistration (UnityEngine.SceneManagement.Scene) (at Assets/Scripts/PersistentPuzzleBootstrap.cs:792)
+PersistentPuzzleBootstrap/<TransitionTo>d__109:MoveNext () (at Assets/Scripts/PersistentPuzzleBootstrap.cs:693)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimeCoveredStageRegistrationV06.cs Line: 238)
+
+Unloading 79 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 59 unused Assets / (0.5 MB). Loaded Objects now: 8135.
+Memory consumption went from 506.7 MB to 506.2 MB.
+Total: 6.745959 ms (FindLiveObjects: 0.203625 ms CreateObjectMapping: 0.103500 ms MarkObjects: 6.314958 ms  DeleteObjects: 0.123292 ms)
+
+[Personally Puzzled Handoff] revealed Eiffel
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+RuntimeComfortTransitionV01/<FadeTo>d__37:MoveNext () (at Assets/Scripts/RuntimeComfortTransitionV01.cs:167)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimeComfortTransitionV01.cs Line: 167)
+
+[PPVR V80 Smoke] FAILED · V80 runtime light/shadow budget failed
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+ZeroLatencyAssemblySmokeRunnerV80:Require (bool,string) (at Assets/Scripts/ZeroLatencyAssemblySmokeV80.cs:212)
+ZeroLatencyAssemblySmokeRunnerV80/<Start>d__0:MoveNext () (at Assets/Scripts/ZeroLatencyAssemblySmokeV80.cs:105)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/ZeroLatencyAssemblySmokeV80.cs Line: 212)
+
+Thread 0x342bc7000 may have been prematurely finalized
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
+Call to StopSubsystems without an initialized manager.Please make sure wait for initialization to complete before calling this API.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.XR.Management.XRManagerSettings:StopSubsystems () (at ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs:427)
+UnityEngine.XR.Management.XRManagerSettings:OnDisable () (at ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs:481)
+ZeroLatencyAssemblySmokeRunnerV80:Finish (int) (at Assets/Scripts/ZeroLatencyAssemblySmokeV80.cs:220)
+ZeroLatencyAssemblySmokeRunnerV80:Require (bool,string) (at Assets/Scripts/ZeroLatencyAssemblySmokeV80.cs:213)
+ZeroLatencyAssemblySmokeRunnerV80/<Start>d__0:MoveNext () (at Assets/Scripts/ZeroLatencyAssemblySmokeV80.cs:105)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs Line: 427)
+
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+[Licensing::IpcConnector] LicenseClient-bytedance-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-bytedance channel disconnected successfully.
+Thread 0x16e9ff000 may have been prematurely finalized
+Thread 0x16eb17000 may have been prematurely finalized
+Thread 0x16eba3000 may have been prematurely finalized
+Thread 0x16ea8b000 may have been prematurely finalized
+Thread 0x16ec2f000 may have been prematurely finalized
+Thread 0x16ecbb000 may have been prematurely finalized
+Thread 0x16ed47000 may have been prematurely finalized
+Thread 0x16edd3000 may have been prematurely finalized
+Thread 0x16eeeb000 may have been prematurely finalized
+Thread 0x16ee5f000 may have been prematurely finalized
+Thread 0x16ef77000 may have been prematurely finalized
+AcceleratorClientConnectionCallback - disconnected - :0
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+Cleanup mono
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      ALC ILPP context 1 is unloading
+debugger-agent: Unable to listen on 44
+[Package Manager] Server process was shutdown
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1786089428585,"processId":21146,"allocatedMemory":16158740,"memoryLabels":[{"Default":23613},{"Permanent":15320},{"Thread":1087816},{"Manager":31445},{"VertexData":8},{"Geometry":408},{"VFX":-104},{"Texture":296},{"Shader":78564},{"Material":24},{"GfxDevice":38368},{"Animation":408},{"Audio":4600},{"FontEngine":272},{"Physics":2113},{"Serialization":440},{"Input":9488},{"JobScheduler":33216},{"TextLib":160},{"Mono":32},{"MonoCode":72},{"ScriptingNativeRuntime":155032},{"BaseObject":1620544},{"Resource":912},{"Renderer":3456},{"Transform":4654},{"File":95820},{"WebCam":32},{"Culling":32},{"Terrain":11298},{"Wind":24},{"String":25495},{"DynamicArray":146571},{"HashMap":82361},{"Utility":2676696},{"PoolAlloc":1664},{"AI":72},{"TypeTree":5005},{"ScriptManager":512},{"RuntimeInitializeOnLoadManager":64},{"SpriteAtlas":112},{"GI":7280},{"Director":8192},{"CloudService":15336},{"WebRequest":776},{"VR":51201},{"SceneManager":504},{"Video":2112},{"LazyScriptCache":32},{"Camera":17},{"Secure":9785},{"SerializationCache":1576},{"APIUpdating":10320},{"Subsystems":-5272},{"VirtualTexturing":57504},{"StaticSafetyDebugInfo":278528},{"Analytics":368},{"Hierarchy":384},{"CoreStats":12616},{"Identifiers":12384},{"Gui":80},{"EditorUtility":58067},{"VersionControl":4},{"Undo":955},{"AssetDatabase":9438112},{"EditorGi":328},{"UnityConnect":24816},{"Upm":1804},{"DrivenProperties":72},{"LocalIPC":152},{"ProfilerEditor":9738},{"CoreBusinessMetrics":3030},{"Licensing":960},{"AssetReference":32},{"IPCStream":32}]}

@@ -1,0 +1,1 @@
+Independent scene; existing eight semantic mesh parts; branch graph 0 -> {1,2}; 2 -> 3 -> 4 -> 7 -> {5,6}; prototype capture .075 m / 40 degrees; desktop height/rotation assistance; no build settings changed.

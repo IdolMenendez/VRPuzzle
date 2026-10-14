@@ -1,0 +1,1589 @@
+Unity Editor version:    6000.0.77f1 (88f89d0d8b31)
+Branch:                  6000.0/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 26.5.1 (Build 25F80)
+Darwin version:          25.5.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        49152 MB
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-bytedance" at "2026-09-10T08:15:26.81646Z"
+Launching external process: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/PackageManager/Server/UnityPackageManager
+
+COMMAND LINE ARGUMENTS:
+/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MacOS/Unity
+-batchmode
+-projectPath
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+-executeMethod
+WindmillStudyBuilder.RunSmoke
+-logFile
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/176_WindmillDesignStudy_20260910/validate-final-r02.log
+Successfully changed project path to: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8388927104]  Target information:
+
+Player connection [8388927104]  * "[IP] 10.79.241.240 [Port] 55504 [Flags] 2 [Guid] 3952142759 [EditorId] 3952142759 [Version] 1048832 [Id] OSXEditor(0,H6CF6V271T) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8388927104] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8388927104] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              afd181fb1df048f781912071cbe462a2
+  Correlation Id:          6ad893757afb311ba06f7186ddb1c098
+  External correlation Id: 8509826954754288974
+  Machine Id:              LeVNMX2qyTd1zEMhHx8Y3O6ln5U=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-bytedance" (connect: 0.00s, validation: 0.00s, handshake: 0.23s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-bytedance-notifications" at "2026-09-10T08:15:27.051974Z"
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: ewogICJzdWJzR3JvdXAiIDogInVuaXR5IGVkaXRvciIsCiAgIm5hbWVzcGFjZSIgOiAidW5pdHlfZWRpdG9yIiwKICAidHlwZSIgOiAiRURJVE9SIiwKICAidGFnIiA6ICJVbml0eVBlcnNvbmFsXXXX
+  Product: Unity Personal Version
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.27s
+[Package Manager] Connected to IPC stream "Upm-27870" after 0.4 seconds.
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+[Licensing::Client] Successfully resolved entitlement details
+Refreshing native plugins compatible for Editor in 10.09 ms, found 6 plugins.
+Preloading 3 native plugins for Editor in 5.13 ms.
+Initialize engine version: 6000.0.77f1 (88f89d0d8b31)
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+ preferred device: Apple M5 Pro (high power)
+Metal devices available: 1
+0: Apple M5 Pro (high power)
+Using device Apple M5 Pro (high power)
+Initializing Metal device caps: Apple M5 Pro
+Initialize mono
+Mono path[0] = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56870
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.001222 seconds.
+- Loaded All Assemblies, in  0.188 seconds
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.203 seconds
+Domain Reload Profiling: 392ms
+	BeginReloadAssembly (68ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (17ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (78ms)
+		LoadAssemblies (70ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (75ms)
+			TypeCache.Refresh (74ms)
+				TypeCache.ScanAssembly (67ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (204ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (187ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (41ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (35ms)
+			ProcessInitializeOnLoadAttributes (63ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 53 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.cloud.gltfast@6.19.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.cloud.gltfast@92828f845157)
+    com.unity.xr.arfoundation@6.0.5 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1)
+    com.unity.xr.compositionlayers@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.compositionlayers@fc89f0bd9eb1)
+    com.unity.xr.hands@1.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.hands@b137b9cef9d8)
+    com.unity.xr.management@4.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.management@3126858600e6)
+    com.unity.xr.openxr@1.13.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd)
+    com.unity.xr.interaction.toolkit@3.0.7 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.interaction.toolkit@3c62ab08b942)
+    com.unity.inputsystem@1.11.2 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.inputsystem@3c4a97c3950f)
+    com.unity.scriptablebuildpipeline@1.20.1 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.scriptablebuildpipeline@51d0ffeee857)
+    com.unity.ide.rider@3.0.34 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ide.rider@ecbf706690e5)
+    com.unity.xr.core-utils@2.6.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.core-utils@a8b900321199)
+    com.unity.xr.legacyinputhelpers@2.1.12 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.legacyinputhelpers@b7579e86f3b4)
+    com.unity.editorcoroutines@1.1.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.editorcoroutines@87a15ed012c2)
+    com.unity.burst@1.8.29 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.burst@6bb9aca3ef38)
+    com.unity.collections@2.6.7 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.collections@31e963071226)
+    com.unity.mathematics@1.3.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.mathematics@19a9377c4ffa)
+    com.unity.searcher@4.9.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.searcher@1e17ce91558d)
+    com.unity.nuget.mono-cecil@1.11.6 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff)
+    com.unity.test-framework.performance@3.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.test-framework.performance@8b56083ec0f0)
+  Built-in packages:
+    com.unity.render-pipelines.universal@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.universal@f53585c49405)
+    com.unity.textmeshpro@5.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.textmeshpro@53f43edfd2e0)
+    com.unity.modules.androidjni@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.androidjni)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.jsonserialize)
+    com.unity.modules.unityanalytics@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unityanalytics)
+    com.unity.modules.ai@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.ai)
+    com.unity.modules.animation@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.audio)
+    com.unity.modules.imageconversion@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.imgui)
+    com.unity.modules.particlesystem@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.physics)
+    com.unity.modules.screencapture@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.terrain)
+    com.unity.modules.ui@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.umbra)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.video@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.video)
+    com.unity.modules.vr@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.vr)
+    com.unity.modules.xr@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.hierarchycore)
+    com.unity.ext.nunit@2.0.5 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ext.nunit@031a54704bff)
+    com.unity.ugui@2.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ugui@92256ab62536)
+    com.unity.render-pipelines.core@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.core@f127f5fd8324)
+    com.unity.shadergraph@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.shadergraph@fe106b49deb4)
+    com.unity.render-pipelines.universal-config@17.0.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.universal-config@dd206bf35d04)
+    com.unity.rendering.light-transport@1.0.1 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.rendering.light-transport@9bd588f963c0)
+    com.unity.test-framework@1.6.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.test-framework@082c24152fd4)
+  Embedded packages:
+    com.bytedance.pico.xr@file:/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr)
+[Package Manager] com.unity.textmeshpro is deprecated: This package is no longer supported. TextMeshPro functionalities are now included in the com.unity.ugui package. To continue using them, consider adding it to your project dependencies.
+[Subsystems] Looking for new subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr
+[Subsystems] Novel subsystem found at Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr
+[Subsystems] No descriptors matched for  examples in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'meshings' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  examples in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  displays in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  displays in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  meshings in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json.
+[Package Manager] Done registering packages in 0.04 seconds
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+[ScriptCompilation] Requested script compilation because: Assetdatabase observed changes in script compilation related files
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://unix:/tmp/ilpp.sock-5753aa6841acce6ec0f178d3d44a5ca9
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Content root path: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc - - 200 - application/grpc 26.0885ms
+Starting: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/1300b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+DisplayProgressbar: Compiling Scripts
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+[40m[1m[33mwarn[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+[40m[1m[33mwarn[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll" in favor of "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Burst.Cecil, Version=0.11.6.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.burst@6bb9aca3ef38/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Mono.Cecil, Version=0.11.5.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/Mono.Cecil.dll
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc - - 200 - application/grpc 19.0314ms
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.dll, with 146 defines and 323 references
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running Unity.Jobs.CodeGen.JobsILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with Library/Bee/artifacts/1300b0aE.dag/Unity.Collections.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Burst.Cecil.Rocks, Version=0.11.6.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.burst@6bb9aca3ef38/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc - - 200 - application/grpc 254.3280ms
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll, with 144 defines and 348 references
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running Unity.Jobs.CodeGen.JobsILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc - - 200 - application/grpc 28.5602ms
+ExitCode: 0 Duration: 2s665ms
+[ 819/1107  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[1099/1107  2s] Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.dll (+2 others)
+[1100/1107  0s] Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+Assets/Editor/AndroidSizeOptimization.cs(58,9): warning CS0618: 'PlayerSettings.SetIconsForTargetGroup(BuildTargetGroup, Texture2D[])' is obsolete: 'Use SetIcons(NamedBuildTarget, Texture2D[], IconKind) instead'
+[1101/1107  0s] ILPostProcess Library/Bee/artifacts/1300b0aE.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.dll, with 146 defines and 323 references
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[1102/1107  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+[1103/1107  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+[1104/1107  0s] ILPostProcess Library/Bee/artifacts/1300b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll, with 144 defines and 348 references
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[1105/1107  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+[1106/1107  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+*** Tundra build success (2.64 seconds), 9 items updated, 1107 evaluated
+Assets/Editor/AndroidSizeOptimization.cs(58,9): warning CS0618: 'PlayerSettings.SetIconsForTargetGroup(BuildTargetGroup, Texture2D[])' is obsolete: 'Use SetIcons(NamedBuildTarget, Texture2D[], IconKind) instead'
+AssetDatabase: script compilation time: 3.145412s
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.572 seconds
+'Packages/com.unity.xr.openxr/Runtime/OpenXRLoaderInternal.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.xr.openxr/Runtime/OpenXRLoader.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Refreshing native plugins compatible for Editor in 19.27 ms, found 15 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 9.57 ms, found 15 plugins.
+PXRLog [Build Check]RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+ByteDance.PICO.XR.Editor.PXR_SDKBuildCheck:.cctor () (at ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs Line: 31)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.024 seconds
+Domain Reload Profiling: 2596ms
+	BeginReloadAssembly (202ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (122ms)
+	RebuildCommonClasses (17ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (335ms)
+		LoadAssemblies (294ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (99ms)
+			TypeCache.Refresh (69ms)
+				TypeCache.ScanAssembly (63ms)
+			BuildScriptInfoCaches (21ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (2024ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1936ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (71ms)
+			ProcessInitializeOnLoadAttributes (1633ms)
+			ProcessInitializeOnLoadMethodAttributes (213ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (7ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Refreshing native plugins compatible for Editor in 11.27 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.57 ms.
+Asset Pipeline Refresh (id=b12c62c811f0046a98da6c6d3d73c49e): Total: 8.403 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=4421 ms
+		Asset DB Callback time: managed=176 ms, native=62 ms
+		Scripting: domain reloads=1, domain reload time=572 ms, compile time=3146 ms, other=22 ms
+		Project Asset Count: scripts=1713, non-scripts=2726
+		Asset File Changes: new=0, changed=3, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 46.937ms
+	ApplyChangesToAssetFolders: 0.166ms
+	Scan: 2138.263ms
+	OnSourceAssetsModified: 0.597ms
+	CategorizeAssetsWithTransientArtifact: 28.167ms
+	ProcessAssetsWithTransientArtifactChanges: 37.222ms
+	CategorizeAssets: 34.385ms
+	ImportOutOfDateAssets: 2062.599ms (-1084.830ms without children)
+		CompileScripts: 3146.202ms
+		ReloadNativeAssets: 0.025ms
+		UnloadImportedAssets: 0.554ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.444ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.203ms
+	PostProcessAllAssets: 177.407ms
+	Hotreload: 17.065ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.000ms
+	UnloadStreamsBegin: 0.906ms
+	PersistCurrentRevisions: 0.082ms
+	UnloadStreamsEnd: 0.001ms
+	GenerateScriptTypeHashes: 1.764ms
+	Untracked: 3858.831ms
+
+Application.AssetDatabase Initial Refresh End
+Scanning for USB devices : 0.096ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Personally Puzzled XR
+2026-09-10 16:15:36.910 Unity[27870:78676302] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb58ac8d20 Start Auto Demo, ke='Command-F9'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 16:15:36.910 Unity[27870:78676302] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb58ac8c80 Start Player Manual, ke='Command-F8'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 16:15:36.910 Unity[27870:78676302] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb58ac8be0 Stop Play Mode, ke='Command-F10'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 16:15:36.912 Unity[27870:78676302] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb58b5fca0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6024 unused Assets / (4.6 MB). Loaded Objects now: 6778.
+Memory consumption went from 244.0 MB to 239.4 MB.
+Total: 10.476291 ms (FindLiveObjects: 0.196583 ms CreateObjectMapping: 0.199917 ms MarkObjects: 8.400041 ms  DeleteObjects: 1.678833 ms)
+
+2026-09-10 16:15:36.998 Unity[27870:78676302] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb58b6b3e0 Start Auto Demo, ke='Command-F9'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 16:15:36.999 Unity[27870:78676302] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb58b6b480 Start Player Manual, ke='Command-F8'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 16:15:36.999 Unity[27870:78676302] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb58b6b520 Stop Play Mode, ke='Command-F10'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 16:15:37.001 Unity[27870:78676302] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb58b643c0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Opening scene 'Assets/Scenes/WindmillStudy_20260910_V01_LivingWorkshop.unity'
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/WindmillStudy_20260910_V01_LivingWorkshop.unity'
+	Deserialize:            32.600 ms
+	Integration:            420.673 ms
+	Integration of assets:  2.084 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   455.362 ms
+Unloading 1 unused Assets / (0.5 KB). Loaded Objects now: 8248.
+Memory consumption went from 266.2 MB to 266.2 MB.
+Total: 8.227542 ms (FindLiveObjects: 0.143291 ms CreateObjectMapping: 0.071959 ms MarkObjects: 7.996750 ms  DeleteObjects: 0.015250 ms)
+
+[Windmill Study] STATIC VALIDATION PASSED
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudyBuilder:Validate () (at Assets/Editor/WindmillStudyBuilder.cs:197)
+WindmillStudyBuilder:RunSmoke () (at Assets/Editor/WindmillStudyBuilder.cs:202)
+
+(Filename: Assets/Editor/WindmillStudyBuilder.cs Line: 197)
+
+[Project] Loading completed in 10.703 seconds
+	Project init time: 				9.679 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.350 seconds
+		Asset Database init time: 		0.147 seconds
+		Global illumination init time: 	0.001 seconds
+		Assemblies load time: 			0.401 seconds
+		Unity extensions init time: 	0.006 seconds
+		Asset Database refresh time: 	8.403 seconds
+	Scene opening time: 			0.946 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1789028137509,"processId":27870,"projectLoad":10.703406958000003,"projectInit":9.679356875,"templateInit":0.0,"packageManagerInit":0.350144459,"assetDatabaseInit":0.146633583,"globalIlluminationInit":0.000670167,"assembliesLoad":0.401160958,"unityExtensionsInit":0.005932125,"assetDatabaseRefresh":8.402691666,"sceneOpening":0.946152041}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1789028137509,"processId":27870,"editorVersion":"6000.0.77f1 (88f89d0d8b31)","branch":"6000.0/staging","buildType":"Release","platform":"OSX"}
+Subscribe to USB device events
+Scanning for USB devices : 0.071ms
+Thread 0x339f4f000 may have been prematurely finalized
+Reloading assemblies for play mode.
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Call to StopSubsystems without an initialized manager.Please make sure wait for initialization to complete before calling this API.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.XR.Management.XRManagerSettings:StopSubsystems () (at ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs:427)
+UnityEngine.XR.Management.XRManagerSettings:OnDisable () (at ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs:481)
+
+(Filename: ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs Line: 427)
+
+- Loaded All Assemblies, in  0.366 seconds
+Refreshing native plugins compatible for Editor in 10.54 ms, found 15 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+PXRLog [Build Check]RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+ByteDance.PICO.XR.Editor.PXR_SDKBuildCheck:.cctor () (at ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs Line: 31)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.826 seconds
+Domain Reload Profiling: 1194ms
+	BeginReloadAssembly (216ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (148ms)
+	RebuildCommonClasses (19ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (114ms)
+		LoadAssemblies (77ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (73ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (57ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (826ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (532ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (11ms)
+			BeforeProcessingInitializeOnLoad (117ms)
+			ProcessInitializeOnLoadAttributes (328ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (20ms)
+Asset Pipeline Refresh (id=19f86256d3fe84fe1953af3d905a3f60): Total: 1.311 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=922 ms
+		Asset DB Callback time: managed=14 ms, native=0 ms
+		Scripting: domain reloads=1, domain reload time=372 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=1713, non-scripts=2726
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 3.754ms
+	ApplyChangesToAssetFolders: 0.154ms
+	Scan: 0.000ms
+	OnSourceAssetsModified: 0.001ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 2.431ms
+	CategorizeAssets: 40.312ms
+	ImportOutOfDateAssets: 852.407ms (848.989ms without children)
+		CompileScripts: 0.736ms
+		CollectScriptTypesHashes: 1.395ms
+		ReloadNativeAssets: 0.647ms
+		UnloadImportedAssets: 0.073ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.399ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.166ms
+	PostProcessAllAssets: 14.510ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.066ms
+	UnloadStreamsBegin: 0.144ms
+	PersistCurrentRevisions: 0.083ms
+	UnloadStreamsEnd: 0.001ms
+	GenerateScriptTypeHashes: 3.096ms
+	Untracked: 397.024ms
+
+Refreshing native plugins compatible for Editor in 9.62 ms, found 15 plugins.
+[XR] Time interace not found - delta time prediction disabled.
+[Subsystems] OpenXR XR Plugin successfully registered Provider for OpenXR Display
+[Subsystems] OpenXR XR Plugin successfully registered Provider for OpenXR Input
+[Subsystems] OpenXR XR Plugin successfully registered Provider for OpenXR Display
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f404de80] [16:15:38.945][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f404de80] [16:15:38.945][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f404de80] [16:15:38.945][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f404de80] [16:15:38.945][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f404de80] [16:15:38.945][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f404de80] [16:15:38.946][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+[Subsystems] Loading plugin UnityOpenXR for subsystem OpenXR Display...
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f404de80] [16:15:38.948][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f404de80] [16:15:38.948][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f404de80] [16:15:38.948][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed to find default runtime with RuntimeInterface::LoadRuntime()
+Error [GENERAL | xrEnumerateInstanceExtensionProperties | OpenXR-Loader] : Failed querying extension properties
+[XR] [0x1f404de80] [16:15:38.948][Error  ] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE
+[XR] [0x1f404de80] [16:15:38.948][Info   ] Available Layers: (0)
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : xrCreateInstance called with invalid API version 1.1.  Max supported version is 1.0
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : RuntimeManifestFile::FindManifestFiles - failed to determine active runtime file path for this environment
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - unknown error
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : RuntimeInterface::LoadRuntimes - failed to load a runtime
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : Failed loading runtime information
+Error [GENERAL | xrCreateInstance | OpenXR-Loader] : xrCreateInstance failed
+[XR] [0x1f404de80] [16:15:38.949][Error  ] xrCreateInstance: XR_ERROR_RUNTIME_UNAVAILABLE
+[Subsystems] Failed to initialize subsystem OpenXR Display [error: 1]
+[XR] [0x1f404de80] [16:15:38.949][Error  ] xrPollEvent: XR_ERROR_FUNCTION_UNSUPPORTED
+[XR] [0x1f404de80] [16:15:38.950][Info   ] 
+
+==== Start Unity OpenXR Diagnostic Report ====
+
+
+[XR] [0x1f404de80] [16:15:38.950][Info   ] ==== Report Reason: System Shutdown ====
+
+
+[XR] [0x1f404de80] [16:15:38.950][Info   ] ==== OpenXR Init Info ====
+[XR] [0x1f404de80] [16:15:38.950][Info   ] 
+[XR] [0x1f404de80] [16:15:38.950][Info   ] Stage 1 Missing Entry Points: (1)
+[XR] [0x1f404de80] [16:15:38.950][Info   ]   xrInitializeLoaderKHR
+[XR] [0x1f404de80] [16:15:38.950][Info   ] 
+[XR] [0x1f404de80] [16:15:38.950][Info   ] ==== OpenXR Runtime Info ====
+[XR] [0x1f404de80] [16:15:38.950][Info   ] 
+[XR] [0x1f404de80] [16:15:38.950][Info   ] Available Layers: (0)
+[XR] [0x1f404de80] [16:15:38.950][Info   ] 
+[XR] [0x1f404de80] [16:15:38.950][Info   ] ==== Last 20 non-XR_SUCCESS returns ====
+[XR] [0x1f404de80] [16:15:38.950][Info   ] [FAILURE] xrEnumerateInstanceExtensionProperties: XR_ERROR_RUNTIME_UNAVAILABLE (10x)
+[XR] [0x1f404de80] [16:15:38.950][Info   ] [FAILURE] xrCreateInstance: XR_ERROR_RUNTIME_UNAVAILABLE (1x)
+[XR] [0x1f404de80] [16:15:38.950][Info   ] [FAILURE] xrPollEvent: XR_ERROR_FUNCTION_UNSUPPORTED (1x)
+[XR] [0x1f404de80] [16:15:38.950][Info   ] 
+[XR] [0x1f404de80] [16:15:38.950][Info   ] ==== Last 20 Events ====
+[XR] [0x1f404de80] [16:15:38.950][Info   ] 
+
+==== End Unity OpenXR Diagnostic Report ====
+
+
+Camera "RuntimeReferenceCamera · fixed neutral persistent XR eye" does not use a Tracked Pose Driver (Input System), so its transform will not be updated by an XR device.  In order for this to be updated, please add a Tracked Pose Driver (Input System) with bindings for position and rotation of the center eye.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+Unity.XR.CoreUtils.XROrigin:Awake () (at ./Library/PackageCache/com.unity.xr.core-utils@a8b900321199/Runtime/XROrigin.cs:554)
+
+(Filename: ./Library/PackageCache/com.unity.xr.core-utils@a8b900321199/Runtime/XROrigin.cs Line: 554)
+
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            38.019 ms
+	Integration:            240.330 ms
+	Integration of assets:  2.078 ms
+	Thread Wait Time:       -0.004 ms
+	Total Operation Time:   280.422 ms
+[Personally Puzzled Audio V14] Random puzzle BGM: BGM_Open_02_Original_DylannTaylor_V15
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+RuntimeAudioConductor:SelectPuzzleMusic () (at Assets/Scripts/RuntimeAudioConductor.cs:148)
+RuntimeAudioConductor:CrossfadeTo (RuntimePuzzleStage) (at Assets/Scripts/RuntimeAudioConductor.cs:111)
+RuntimeStandaloneStageAudio:Start () (at Assets/Scripts/RuntimeStandaloneStageAudio.cs:38)
+
+(Filename: Assets/Scripts/RuntimeAudioConductor.cs Line: 148)
+
+[Windmill Study] Smoke runner started
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:19)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 19)
+
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Asset Pipeline Refresh (id=d51422bab65814c418c67c489511f800): Total: 0.735 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=735 ms
+		Asset DB Callback time: managed=0 ms, native=0 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1713, non-scripts=2726
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.090ms
+	Scan: 706.749ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.001ms
+	ProcessAssetsWithTransientArtifactChanges: 0.033ms
+	CategorizeAssets: 20.935ms
+	ImportOutOfDateAssets: 0.704ms (0.125ms without children)
+		ReloadNativeAssets: 0.075ms
+		UnloadImportedAssets: 0.077ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.264ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.162ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.067ms
+	UnloadStreamsBegin: 0.215ms
+	PersistCurrentRevisions: 0.083ms
+	UnloadStreamsEnd: 0.001ms
+	Untracked: 6.526ms
+
+Launching external process: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.07 seconds
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+Start importing Assets/XR/Settings/OpenXR Package Settings.asset using Guid(cde9340691ce94cd1831aa7032e70090) (NativeFormatImporter) -> (artifact id: '61a686d5afeb77c93476009f071e9a6f') in 0.005306083 seconds
+Refreshing native plugins compatible for Editor in 9.66 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.76 ms.
+Asset Pipeline Refresh (id=e2f0822ff405645949683c990e6dc52b): Total: 0.055 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Created GICache directory at /Users/bytedance/Library/Caches/com.unity3d.UnityEditor/GiCache. Took: 0.028s, timestamps: [12.424 - 12.452]
+Start importing Assets/XR/Settings/OpenXR Package Settings.asset using Guid(cde9340691ce94cd1831aa7032e70090) (NativeFormatImporter) -> (artifact id: '61a686d5afeb77c93476009f071e9a6f') in 0.001228959 seconds
+Refreshing native plugins compatible for Editor in 9.28 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.48 ms.
+Asset Pipeline Refresh (id=3928cacfc89f14fe2a0969a879a6e72d): Total: 0.028 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Windmill Study] PASS fresh state
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:37)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS dependency before base
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:38)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS locked sail rejects grab
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:39)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] Pointer test screen=640x480 down=(200.24, 194.78)
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:43)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 43)
+
+[Windmill Study] PASS screen-space pointer picks visible piece
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:46)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[PPVR V69 Snap] event=release-decision target=V09 DUTCH WINDMILL complete module 01 · Part_01_WalnutCollectorPlinth distance=0.0000 tolerance=0.0750 angle=0.0 angleTolerance=40.0 available=True approach=True
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+RuntimePuzzlePiece:TrySnapOrReturn () (at Assets/Scripts/RuntimePuzzlePiece.cs:692)
+RuntimePuzzlePiece:EndExternalGrab (int) (at Assets/Scripts/RuntimePuzzlePiece.cs:496)
+WindmillStudyDirector:EndPointerGrab () (at Assets/Scripts/WindmillStudyDirector.cs:120)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:55)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimePuzzlePiece.cs Line: 692)
+
+[Windmill Study] PASS screen-space pointer drag and release connects
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:57)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS manual rotation changes the held piece
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:65)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[PPVR V69 Snap] event=release-decision target=V09 DUTCH WINDMILL complete module 01 · Part_01_WalnutCollectorPlinth distance=0.3216 tolerance=0.0750 angle=25.9 angleTolerance=40.0 available=True approach=True
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+RuntimePuzzlePiece:TrySnapOrReturn () (at Assets/Scripts/RuntimePuzzlePiece.cs:692)
+RuntimePuzzlePiece:EndExternalGrab (int) (at Assets/Scripts/RuntimePuzzlePiece.cs:496)
+WindmillStudyDirector:EndPointerGrab () (at Assets/Scripts/WindmillStudyDirector.cs:120)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:66)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimePuzzlePiece.cs Line: 692)
+
+[Windmill Study] PASS available 0
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:69)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS held 0
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:71)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[PPVR V69 Snap] event=release-decision target=V09 DUTCH WINDMILL complete module 01 · Part_01_WalnutCollectorPlinth distance=0.3412 tolerance=0.0750 angle=0.0 angleTolerance=40.0 available=True approach=True
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+RuntimePuzzlePiece:TrySnapOrReturn () (at Assets/Scripts/RuntimePuzzlePiece.cs:692)
+RuntimePuzzlePiece:EndExternalGrab (int) (at Assets/Scripts/RuntimePuzzlePiece.cs:496)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:74)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimePuzzlePiece.cs Line: 692)
+
+[Windmill Study] PASS wrong release rejected
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:74)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS wrong release returns home
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:76)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[PPVR V69 Snap] event=release-decision target=V09 DUTCH WINDMILL complete module 01 · Part_01_WalnutCollectorPlinth distance=0.0000 tolerance=0.0750 angle=0.0 angleTolerance=40.0 available=True approach=True
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+RuntimePuzzlePiece:TrySnapOrReturn () (at Assets/Scripts/RuntimePuzzlePiece.cs:692)
+RuntimePuzzlePiece:EndExternalGrab (int) (at Assets/Scripts/RuntimePuzzlePiece.cs:496)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimePuzzlePiece.cs Line: 692)
+
+[Windmill Study] PASS release connects 0
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS garden/structure branch
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:87)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS available 2
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:69)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS held 2
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:71)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[PPVR V69 Snap] event=release-decision target=V09 DUTCH WINDMILL complete module 03 · Part_03_LowerStoneTower distance=0.0000 tolerance=0.0750 angle=0.0 angleTolerance=40.0 available=True approach=True
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+RuntimePuzzlePiece:TrySnapOrReturn () (at Assets/Scripts/RuntimePuzzlePiece.cs:692)
+RuntimePuzzlePiece:EndExternalGrab (int) (at Assets/Scripts/RuntimePuzzlePiece.cs:496)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimePuzzlePiece.cs Line: 692)
+
+[Windmill Study] PASS release connects 2
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS available 3
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:69)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS held 3
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:71)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[PPVR V69 Snap] event=release-decision target=V09 DUTCH WINDMILL complete module 04 · Part_04_BalconyAndUpperTower distance=0.0000 tolerance=0.0750 angle=0.0 angleTolerance=40.0 available=True approach=True
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+RuntimePuzzlePiece:TrySnapOrReturn () (at Assets/Scripts/RuntimePuzzlePiece.cs:692)
+RuntimePuzzlePiece:EndExternalGrab (int) (at Assets/Scripts/RuntimePuzzlePiece.cs:496)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimePuzzlePiece.cs Line: 692)
+
+[Windmill Study] PASS release connects 3
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS reset clears progress
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:91)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS mid-level restore
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:93)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS available 4
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:69)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS held 4
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:71)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[PPVR V69 Snap] event=release-decision target=V09 DUTCH WINDMILL complete module 05 · Part_05_TimberRoofMachineryHouse distance=0.0000 tolerance=0.0750 angle=0.0 angleTolerance=40.0 available=True approach=True
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+RuntimePuzzlePiece:TrySnapOrReturn () (at Assets/Scripts/RuntimePuzzlePiece.cs:692)
+RuntimePuzzlePiece:EndExternalGrab (int) (at Assets/Scripts/RuntimePuzzlePiece.cs:496)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimePuzzlePiece.cs Line: 692)
+
+[Windmill Study] PASS release connects 4
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS available 7
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:69)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS held 7
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:71)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[PPVR V69 Snap] event=release-decision target=V09 DUTCH WINDMILL complete module 08 · Part_08_AntiqueBrassAxleHub distance=0.0000 tolerance=0.0750 angle=0.0 angleTolerance=40.0 available=True approach=True
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+RuntimePuzzlePiece:TrySnapOrReturn () (at Assets/Scripts/RuntimePuzzlePiece.cs:692)
+RuntimePuzzlePiece:EndExternalGrab (int) (at Assets/Scripts/RuntimePuzzlePiece.cs:496)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimePuzzlePiece.cs Line: 692)
+
+[Windmill Study] PASS release connects 7
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS available 6
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:69)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS held 6
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:71)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[PPVR V69 Snap] event=release-decision target=V09 DUTCH WINDMILL complete module 07 · Part_07_OpposingBladePair_NW_SE distance=0.0000 tolerance=0.0750 angle=0.0 angleTolerance=40.0 available=True approach=True
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+RuntimePuzzlePiece:TrySnapOrReturn () (at Assets/Scripts/RuntimePuzzlePiece.cs:692)
+RuntimePuzzlePiece:EndExternalGrab (int) (at Assets/Scripts/RuntimePuzzlePiece.cs:496)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimePuzzlePiece.cs Line: 692)
+
+[Windmill Study] PASS release connects 6
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS available 5
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:69)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS held 5
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:71)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[PPVR V69 Snap] event=release-decision target=V09 DUTCH WINDMILL complete module 06 · Part_06_OpposingBladePair_NE_SW distance=0.0000 tolerance=0.0750 angle=0.0 angleTolerance=40.0 available=True approach=True
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+RuntimePuzzlePiece:TrySnapOrReturn () (at Assets/Scripts/RuntimePuzzlePiece.cs:692)
+RuntimePuzzlePiece:EndExternalGrab (int) (at Assets/Scripts/RuntimePuzzlePiece.cs:496)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimePuzzlePiece.cs Line: 692)
+
+[Windmill Study] PASS release connects 5
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS available 1
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:69)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS held 1
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:71)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[PPVR V69 Snap] event=release-decision target=V09 DUTCH WINDMILL complete module 02 · Part_02_FlowerLandscapeTerrace distance=0.0000 tolerance=0.0750 angle=0.0 angleTolerance=40.0 available=True approach=True
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+RuntimePuzzlePiece:TrySnapOrReturn () (at Assets/Scripts/RuntimePuzzlePiece.cs:692)
+RuntimePuzzlePiece:EndExternalGrab (int) (at Assets/Scripts/RuntimePuzzlePiece.cs:496)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/RuntimePuzzlePiece.cs Line: 692)
+
+[Windmill Study] PASS release connects 1
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:85)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS construction is not activation
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:96)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS back-and-forth does not accumulate progress
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:97)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS manual turn activates either direction
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:99)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS clean restart
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:101)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PASS completed collectible restored
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke:Require (bool,string) (at Assets/Scripts/WindmillStudySmoke.cs:107)
+WindmillStudySmoke/<Check>d__2:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:103)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:26)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 107)
+
+[Windmill Study] PLAY VALIDATION PASSED - dependency, grab/release, wrong release, save/restore, activation, reset
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:30)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: Assets/Scripts/WindmillStudySmoke.cs Line: 30)
+
+Thread 0x17dd37000 may have been prematurely finalized
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
+Call to StopSubsystems without an initialized manager.Please make sure wait for initialization to complete before calling this API.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.XR.Management.XRManagerSettings:StopSubsystems () (at ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs:427)
+UnityEngine.XR.Management.XRManagerSettings:OnDisable () (at ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs:481)
+WindmillStudySmoke/<Start>d__1:MoveNext () (at Assets/Scripts/WindmillStudySmoke.cs:31)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/Coroutines.cs:17)
+
+(Filename: ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs Line: 427)
+
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+[Licensing::IpcConnector] LicenseClient-bytedance-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-bytedance channel disconnected successfully.
+Thread 0x16e583000 may have been prematurely finalized
+Thread 0x16e60f000 may have been prematurely finalized
+Thread 0x16e83f000 may have been prematurely finalized
+Thread 0x16e8cb000 may have been prematurely finalized
+Thread 0x16eb87000 may have been prematurely finalized
+Thread 0x16ec13000 may have been prematurely finalized
+Thread 0x16ed2b000 may have been prematurely finalized
+Thread 0x16e727000 may have been prematurely finalized
+Thread 0x16e9e3000 may have been prematurely finalized
+Thread 0x16ea6f000 may have been prematurely finalized
+Thread 0x16eafb000 may have been prematurely finalized
+Thread 0x16e7b3000 may have been prematurely finalized
+Thread 0x16e69b000 may have been prematurely finalized
+Thread 0x16ec9f000 may have been prematurely finalized
+Thread 0x16edb7000 may have been prematurely finalized
+Thread 0x16e957000 may have been prematurely finalized
+Thread 0x16ee43000 may have been prematurely finalized
+AcceleratorClientConnectionCallback - disconnected - :0
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+Cleanup mono
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      ALC ILPP context 1 is unloading
+debugger-agent: Unable to listen on 43
+[Package Manager] Server process was shutdown
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1789028154278,"processId":27870,"allocatedMemory":11333626,"memoryLabels":[{"Default":23613},{"Permanent":15320},{"Thread":1088712},{"Manager":35773},{"VertexData":8},{"Geometry":408},{"VFX":-104},{"Texture":296},{"Shader":78564},{"Material":24},{"GfxDevice":38520},{"Animation":408},{"Audio":4600},{"FontEngine":272},{"Physics":2113},{"Serialization":440},{"Input":9488},{"JobScheduler":33216},{"TextLib":160},{"Mono":32},{"MonoCode":72},{"ScriptingNativeRuntime":155032},{"BaseObject":1620544},{"Resource":912},{"Renderer":3456},{"Transform":4654},{"File":3777},{"WebCam":32},{"Culling":32},{"Terrain":11298},{"Wind":24},{"String":16976},{"DynamicArray":145770},{"HashMap":83013},{"Utility":2679192},{"PoolAlloc":1808},{"AI":72},{"TypeTree":5005},{"ScriptManager":512},{"RuntimeInitializeOnLoadManager":64},{"SpriteAtlas":112},{"GI":7280},{"Director":8192},{"CloudService":12024},{"WebRequest":776},{"VR":51201},{"SceneManager":504},{"Video":2112},{"LazyScriptCache":32},{"NativeArray":936},{"Camera":17},{"Secure":9865},{"SerializationCache":1576},{"APIUpdating":10320},{"Subsystems":-5272},{"VirtualTexturing":57504},{"StaticSafetyDebugInfo":278528},{"Baselib":16},{"Analytics":368},{"Hierarchy":384},{"CoreStats":12616},{"Identifiers":12384},{"Gui":104},{"EditorUtility":144810},{"VersionControl":4},{"Undo":955},{"AssetDatabase":4621216},{"EditorGi":328},{"UnityConnect":24816},{"Upm":1804},{"DrivenProperties":72},{"LocalIPC":152},{"ProfilerEditor":9738},{"CoreBusinessMetrics":3020},{"Licensing":960},{"AssetReference":32},{"IPCStream":32}]}

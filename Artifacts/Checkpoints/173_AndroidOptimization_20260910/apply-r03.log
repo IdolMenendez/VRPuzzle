@@ -1,0 +1,2558 @@
+Unity Editor version:    6000.0.77f1 (88f89d0d8b31)
+Branch:                  6000.0/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 26.5.1 (Build 25F80)
+Darwin version:          25.5.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        49152 MB
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-bytedance" at "2026-09-10T04:37:59.624031Z"
+Launching external process: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/PackageManager/Server/UnityPackageManager
+
+COMMAND LINE ARGUMENTS:
+/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MacOS/Unity
+-batchmode
+-projectPath
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+-buildTarget
+Android
+-executeMethod
+AndroidSizeOptimization.Apply
+-quit
+-logFile
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/173_AndroidOptimization_20260910/apply-r03.log
+Successfully changed project path to: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8388927104]  Target information:
+
+Player connection [8388927104]  * "[IP] 10.79.241.240 [Port] 55504 [Flags] 2 [Guid] 3320089678 [EditorId] 3320089678 [Version] 1048832 [Id] OSXEditor(0,H6CF6V271T) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8388927104] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8388927104] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              09089862c2d145ab901137c706cc305a
+  Correlation Id:          6ad893757afb311ba06f7186ddb1c098
+  External correlation Id: 8143465908592847178
+  Machine Id:              LeVNMX2qyTd1zEMhHx8Y3O6ln5U=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-bytedance" (connect: 0.00s, validation: 0.00s, handshake: 0.24s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-bytedance-notifications" at "2026-09-10T04:37:59.862453Z"
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: ewogICJzdWJzR3JvdXAiIDogInVuaXR5IGVkaXRvciIsCiAgIm5hbWVzcGFjZSIgOiAidW5pdHlfZWRpdG9yIiwKICAidHlwZSIgOiAiRURJVE9SIiwKICAidGFnIiA6ICJVbml0eVBlcnNvbmFsXXXX
+  Product: Unity Personal Version
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.25s
+[Package Manager] Connected to IPC stream "Upm-77890" after 1.0 seconds.
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Artifact Garbage Collection - Removed 2 unused hashed content files[Licensing::Client] Successfully resolved entitlement details
+Targeting platform: Android
+Refreshing native plugins compatible for Editor in 15.07 ms, found 6 plugins.
+Preloading 3 native plugins for Editor in 24.12 ms.
+Initialize engine version: 6000.0.77f1 (88f89d0d8b31)
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+ preferred device: Apple M5 Pro (high power)
+Metal devices available: 1
+0: Apple M5 Pro (high power)
+Using device Apple M5 Pro (high power)
+Initializing Metal device caps: Apple M5 Pro
+Initialize mono
+Mono path[0] = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56890
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.002802 seconds.
+- Loaded All Assemblies, in  0.324 seconds
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.193 seconds
+Domain Reload Profiling: 518ms
+	BeginReloadAssembly (164ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (99ms)
+		LoadAssemblies (167ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (94ms)
+			TypeCache.Refresh (94ms)
+				TypeCache.ScanAssembly (84ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (193ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (177ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (49ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (30ms)
+			ProcessInitializeOnLoadAttributes (68ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 53 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.cloud.gltfast@6.19.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.cloud.gltfast@92828f845157)
+    com.unity.xr.arfoundation@6.0.5 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1)
+    com.unity.xr.compositionlayers@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.compositionlayers@fc89f0bd9eb1)
+    com.unity.xr.hands@1.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.hands@b137b9cef9d8)
+    com.unity.xr.management@4.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.management@3126858600e6)
+    com.unity.xr.openxr@1.13.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd)
+    com.unity.xr.interaction.toolkit@3.0.7 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.interaction.toolkit@3c62ab08b942)
+    com.unity.inputsystem@1.11.2 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.inputsystem@3c4a97c3950f)
+    com.unity.scriptablebuildpipeline@1.20.1 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.scriptablebuildpipeline@51d0ffeee857)
+    com.unity.ide.rider@3.0.34 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ide.rider@ecbf706690e5)
+    com.unity.xr.core-utils@2.6.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.core-utils@a8b900321199)
+    com.unity.xr.legacyinputhelpers@2.1.12 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.legacyinputhelpers@b7579e86f3b4)
+    com.unity.editorcoroutines@1.1.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.editorcoroutines@87a15ed012c2)
+    com.unity.burst@1.8.29 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.burst@6bb9aca3ef38)
+    com.unity.collections@2.6.7 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.collections@31e963071226)
+    com.unity.mathematics@1.3.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.mathematics@19a9377c4ffa)
+    com.unity.searcher@4.9.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.searcher@1e17ce91558d)
+    com.unity.nuget.mono-cecil@1.11.6 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff)
+    com.unity.test-framework.performance@3.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.test-framework.performance@8b56083ec0f0)
+  Built-in packages:
+    com.unity.render-pipelines.universal@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.universal@f53585c49405)
+    com.unity.textmeshpro@5.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.textmeshpro@53f43edfd2e0)
+    com.unity.modules.androidjni@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.androidjni)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.jsonserialize)
+    com.unity.modules.unityanalytics@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unityanalytics)
+    com.unity.modules.ai@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.ai)
+    com.unity.modules.animation@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.audio)
+    com.unity.modules.imageconversion@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.imgui)
+    com.unity.modules.particlesystem@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.physics)
+    com.unity.modules.screencapture@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.terrain)
+    com.unity.modules.ui@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.umbra)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.video@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.video)
+    com.unity.modules.vr@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.vr)
+    com.unity.modules.xr@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.hierarchycore)
+    com.unity.ext.nunit@2.0.5 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ext.nunit@031a54704bff)
+    com.unity.ugui@2.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ugui@92256ab62536)
+    com.unity.render-pipelines.core@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.core@f127f5fd8324)
+    com.unity.shadergraph@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.shadergraph@fe106b49deb4)
+    com.unity.render-pipelines.universal-config@17.0.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.universal-config@dd206bf35d04)
+    com.unity.rendering.light-transport@1.0.1 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.rendering.light-transport@9bd588f963c0)
+    com.unity.test-framework@1.6.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.test-framework@082c24152fd4)
+  Embedded packages:
+    com.bytedance.pico.xr@file:/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr)
+[Package Manager] com.unity.textmeshpro is deprecated: This package is no longer supported. TextMeshPro functionalities are now included in the com.unity.ugui package. To continue using them, consider adding it to your project dependencies.
+[Subsystems] Looking for new subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr
+[Subsystems] Novel subsystem found at Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr
+[Subsystems] No descriptors matched for  examples in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'meshings' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  examples in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  displays in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  displays in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  meshings in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json.
+[Package Manager] Done registering packages in 0.03 seconds
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+[ScriptCompilation] Requested script compilation because: Assetdatabase observed changes in script compilation related files
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://unix:/tmp/ilpp.sock-5753aa6841acce6ec0f178d3d44a5ca9
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Content root path: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc - - 200 - application/grpc 50.7838ms
+Starting: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/1300b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+DisplayProgressbar: Compiling Scripts
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+[40m[1m[33mwarn[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+[40m[1m[33mwarn[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll" in favor of "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Burst.Cecil, Version=0.11.6.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.burst@6bb9aca3ef38/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Mono.Cecil, Version=0.11.5.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/Mono.Cecil.dll
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc - - 200 - application/grpc 24.0725ms
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll, with 144 defines and 348 references
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running Unity.Jobs.CodeGen.JobsILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with Library/Bee/artifacts/1300b0aE.dag/Unity.Collections.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Burst.Cecil.Rocks, Version=0.11.6.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.burst@6bb9aca3ef38/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc - - 200 - application/grpc 232.5244ms
+ExitCode: 0 Duration: 3s463ms
+[ 820/1107  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[1103/1107  2s] Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+Assets/Editor/AndroidSizeOptimization.cs(58,9): warning CS0618: 'PlayerSettings.SetIconsForTargetGroup(BuildTargetGroup, Texture2D[])' is obsolete: 'Use SetIcons(NamedBuildTarget, Texture2D[], IconKind) instead'
+[1104/1107  0s] ILPostProcess Library/Bee/artifacts/1300b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll, with 144 defines and 348 references
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[1105/1107  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+[1106/1107  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+*** Tundra build success (3.17 seconds), 5 items updated, 1107 evaluated
+Assets/Editor/AndroidSizeOptimization.cs(58,9): warning CS0618: 'PlayerSettings.SetIconsForTargetGroup(BuildTargetGroup, Texture2D[])' is obsolete: 'Use SetIcons(NamedBuildTarget, Texture2D[], IconKind) instead'
+AssetDatabase: script compilation time: 4.204706s
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.561 seconds
+'Packages/com.unity.xr.openxr/Runtime/OpenXRLoaderInternal.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.xr.openxr/Runtime/OpenXRLoader.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Refreshing native plugins compatible for Editor in 19.78 ms, found 15 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 10.43 ms, found 15 plugins.
+PXRLog [Build Check]RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+ByteDance.PICO.XR.Editor.PXR_SDKBuildCheck:.cctor () (at ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs Line: 31)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.006 seconds
+Domain Reload Profiling: 2566ms
+	BeginReloadAssembly (183ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (120ms)
+	RebuildCommonClasses (16ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (11ms)
+	LoadAllAssembliesAndSetupDomain (344ms)
+		LoadAssemblies (287ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (97ms)
+			TypeCache.Refresh (69ms)
+				TypeCache.ScanAssembly (62ms)
+			BuildScriptInfoCaches (20ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (2006ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1921ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (69ms)
+			ProcessInitializeOnLoadAttributes (1661ms)
+			ProcessInitializeOnLoadMethodAttributes (179ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Refreshing native plugins compatible for Editor in 10.71 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=376f8ee33a31348ccade4b899fc24b18): Total: 8.511 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=3593 ms
+		Asset DB Callback time: managed=82 ms, native=47 ms
+		Scripting: domain reloads=1, domain reload time=561 ms, compile time=4206 ms, other=21 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 35.198ms
+	ApplyChangesToAssetFolders: 0.148ms
+	Scan: 1314.669ms
+	OnSourceAssetsModified: 0.472ms
+	CategorizeAssetsWithTransientArtifact: 36.376ms
+	ProcessAssetsWithTransientArtifactChanges: 34.673ms
+	CategorizeAssets: 46.832ms
+	ImportOutOfDateAssets: 2045.686ms (-2161.377ms without children)
+		CompileScripts: 4205.863ms
+		ReloadNativeAssets: 0.025ms
+		UnloadImportedAssets: 0.542ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.419ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.214ms
+	PostProcessAllAssets: 83.351ms
+	Hotreload: 13.180ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.000ms
+	UnloadStreamsBegin: 0.814ms
+	PersistCurrentRevisions: 0.081ms
+	UnloadStreamsEnd: 0.000ms
+	GenerateScriptTypeHashes: 3.738ms
+	Untracked: 4899.533ms
+
+Application.AssetDatabase Initial Refresh End
+Scanning for USB devices : 0.100ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Personally Puzzled XR
+2026-09-10 12:38:10.693 Unity[77890:78063771] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb1d074fa0 Start Auto Demo, ke='Command-F9'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 12:38:10.693 Unity[77890:78063771] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb1d074f00 Start Player Manual, ke='Command-F8'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 12:38:10.693 Unity[77890:78063771] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb1d074e60 Stop Play Mode, ke='Command-F10'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 12:38:10.695 Unity[77890:78063771] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb1d133a20 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6020 unused Assets / (6.1 MB). Loaded Objects now: 6774.
+Memory consumption went from 224.3 MB to 218.2 MB.
+Total: 10.707792 ms (FindLiveObjects: 0.196667 ms CreateObjectMapping: 0.144125 ms MarkObjects: 7.715916 ms  DeleteObjects: 2.650625 ms)
+
+2026-09-10 12:38:10.744 Unity[77890:78063771] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb1d13ef80 Start Auto Demo, ke='Command-F9'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 12:38:10.744 Unity[77890:78063771] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb1d13f020 Start Player Manual, ke='Command-F8'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 12:38:10.744 Unity[77890:78063771] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb1d13f0c0 Stop Play Mode, ke='Command-F10'>, but is only supported for system-provided menu items; will not be used
+2026-09-10 12:38:10.747 Unity[77890:78063771] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0xb1d134780 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Start importing Assets/Assembly/V03/AI3D/Candidates/WorkshopCottage_Part01_StoneFoundation_V03_Meshy_Hero_base_color.png using Guid(fd24e49859f1f4e4aa8f331912180d55) (TextureImporter) -> (artifact id: 'e9bccc555b082f20683bef5744b21f0b') in 0.229473209 seconds
+Refreshing native plugins compatible for Editor in 9.62 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=0c76951fd6ccc43dca8e9f43dcfe58c4): Total: 0.293 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V03/AI3D/Candidates/WorkshopCottage_Part01_StoneFoundation_V03_Meshy_Hero_metallic_smoothness.png using Guid(339c8387a72b3438a90b2a648051527c) (TextureImporter) -> (artifact id: 'e3f1d5b8ccbd02e46a4749d0705fc0ec') in 0.104136417 seconds
+Refreshing native plugins compatible for Editor in 14.95 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.56 ms.
+Asset Pipeline Refresh (id=4aefdf377438541cdb3f0f7f6b20725e): Total: 0.136 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V03/AI3D/Candidates/WorkshopCottage_Part01_StoneFoundation_V03_Meshy_Hero_normal.png using Guid(85122ee1dc3ab4e04946c61683e37ed7) (TextureImporter) -> (artifact id: 'd057e570e6ef26a0e53d55de4d334116') in 0.304456875 seconds
+Refreshing native plugins compatible for Editor in 10.30 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.53 ms.
+Asset Pipeline Refresh (id=b97ab716b0e6d4efd82108aa5a150879): Total: 0.329 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=315 ms
+		Asset DB Callback time: managed=0 ms, native=12 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 6
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.047ms
+	Scan: 4.670ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.018ms
+	CategorizeAssets: 0.530ms
+	ImportOutOfDateAssets: 306.241ms (-0.291ms without children)
+		ImportManagerImport: 305.481ms (0.627ms without children)
+			ImportInProcess: 304.828ms
+			UpdateCategorizedAssets: 0.026ms
+		ReloadNativeAssets: 0.029ms
+		UnloadImportedAssets: 0.177ms
+		ReloadImportedAssets: 0.419ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.253ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.171ms
+	PostProcessAllAssets: 1.076ms
+	Hotreload: 12.255ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.027ms
+	PersistCurrentRevisions: 0.080ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.183ms
+
+Start importing Assets/Assembly/V03/AI3D/Candidates/WorkshopCottage_Part04_ClockChimneyTower_V03_Meshy_Hero_base_color.png using Guid(87f9e13315a7b4e3783dceca1a7d2080) (TextureImporter) -> (artifact id: '3a6cebc33155cf53e9a6aeced838b096') in 0.246595834 seconds
+Refreshing native plugins compatible for Editor in 9.58 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.55 ms.
+Asset Pipeline Refresh (id=8c17d52daf49b45129932eec412f930b): Total: 0.272 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V03/AI3D/Candidates/WorkshopCottage_Part04_ClockChimneyTower_V03_Meshy_Hero_metallic_smoothness.png using Guid(2993e9cf34d904ace9f155c8cea672ee) (TextureImporter) -> (artifact id: '11882cbd6570b1058b7ffcdad2327367') in 0.100609959 seconds
+Refreshing native plugins compatible for Editor in 9.97 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.64 ms.
+Asset Pipeline Refresh (id=cf837e45a1d6f4cd1b5309b737af50ae): Total: 0.125 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V03/AI3D/Candidates/WorkshopCottage_Part04_ClockChimneyTower_V03_Meshy_Hero_normal.png using Guid(ab6141da6c76e41949389c28769f9a07) (TextureImporter) -> (artifact id: 'd6685d5502dd8895f5c063dc940fdbe5') in 0.402633 seconds
+Refreshing native plugins compatible for Editor in 10.64 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.58 ms.
+Asset Pipeline Refresh (id=2d9f98d2bf9354dd9ace6ac7f351ad23): Total: 0.431 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=63 ms, native=350 ms
+		Asset DB Callback time: managed=2 ms, native=13 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 6
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.047ms
+	Scan: 4.743ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.017ms
+	CategorizeAssets: 0.632ms
+	ImportOutOfDateAssets: 404.956ms (-0.323ms without children)
+		ImportManagerImport: 404.256ms (1.019ms without children)
+			ImportInProcess: 403.216ms
+			UpdateCategorizedAssets: 0.021ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.181ms
+		ReloadImportedAssets: 0.436ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.245ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.132ms
+	PostProcessAllAssets: 2.988ms
+	Hotreload: 12.936ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.026ms
+	PersistCurrentRevisions: 0.079ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.104ms
+
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part02_LowerFrontShopfront_V04_Meshy_Hero_base_color.png using Guid(cd9197a7a3a344fdc8935ac7b8fe0b9e) (TextureImporter) -> (artifact id: 'f13e99b81cabbb9216445613fecc05c7') in 0.279131667 seconds
+Refreshing native plugins compatible for Editor in 10.60 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.56 ms.
+Asset Pipeline Refresh (id=8b23c29023cc44fb3bd8e17219238017): Total: 0.305 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=291 ms
+		Asset DB Callback time: managed=0 ms, native=13 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 7
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.050ms
+	Scan: 5.519ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.518ms
+	ImportOutOfDateAssets: 281.418ms (-0.357ms without children)
+		ImportManagerImport: 280.700ms (0.930ms without children)
+			ImportInProcess: 279.747ms
+			UpdateCategorizedAssets: 0.023ms
+		ReloadNativeAssets: 0.027ms
+		UnloadImportedAssets: 0.171ms
+		ReloadImportedAssets: 0.474ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.255ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.144ms
+	PostProcessAllAssets: 0.853ms
+	Hotreload: 12.538ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.026ms
+	PersistCurrentRevisions: 0.082ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.269ms
+
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part02_LowerFrontShopfront_V04_Meshy_Hero_metallic_smoothness.png using Guid(c9140d00a9ddb42078a9381ba307c81d) (TextureImporter) -> (artifact id: '59d255796d5bde3ea97f79a73dd989f7') in 0.113222125 seconds
+Refreshing native plugins compatible for Editor in 10.02 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.56 ms.
+Asset Pipeline Refresh (id=573c9c8fcd4b84e6c9d72d887fa0140d): Total: 0.141 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part02_LowerFrontShopfront_V04_Meshy_Hero_normal.png using Guid(601d886405ed04e9080aed4dfb02247a) (TextureImporter) -> (artifact id: '05e7e9e1ef5f266b3df6a5d7ae2f8652') in 0.359154916 seconds
+Refreshing native plugins compatible for Editor in 9.90 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 3.61 ms.
+Asset Pipeline Refresh (id=6d8d32b281eb8496598e9b1f262a7f36): Total: 0.386 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=370 ms
+		Asset DB Callback time: managed=0 ms, native=14 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 7
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.047ms
+	Scan: 5.206ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.527ms
+	ImportOutOfDateAssets: 360.720ms (-0.311ms without children)
+		ImportManagerImport: 360.022ms (0.616ms without children)
+			ImportInProcess: 359.389ms
+			UpdateCategorizedAssets: 0.018ms
+		ReloadNativeAssets: 0.027ms
+		UnloadImportedAssets: 0.166ms
+		ReloadImportedAssets: 0.431ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.253ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.129ms
+	PostProcessAllAssets: 0.853ms
+	Hotreload: 14.322ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.025ms
+	PersistCurrentRevisions: 0.081ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.146ms
+
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part03_LowerLeftWall_V04_Meshy_Hero_base_color.png using Guid(1c6f996a72bd64dd3bc9b5f9a3a0a402) (TextureImporter) -> (artifact id: '0b9e69643ca68639a9fe19012cf469e3') in 0.2397515 seconds
+Refreshing native plugins compatible for Editor in 10.51 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.60 ms.
+Asset Pipeline Refresh (id=927e84e45ff6346a5b5f5e334a242108): Total: 0.268 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part03_LowerLeftWall_V04_Meshy_Hero_metallic_smoothness.png using Guid(6ac109debeac548f79628ec7466ab007) (TextureImporter) -> (artifact id: '26a7652b92eac3957247f9fe08b15f20') in 0.139276292 seconds
+Refreshing native plugins compatible for Editor in 10.86 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.57 ms.
+Asset Pipeline Refresh (id=dcb66fbe3f8e04163a109ea0d996f46a): Total: 0.168 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part03_LowerLeftWall_V04_Meshy_Hero_normal.png using Guid(b91933acd8fb24cbf80f37f73cab5b2a) (TextureImporter) -> (artifact id: '35b9fb2a26c4852466fe973c09073c14') in 0.363867417 seconds
+Refreshing native plugins compatible for Editor in 9.87 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.59 ms.
+Asset Pipeline Refresh (id=6fe240eccc02143c2978c748cea3d8c1): Total: 0.388 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=375 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 7
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.047ms
+	Scan: 5.614ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.520ms
+	ImportOutOfDateAssets: 365.371ms (-0.313ms without children)
+		ImportManagerImport: 364.709ms (0.588ms without children)
+			ImportInProcess: 364.104ms
+			UpdateCategorizedAssets: 0.016ms
+		ReloadNativeAssets: 0.025ms
+		UnloadImportedAssets: 0.157ms
+		ReloadImportedAssets: 0.417ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.242ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.131ms
+	PostProcessAllAssets: 0.764ms
+	Hotreload: 11.147ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.024ms
+	PersistCurrentRevisions: 0.081ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.056ms
+
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part04_LowerRightWall_V04_Meshy_Hero_base_color.png using Guid(fb8316f684a5a4e16bd719bf34a71ba7) (TextureImporter) -> (artifact id: '7eaaf1542beaee5565923c8d82553dfa') in 0.229813417 seconds
+Refreshing native plugins compatible for Editor in 9.77 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.56 ms.
+Asset Pipeline Refresh (id=9b170fc41709a400391047215df206f8): Total: 0.254 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part04_LowerRightWall_V04_Meshy_Hero_metallic_smoothness.png using Guid(ff5e6de20ef2e4545bed7977aa7c8409) (TextureImporter) -> (artifact id: '7e868d129b31f1834be7aab2b2c37f07') in 0.113305917 seconds
+Refreshing native plugins compatible for Editor in 9.63 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.52 ms.
+Asset Pipeline Refresh (id=69ca60850ce3c4311808a69c98c41cef): Total: 0.136 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part04_LowerRightWall_V04_Meshy_Hero_normal.png using Guid(74ed43c97834343d594ed7908deffb71) (TextureImporter) -> (artifact id: '858f0d6012ea78499815c13bdb9a4b7f') in 0.339266625 seconds
+Refreshing native plugins compatible for Editor in 9.24 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.56 ms.
+Asset Pipeline Refresh (id=235d34d82fbbf41f39e310d55bb2c599): Total: 0.362 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=350 ms
+		Asset DB Callback time: managed=0 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 7
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.050ms
+	Scan: 4.864ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.573ms
+	ImportOutOfDateAssets: 340.832ms (-0.315ms without children)
+		ImportManagerImport: 340.125ms (0.612ms without children)
+			ImportInProcess: 339.496ms
+			UpdateCategorizedAssets: 0.017ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.181ms
+		ReloadImportedAssets: 0.433ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.247ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.133ms
+	PostProcessAllAssets: 0.819ms
+	Hotreload: 10.431ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.031ms
+	PersistCurrentRevisions: 0.083ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 3.998ms
+
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part05_LowerRearServiceWall_V04_Meshy_Hero_base_color.png using Guid(c19fb97c8a277407899ba0906c5835df) (TextureImporter) -> (artifact id: '8d4939096826b4e0886c9618f2a70f82') in 0.212893084 seconds
+Refreshing native plugins compatible for Editor in 9.66 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.53 ms.
+Asset Pipeline Refresh (id=de2f01e08555048b287b11ab373d43ce): Total: 0.236 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part05_LowerRearServiceWall_V04_Meshy_Hero_metallic_smoothness.png using Guid(3c0ad0e43a4b84312978e7df7f229fdb) (TextureImporter) -> (artifact id: '18a01ce6b675fbe99f4ffbcfe1ab24f5') in 0.100789083 seconds
+Refreshing native plugins compatible for Editor in 9.17 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=212d5447b99a64e8db8ff034457016ac): Total: 0.125 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part05_LowerRearServiceWall_V04_Meshy_Hero_normal.png using Guid(e8a1e1c9eab404ab89f32368fc551e24) (TextureImporter) -> (artifact id: '2a909a38d5b8948256e19c8330b8caaa') in 0.312962666 seconds
+Refreshing native plugins compatible for Editor in 9.60 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.52 ms.
+Asset Pipeline Refresh (id=332be2ade119f43d1a5b9653fe0c55c5): Total: 0.336 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=324 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 7
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	ApplyChangesToAssetFolders: 0.045ms
+	Scan: 4.891ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.017ms
+	CategorizeAssets: 0.637ms
+	ImportOutOfDateAssets: 314.476ms (-0.318ms without children)
+		ImportManagerImport: 313.799ms (0.600ms without children)
+			ImportInProcess: 313.183ms
+			UpdateCategorizedAssets: 0.017ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.165ms
+		ReloadImportedAssets: 0.424ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.243ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.134ms
+	PostProcessAllAssets: 0.779ms
+	Hotreload: 10.877ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.063ms
+	UnloadStreamsBegin: 0.023ms
+	PersistCurrentRevisions: 0.080ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.272ms
+
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part06_UpperFrontFacade_V04_Meshy_Hero_base_color.png using Guid(061721ac624184e43837ea6ba048d90e) (TextureImporter) -> (artifact id: '6ac52f85d61197e195300436ef08fe3a') in 0.293984417 seconds
+Refreshing native plugins compatible for Editor in 9.60 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.56 ms.
+Asset Pipeline Refresh (id=e11caf74adc3d466090f6363ffa3677c): Total: 0.317 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=305 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 7
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.045ms
+	Scan: 5.005ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.507ms
+	ImportOutOfDateAssets: 295.582ms (-0.333ms without children)
+		ImportManagerImport: 294.886ms (0.643ms without children)
+			ImportInProcess: 294.221ms
+			UpdateCategorizedAssets: 0.022ms
+		ReloadNativeAssets: 0.024ms
+		UnloadImportedAssets: 0.143ms
+		ReloadImportedAssets: 0.446ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.258ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.157ms
+	PostProcessAllAssets: 0.767ms
+	Hotreload: 11.052ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.027ms
+	PersistCurrentRevisions: 0.088ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.153ms
+
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part06_UpperFrontFacade_V04_Meshy_Hero_metallic_smoothness.png using Guid(3cb837e5c61ab42e08c993087ff51970) (TextureImporter) -> (artifact id: '1952161c196c7f6a402ab2b8c6167c48') in 0.112626125 seconds
+Refreshing native plugins compatible for Editor in 9.03 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=deef19ebeb13b4d209a3c1fc23a0f203): Total: 0.135 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part06_UpperFrontFacade_V04_Meshy_Hero_normal.png using Guid(8716c2aa2701d4c84989c311c841bbcb) (TextureImporter) -> (artifact id: '64ca0ef8a1ffd95baada493bc13f43a5') in 0.377283459 seconds
+Refreshing native plugins compatible for Editor in 9.55 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.50 ms.
+Asset Pipeline Refresh (id=44659a466b75d484a86b239409ed350c): Total: 0.400 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=388 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 7
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.049ms
+	Scan: 4.985ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.018ms
+	CategorizeAssets: 0.533ms
+	ImportOutOfDateAssets: 378.755ms (-0.299ms without children)
+		ImportManagerImport: 378.085ms (0.580ms without children)
+			ImportInProcess: 377.488ms
+			UpdateCategorizedAssets: 0.017ms
+		ReloadNativeAssets: 0.025ms
+		UnloadImportedAssets: 0.160ms
+		ReloadImportedAssets: 0.408ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.245ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.128ms
+	PostProcessAllAssets: 0.761ms
+	Hotreload: 10.802ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.065ms
+	UnloadStreamsBegin: 0.030ms
+	PersistCurrentRevisions: 0.081ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.108ms
+
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part07_UpperLeftWall_V04_Meshy_Hero_base_color.png using Guid(d683e800332b24f48a536f518b78dd15) (TextureImporter) -> (artifact id: '949d244d9281805a8b7dc0ff6c72ac97') in 0.235196791 seconds
+Refreshing native plugins compatible for Editor in 9.17 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.53 ms.
+Asset Pipeline Refresh (id=4f601aaa1a89548d0ba8cb7c4a82174d): Total: 0.258 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part07_UpperLeftWall_V04_Meshy_Hero_metallic_smoothness.png using Guid(483cdeddf797b47f193407ea8a4b23bd) (TextureImporter) -> (artifact id: 'd29bcc282e864de148dd9a3e2045ce40') in 0.161334 seconds
+Refreshing native plugins compatible for Editor in 9.40 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=b0ecbe0f075304f7b9c523558966cccf): Total: 0.185 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part07_UpperLeftWall_V04_Meshy_Hero_normal.png using Guid(e14e49a4527f74224b3fd0730c9a0593) (TextureImporter) -> (artifact id: 'e0f42655ee9c540b59a5647395ed21e3') in 0.358230166 seconds
+Refreshing native plugins compatible for Editor in 9.33 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.56 ms.
+Asset Pipeline Refresh (id=221bfd3213c4641cab54d27d8eb68f03): Total: 0.381 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=369 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 7
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.050ms
+	Scan: 4.881ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.017ms
+	CategorizeAssets: 0.559ms
+	ImportOutOfDateAssets: 359.812ms (-0.288ms without children)
+		ImportManagerImport: 359.083ms (0.591ms without children)
+			ImportInProcess: 358.479ms
+			UpdateCategorizedAssets: 0.012ms
+		ReloadNativeAssets: 0.025ms
+		UnloadImportedAssets: 0.169ms
+		ReloadImportedAssets: 0.411ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.257ms
+		InitializingProgressBar: 0.001ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.154ms
+	PostProcessAllAssets: 0.803ms
+	Hotreload: 10.485ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.063ms
+	UnloadStreamsBegin: 0.024ms
+	PersistCurrentRevisions: 0.092ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.532ms
+
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part08_UpperRightWall_V04_Meshy_Hero_base_color.png using Guid(8d78430d59a854b19812bb7d7a0e4e5d) (TextureImporter) -> (artifact id: 'a2dd48bb0a6337422bbafa49830dc2c7') in 0.254740042 seconds
+Refreshing native plugins compatible for Editor in 11.37 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.76 ms.
+Asset Pipeline Refresh (id=e14cc5a0ad620443d9d1bc348d19c9ef): Total: 0.280 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part08_UpperRightWall_V04_Meshy_Hero_metallic_smoothness.png using Guid(4ba3a8939060343b498b56ef7fd045dc) (TextureImporter) -> (artifact id: 'fbe1d35693041a1b375a079393c6ef6b') in 0.15136725 seconds
+Refreshing native plugins compatible for Editor in 9.47 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.53 ms.
+Asset Pipeline Refresh (id=65584bdb83dba4efa93c99085c4a2963): Total: 0.175 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part08_UpperRightWall_V04_Meshy_Hero_normal.png using Guid(4de475db13fb54519975a4105f273b90) (TextureImporter) -> (artifact id: '6abad242bf6c7e45e3fd083cf7f1f456') in 0.399283334 seconds
+Refreshing native plugins compatible for Editor in 10.84 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.68 ms.
+Asset Pipeline Refresh (id=5977e627572d84042b2b649f0a629118): Total: 0.423 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=410 ms
+		Asset DB Callback time: managed=0 ms, native=12 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 7
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.048ms
+	Scan: 4.649ms
+	CategorizeAssetsWithTransientArtifact: 0.004ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.498ms
+	ImportOutOfDateAssets: 400.831ms (-0.369ms without children)
+		ImportManagerImport: 400.153ms (0.650ms without children)
+			ImportInProcess: 399.489ms
+			UpdateCategorizedAssets: 0.014ms
+		ReloadNativeAssets: 0.025ms
+		UnloadImportedAssets: 0.149ms
+		ReloadImportedAssets: 0.471ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.247ms
+		InitializingProgressBar: 0.001ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.153ms
+	PostProcessAllAssets: 0.737ms
+	Hotreload: 11.996ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.030ms
+	PersistCurrentRevisions: 0.080ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.075ms
+
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part09_UpperRearWall_V04_Meshy_Hero_base_color.png using Guid(8ec427cbed8894508bd3fe0d49290019) (TextureImporter) -> (artifact id: '0979368eab233576a9c54374f8a2ef4c') in 0.262973167 seconds
+Refreshing native plugins compatible for Editor in 8.79 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.49 ms.
+Asset Pipeline Refresh (id=ac8b4f6ca506e4dac972f16fa8d0dd56): Total: 0.287 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part09_UpperRearWall_V04_Meshy_Hero_metallic_smoothness.png using Guid(a5a5ba14242f74cdca89e8a25bd0fbb8) (TextureImporter) -> (artifact id: '39e8a55c4c2908547342c4c9294e88ea') in 0.149547833 seconds
+Refreshing native plugins compatible for Editor in 12.37 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.62 ms.
+Asset Pipeline Refresh (id=e20b79d96a6f74a22861d6e7957c59a6): Total: 0.176 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part09_UpperRearWall_V04_Meshy_Hero_normal.png using Guid(252f7660f6cf149029266f1958184a88) (TextureImporter) -> (artifact id: 'cbf0331e889b57f5ff9519028907eec5') in 0.377460125 seconds
+Refreshing native plugins compatible for Editor in 10.65 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.75 ms.
+Asset Pipeline Refresh (id=0dd7ddb75b6004362a660a87cbf31124): Total: 0.404 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=390 ms
+		Asset DB Callback time: managed=0 ms, native=13 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 7
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.048ms
+	Scan: 6.413ms
+	CategorizeAssetsWithTransientArtifact: 0.004ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.552ms
+	ImportOutOfDateAssets: 378.976ms (-0.310ms without children)
+		ImportManagerImport: 378.297ms (0.598ms without children)
+			ImportInProcess: 377.684ms
+			UpdateCategorizedAssets: 0.015ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.160ms
+		ReloadImportedAssets: 0.415ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.247ms
+		InitializingProgressBar: 0.002ms
+		OnDemandSchedulerStart: 0.138ms
+	PostProcessAllAssets: 0.708ms
+	Hotreload: 12.656ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.028ms
+	PersistCurrentRevisions: 0.082ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.254ms
+
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part10_FrontRoofLeftDormer_V04_Meshy_Hero_base_color.png using Guid(34c19b8499a7445d8a7adc1dd6e3b4ee) (TextureImporter) -> (artifact id: 'c0edc8c03987b4bf9118bd46a08efcb4') in 0.254884292 seconds
+Refreshing native plugins compatible for Editor in 8.78 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.48 ms.
+Asset Pipeline Refresh (id=cb9f3c6e01a5f4048a5b7baa425bd08c): Total: 0.279 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part10_FrontRoofLeftDormer_V04_Meshy_Hero_metallic_smoothness.png using Guid(08042bf0749404466a10c67a044b5f54) (TextureImporter) -> (artifact id: '29e82a8e1d8dc57ca6ffe281dc3090c7') in 0.242017792 seconds
+Refreshing native plugins compatible for Editor in 8.84 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=a19d5554dfdc5473abf88a6f8d677408): Total: 0.265 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part10_FrontRoofLeftDormer_V04_Meshy_Hero_normal.png using Guid(5e6bfb3bde715413381c64c884daee3e) (TextureImporter) -> (artifact id: '287d8550ea5cf13a1d81b5e14ae8490b') in 0.334380542 seconds
+Refreshing native plugins compatible for Editor in 55.16 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.87 ms.
+Asset Pipeline Refresh (id=9e4989acf4e61461f98e8f62de527ab7): Total: 0.404 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=345 ms
+		Asset DB Callback time: managed=0 ms, native=58 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 7
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.047ms
+	Scan: 4.659ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.561ms
+	ImportOutOfDateAssets: 336.012ms (-0.362ms without children)
+		ImportManagerImport: 335.285ms (0.660ms without children)
+			ImportInProcess: 334.606ms
+			UpdateCategorizedAssets: 0.019ms
+		ReloadNativeAssets: 0.031ms
+		UnloadImportedAssets: 0.186ms
+		ReloadImportedAssets: 0.477ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.258ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.134ms
+	PostProcessAllAssets: 0.788ms
+	Hotreload: 57.800ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.062ms
+	UnloadStreamsBegin: 0.021ms
+	PersistCurrentRevisions: 0.082ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.220ms
+
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part11_FrontRoofRightDormer_V04_Meshy_Hero_base_color.png using Guid(6e84ee4f2de25402b98f829df69f6171) (TextureImporter) -> (artifact id: '6766e0110753be423dadc00fd918bbcf') in 0.25348075 seconds
+Refreshing native plugins compatible for Editor in 9.47 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.57 ms.
+Asset Pipeline Refresh (id=4a0614217442542b5918dae0b3f0a458): Total: 0.283 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part11_FrontRoofRightDormer_V04_Meshy_Hero_metallic_smoothness.png using Guid(2a0b78b24b88f40f9af5daba3395e998) (TextureImporter) -> (artifact id: '2d1282af13963e226dddeb66cde5fbce') in 0.243104292 seconds
+Refreshing native plugins compatible for Editor in 9.30 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=937cbcac65a3045feab265abfa76f189): Total: 0.266 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part11_FrontRoofRightDormer_V04_Meshy_Hero_normal.png using Guid(b0ba8aabb737f4e7fb711e27da961dcd) (TextureImporter) -> (artifact id: 'e22d0be37632bb33318dfd2faaef9d1e') in 0.343906 seconds
+Refreshing native plugins compatible for Editor in 11.90 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.58 ms.
+Asset Pipeline Refresh (id=0030f94693c0e4ab7ad1c2c6e9ac13ad): Total: 0.369 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=355 ms
+		Asset DB Callback time: managed=0 ms, native=13 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 7
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.050ms
+	Scan: 4.880ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.019ms
+	CategorizeAssets: 0.529ms
+	ImportOutOfDateAssets: 345.420ms (-0.302ms without children)
+		ImportManagerImport: 344.731ms (0.595ms without children)
+			ImportInProcess: 344.121ms
+			UpdateCategorizedAssets: 0.016ms
+		ReloadNativeAssets: 0.025ms
+		UnloadImportedAssets: 0.149ms
+		ReloadImportedAssets: 0.416ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.249ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.150ms
+	PostProcessAllAssets: 0.797ms
+	Hotreload: 13.357ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.063ms
+	UnloadStreamsBegin: 0.028ms
+	PersistCurrentRevisions: 0.088ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.211ms
+
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part12_RearMansardRoof_V04_Meshy_Hero_base_color.png using Guid(6a8ea23650cf9473a815e55851be2624) (TextureImporter) -> (artifact id: '1129dc08f3e338926b183cd4df678153') in 0.232261625 seconds
+Refreshing native plugins compatible for Editor in 8.96 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.49 ms.
+Asset Pipeline Refresh (id=233aac133d97e497c8921d712867a101): Total: 0.256 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part12_RearMansardRoof_V04_Meshy_Hero_metallic_smoothness.png using Guid(42b76de8612c2496886ab32481720a23) (TextureImporter) -> (artifact id: '9bfc70cae2da0633c1e66a849f68003e') in 0.260331625 seconds
+Refreshing native plugins compatible for Editor in 10.92 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.62 ms.
+Asset Pipeline Refresh (id=10c3d46f1858b4e82bf4fbbab4365af6): Total: 0.285 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V04/CottageSemantic13/AI3D/Candidates/WorkshopCottage_Part12_RearMansardRoof_V04_Meshy_Hero_normal.png using Guid(800b3159adb4046d7b53231997d14c56) (TextureImporter) -> (artifact id: '1a1e1a3a872c90c806f5bee27ead98e7') in 0.312383833 seconds
+Refreshing native plugins compatible for Editor in 9.34 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.56 ms.
+Asset Pipeline Refresh (id=59afbfd2da73f445897f11cfa214d04b): Total: 0.336 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=324 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 7
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.048ms
+	Scan: 5.421ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.015ms
+	CategorizeAssets: 0.556ms
+	ImportOutOfDateAssets: 313.979ms (-0.394ms without children)
+		ImportManagerImport: 313.297ms (0.683ms without children)
+			ImportInProcess: 312.597ms
+			UpdateCategorizedAssets: 0.017ms
+		ReloadNativeAssets: 0.025ms
+		UnloadImportedAssets: 0.160ms
+		ReloadImportedAssets: 0.499ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.250ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.141ms
+	PostProcessAllAssets: 0.773ms
+	Hotreload: 11.191ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.063ms
+	UnloadStreamsBegin: 0.025ms
+	PersistCurrentRevisions: 0.083ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.145ms
+
+Start importing Assets/Assembly/V07/Generated3D/CompleteModuleCradle_V07_Meshy_Hero_base_color.png using Guid(5e35bf862f3074f0884dc0b3b894726f) (TextureImporter) -> (artifact id: 'f81cfa2044812bee1138e24c8b4d964b') in 0.132216041 seconds
+Refreshing native plugins compatible for Editor in 10.19 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.63 ms.
+Asset Pipeline Refresh (id=60292a9264b924e409bd965bf74a6cea): Total: 0.156 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V07/Generated3D/CompleteModuleCradle_V07_Meshy_Hero_metallic_smoothness.png using Guid(674931b4ab12c47bf9a248b9bdaac100) (TextureImporter) -> (artifact id: '0b78469ba75600b8c594108c0503b964') in 0.079637667 seconds
+Refreshing native plugins compatible for Editor in 10.18 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.64 ms.
+Asset Pipeline Refresh (id=3c907ec2e8e774712b22adb3fe38e62e): Total: 0.104 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V07/Generated3D/CompleteModuleCradle_V07_Meshy_Hero_normal.png using Guid(c1eea1e8280d34b75b2ce9c9a69936f6) (TextureImporter) -> (artifact id: '3aa476ccca5c54ee78afd3da726ef74f') in 0.166692167 seconds
+Refreshing native plugins compatible for Editor in 12.46 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.68 ms.
+Asset Pipeline Refresh (id=b9a430e1c33514af6b0f0a036cf4e828): Total: 0.194 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Board_C_base_color.png using Guid(4fdd422efe7714bbe87c964d91aa0ef9) (TextureImporter) -> (artifact id: '95531252c286356e06875639ff029c80') in 0.232595083 seconds
+Refreshing native plugins compatible for Editor in 9.26 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.79 ms.
+Asset Pipeline Refresh (id=e1c91ff41b1114ab5ba1ab9778d95100): Total: 0.257 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Board_C_metallic_smoothness.png using Guid(67d49125e3b9e406b9b91ffe2b80c779) (TextureImporter) -> (artifact id: 'b29145d1339e3b776f9aae45056a4115') in 0.215843916 seconds
+Refreshing native plugins compatible for Editor in 10.29 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.68 ms.
+Asset Pipeline Refresh (id=0c484e524e8334a66a817931eaa368b0): Total: 0.241 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Board_C_normal.png using Guid(14beac55ac5594b1e9b5167b48b10fd7) (TextureImporter) -> (artifact id: '99419d69edb2ea1da50a77c819e6bdd1') in 0.332068792 seconds
+Refreshing native plugins compatible for Editor in 11.84 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=1b824d5705c28458b925f7007f5997f0): Total: 0.358 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=343 ms
+		Asset DB Callback time: managed=0 ms, native=13 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 6
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.049ms
+	Scan: 5.001ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.004ms
+	ProcessAssetsWithTransientArtifactChanges: 0.023ms
+	CategorizeAssets: 0.593ms
+	ImportOutOfDateAssets: 333.615ms (-0.296ms without children)
+		ImportManagerImport: 332.903ms (0.601ms without children)
+			ImportInProcess: 332.286ms
+			UpdateCategorizedAssets: 0.016ms
+		ReloadNativeAssets: 0.027ms
+		UnloadImportedAssets: 0.145ms
+		ReloadImportedAssets: 0.407ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.254ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.173ms
+	PostProcessAllAssets: 0.835ms
+	Hotreload: 12.953ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.063ms
+	UnloadStreamsBegin: 0.022ms
+	PersistCurrentRevisions: 0.101ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.276ms
+
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Board_D_base_color.png using Guid(5375a59cd13154647ad2587f4c362142) (TextureImporter) -> (artifact id: 'bc7d2297c3a4e7981d1684b3908b1d49') in 0.238721959 seconds
+Refreshing native plugins compatible for Editor in 12.15 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=7a9dfa8ab834c42959da1ee8c7950fe9): Total: 0.266 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Board_D_metallic_smoothness.png using Guid(da1ec0ae8d1594499a806b721ba72649) (TextureImporter) -> (artifact id: 'f907e34f8d5c02483b49ad42dc73724a') in 0.173812417 seconds
+Refreshing native plugins compatible for Editor in 10.97 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=489884e51afa54d14a16b538209a1bef): Total: 0.199 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Board_D_normal.png using Guid(cfa980084111343ecb535280fb073a31) (TextureImporter) -> (artifact id: 'ec7e55d1af2ab54730d25f7a269b4198') in 0.333708166 seconds
+Refreshing native plugins compatible for Editor in 11.55 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=f8a3c028859b24cd294d215e4d36ce0d): Total: 0.360 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=346 ms
+		Asset DB Callback time: managed=0 ms, native=13 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 6
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.050ms
+	Scan: 5.990ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.020ms
+	CategorizeAssets: 0.529ms
+	ImportOutOfDateAssets: 335.341ms (-0.329ms without children)
+		ImportManagerImport: 334.615ms (0.640ms without children)
+			ImportInProcess: 333.957ms
+			UpdateCategorizedAssets: 0.018ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.161ms
+		ReloadImportedAssets: 0.444ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.263ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.158ms
+	PostProcessAllAssets: 0.886ms
+	Hotreload: 13.211ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.023ms
+	PersistCurrentRevisions: 0.092ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.228ms
+
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Part_05_CompleteLowerMainDeckChassis_base_color.png using Guid(ab0ab294d989f455fbdfa35f97607c71) (TextureImporter) -> (artifact id: 'f5e11d4307dbee52fe86b40adbe8a257') in 0.227095417 seconds
+Refreshing native plugins compatible for Editor in 10.70 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.50 ms.
+Asset Pipeline Refresh (id=d1b726ee3971042dba8545ed189f1cb4): Total: 0.252 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Part_05_CompleteLowerMainDeckChassis_metallic_smoothness.png using Guid(e45e3efb7fe484a7ea448326424ae844) (TextureImporter) -> (artifact id: '68d8b9312017ca75f7e460bbf8ead8e4') in 0.131216208 seconds
+Refreshing native plugins compatible for Editor in 9.35 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.50 ms.
+Asset Pipeline Refresh (id=7c3b6d87840d84d2b9a212a3c20e3966): Total: 0.154 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Part_05_CompleteLowerMainDeckChassis_normal.png using Guid(0138d1186ccd0450e8022deb3ef8d21d) (TextureImporter) -> (artifact id: 'dd07584ab38c965dfb5e11faeb400586') in 0.2862 seconds
+Refreshing native plugins compatible for Editor in 9.45 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=586093edc5b5a420f9b841f87159fa39): Total: 0.309 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=297 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 6
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.054ms
+	Scan: 4.673ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.017ms
+	CategorizeAssets: 0.516ms
+	ImportOutOfDateAssets: 287.808ms (-0.297ms without children)
+		ImportManagerImport: 287.063ms (0.616ms without children)
+			ImportInProcess: 286.432ms
+			UpdateCategorizedAssets: 0.016ms
+		ReloadNativeAssets: 0.042ms
+		UnloadImportedAssets: 0.169ms
+		ReloadImportedAssets: 0.419ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.255ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.154ms
+	PostProcessAllAssets: 0.824ms
+	Hotreload: 10.857ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.069ms
+	UnloadStreamsBegin: 0.028ms
+	PersistCurrentRevisions: 0.093ms
+	UnloadStreamsEnd: 0.001ms
+	Untracked: 4.500ms
+
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Part_06_CompleteUpperWeatherDeckSlab_base_color.png using Guid(0cfc05026b324443f81a22dd61ce83e0) (TextureImporter) -> (artifact id: '20e1018540b2b7bf2ed58ff82da5c49c') in 0.235474042 seconds
+Refreshing native plugins compatible for Editor in 9.07 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.50 ms.
+Asset Pipeline Refresh (id=757b0eb441f314617b9504c16765837a): Total: 0.259 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Part_06_CompleteUpperWeatherDeckSlab_metallic_smoothness.png using Guid(b27b3ff26ec944fa7b261e246eba03d2) (TextureImporter) -> (artifact id: 'b71e672a6182cb695463b4250c1ab420') in 0.117818833 seconds
+Refreshing native plugins compatible for Editor in 9.07 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.47 ms.
+Asset Pipeline Refresh (id=6ff87102113f84f08b26abdb0cb08343): Total: 0.141 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Part_06_CompleteUpperWeatherDeckSlab_normal.png using Guid(2d3aef49f7ed44556a8ed34d4857e00f) (TextureImporter) -> (artifact id: 'a9fc2a4ba2666710ca0e6a0a4a10b120') in 0.292631041 seconds
+Refreshing native plugins compatible for Editor in 8.81 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.48 ms.
+Asset Pipeline Refresh (id=1cbfc1c83b76e4877b076e98378dc191): Total: 0.315 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=303 ms
+		Asset DB Callback time: managed=0 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 6
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.049ms
+	Scan: 4.462ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.670ms
+	ImportOutOfDateAssets: 294.359ms (-0.358ms without children)
+		ImportManagerImport: 293.611ms (0.701ms without children)
+			ImportInProcess: 292.895ms
+			UpdateCategorizedAssets: 0.015ms
+		ReloadNativeAssets: 0.027ms
+		UnloadImportedAssets: 0.168ms
+		ReloadImportedAssets: 0.478ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.270ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.161ms
+	PostProcessAllAssets: 0.897ms
+	Hotreload: 9.896ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.022ms
+	PersistCurrentRevisions: 0.099ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.192ms
+
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Part_07_CompletePortCannonBatteryCassette_base_color.png using Guid(dda06b224f9044741bfdc4f491d35ecb) (TextureImporter) -> (artifact id: '7fd553e59958a142de9e082f91a4d2f6') in 0.230430709 seconds
+Refreshing native plugins compatible for Editor in 11.00 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.57 ms.
+Asset Pipeline Refresh (id=023e934058a36477fb6d57444514f722): Total: 0.255 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Part_07_CompletePortCannonBatteryCassette_metallic_smoothness.png using Guid(92d5a965308c64a4d895664ec507b692) (TextureImporter) -> (artifact id: 'f9c99b61bdd5c81510aede67402ab193') in 0.134219917 seconds
+Refreshing native plugins compatible for Editor in 9.77 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.48 ms.
+Asset Pipeline Refresh (id=91ac80bf255b044b385be0619c0a5c62): Total: 0.158 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Part_07_CompletePortCannonBatteryCassette_normal.png using Guid(7b6b398485603463983db55f698c7a8a) (TextureImporter) -> (artifact id: 'e903e0c76edaf181cdd48417777d4754') in 0.290561 seconds
+Refreshing native plugins compatible for Editor in 9.42 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.64 ms.
+Asset Pipeline Refresh (id=49be2068e0fc24773908d6b54d590f32): Total: 0.315 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=302 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 6
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.053ms
+	Scan: 5.333ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.018ms
+	CategorizeAssets: 0.588ms
+	ImportOutOfDateAssets: 292.291ms (-0.353ms without children)
+		ImportManagerImport: 291.526ms (0.712ms without children)
+			ImportInProcess: 290.800ms
+			UpdateCategorizedAssets: 0.013ms
+		ReloadNativeAssets: 0.028ms
+		UnloadImportedAssets: 0.164ms
+		ReloadImportedAssets: 0.490ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.271ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.164ms
+	PostProcessAllAssets: 1.130ms
+	Hotreload: 10.579ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.027ms
+	PersistCurrentRevisions: 0.110ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.315ms
+
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Part_08_CompleteStarboardCannonBatteryCassette_base_color.png using Guid(853df7683bc324b679b7b8e72af2eafe) (TextureImporter) -> (artifact id: 'b50476d00753f8d366866aa2eb130f0c') in 0.263641792 seconds
+Refreshing native plugins compatible for Editor in 9.06 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.56 ms.
+Asset Pipeline Refresh (id=027c726ca679e45d39f342e8ca341462): Total: 0.289 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Part_08_CompleteStarboardCannonBatteryCassette_metallic_smoothness.png using Guid(9b20906ff7637465f845c315f0530987) (TextureImporter) -> (artifact id: '4c205d235387bc67d52abc653989cf07') in 0.141170875 seconds
+Refreshing native plugins compatible for Editor in 8.62 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=cf0d75f0051254c82bd78147384749b2): Total: 0.164 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_CompleteConstructionModules16_Meshy_20260717_V08_Part_08_CompleteStarboardCannonBatteryCassette_normal.png using Guid(363ceff32f48f42d88abdc6a0c8276df) (TextureImporter) -> (artifact id: 'd8feaa87d40e08b9fc2ea9bf7b0fd609') in 0.307762042 seconds
+Refreshing native plugins compatible for Editor in 8.95 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.49 ms.
+Asset Pipeline Refresh (id=39ef3f42e586c4116884176ff61ecbb9): Total: 0.330 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=318 ms
+		Asset DB Callback time: managed=0 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 6
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.049ms
+	Scan: 4.439ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.017ms
+	CategorizeAssets: 0.572ms
+	ImportOutOfDateAssets: 309.396ms (-0.277ms without children)
+		ImportManagerImport: 308.599ms (0.595ms without children)
+			ImportInProcess: 307.990ms
+			UpdateCategorizedAssets: 0.014ms
+		ReloadNativeAssets: 0.035ms
+		UnloadImportedAssets: 0.207ms
+		ReloadImportedAssets: 0.403ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.273ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.153ms
+	PostProcessAllAssets: 0.798ms
+	Hotreload: 10.376ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.026ms
+	PersistCurrentRevisions: 0.091ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.262ms
+
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_V08_CompleteFullLengthHullCore_Meshy6_Hero_Hero_base_color.png using Guid(a77b910b8cd074d92ab9f4062129f193) (TextureImporter) -> (artifact id: 'aa1c55506655b845125f09d04f1d8160') in 0.214350583 seconds
+Refreshing native plugins compatible for Editor in 8.32 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.53 ms.
+Asset Pipeline Refresh (id=b8d25ca1c957f49b9ba782dd9bec4071): Total: 0.236 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_V08_CompleteFullLengthHullCore_Meshy6_Hero_Hero_metallic_smoothness.png using Guid(b86b818eeaa714b6aacf97fede284375) (TextureImporter) -> (artifact id: 'a8e1742ea6bfd8dcfe561615a13cc3b5') in 0.135486292 seconds
+Refreshing native plugins compatible for Editor in 10.06 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.58 ms.
+Asset Pipeline Refresh (id=09172a20fe3fa4ced8bf6e950444aa69): Total: 0.159 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Assembly/V08/ShipCompleteModules/PBR/WorkshopShip_V08_CompleteFullLengthHullCore_Meshy6_Hero_Hero_normal.png using Guid(69a1104f0659f483a97cd6fc7b083f3f) (TextureImporter) -> (artifact id: '0c6d8c6e40e425eecc83374109e4b8e1') in 0.320066125 seconds
+Refreshing native plugins compatible for Editor in 8.87 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.49 ms.
+Asset Pipeline Refresh (id=5540d79f7514f4512807e780f7d6e2ec): Total: 0.343 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=332 ms
+		Asset DB Callback time: managed=0 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 6
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.053ms
+	Scan: 5.661ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.586ms
+	ImportOutOfDateAssets: 321.589ms (-0.309ms without children)
+		ImportManagerImport: 320.913ms (0.612ms without children)
+			ImportInProcess: 320.288ms
+			UpdateCategorizedAssets: 0.013ms
+		ReloadNativeAssets: 0.024ms
+		UnloadImportedAssets: 0.145ms
+		ReloadImportedAssets: 0.416ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.262ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.136ms
+	PostProcessAllAssets: 0.760ms
+	Hotreload: 9.757ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.033ms
+	PersistCurrentRevisions: 0.083ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.250ms
+
+Start importing Assets/GardenCottage/V01/ExtractedTextures/Part_01_GardenFoundation/tripo_model_basecolor.JPEG using Guid(05e1ff04664414ea4809c4b218d82445) (TextureImporter) -> (artifact id: '0847c93f993777dfb3dc404d47b0bd1d') in 0.5197865 seconds
+Refreshing native plugins compatible for Editor in 8.80 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.49 ms.
+Asset Pipeline Refresh (id=55a62e36acf584308a142543ed0a41f1): Total: 0.552 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=11 (actual=1, local cache=10, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=532 ms
+		Asset DB Callback time: managed=0 ms, native=18 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 6
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.051ms
+	Scan: 4.794ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.017ms
+	CategorizeAssets: 0.731ms
+	ImportOutOfDateAssets: 522.777ms (-1.534ms without children)
+		ImportManagerImport: 522.078ms (2.048ms without children)
+			ImportInProcess: 520.027ms
+			UpdateCategorizedAssets: 0.003ms
+		ReloadNativeAssets: 0.025ms
+		UnloadImportedAssets: 0.177ms
+		ReloadImportedAssets: 1.649ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.249ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.131ms
+	PostProcessAllAssets: 8.605ms
+	Hotreload: 10.638ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.283ms
+	PersistCurrentRevisions: 0.082ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.181ms
+
+Start importing Assets/GardenCottage/V01/ExtractedTextures/Part_01_GardenFoundation/tripo_model_normal.JPEG using Guid(7203f8327dc4a438faaf14a164a55830) (TextureImporter) -> (artifact id: '1e7085402aa1e9eb00a5e1d9366fc8ae') in 0.167684625 seconds
+Refreshing native plugins compatible for Editor in 8.93 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.56 ms.
+Asset Pipeline Refresh (id=9d1a4985663404cb1a5cc24fadaaf589): Total: 0.192 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Selection/V04/AI3D/SelectionCentralPedestal_V04_Meshy_Hero_base_color.png using Guid(0174add26bd274982b0009f8374da4d7) (TextureImporter) -> (artifact id: '8a2e5e3a5ad6ed81ee994d5d35cbecdc') in 0.234042792 seconds
+Refreshing native plugins compatible for Editor in 11.14 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.64 ms.
+Asset Pipeline Refresh (id=cbb72c0b6fbdb4bbc8691dbd446f9b9a): Total: 0.259 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Selection/V04/AI3D/SelectionCentralPedestal_V04_Meshy_Hero_normal.png using Guid(7e16149c280f143338478b4550b52066) (TextureImporter) -> (artifact id: '3ffa293250d8688a387660f192b71122') in 0.284601334 seconds
+Refreshing native plugins compatible for Editor in 9.18 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.53 ms.
+Asset Pipeline Refresh (id=2e4cba5565f1d4f2996d8ed9ffc3e341): Total: 0.309 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=297 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 5
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.047ms
+	Scan: 5.875ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.017ms
+	CategorizeAssets: 0.528ms
+	ImportOutOfDateAssets: 286.259ms (-0.396ms without children)
+		ImportManagerImport: 285.556ms (0.702ms without children)
+			ImportInProcess: 284.839ms
+			UpdateCategorizedAssets: 0.015ms
+		ReloadNativeAssets: 0.025ms
+		UnloadImportedAssets: 0.151ms
+		ReloadImportedAssets: 0.510ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.257ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.153ms
+	PostProcessAllAssets: 0.813ms
+	Hotreload: 10.961ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.020ms
+	PersistCurrentRevisions: 0.094ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.200ms
+
+Start importing Assets/Selection/V04/AI3D/SelectionCurvedMuseumWall_V04_Meshy_Hero_base_color.png using Guid(ad0dd74ea9ebd486babf31e382f2fac1) (TextureImporter) -> (artifact id: '020087f8bc9e1828ebdbe81b6c6aa672') in 0.248084709 seconds
+Refreshing native plugins compatible for Editor in 11.17 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.62 ms.
+Asset Pipeline Refresh (id=2fb74cefb38f344e4b43a01aa4164777): Total: 0.273 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Selection/V04/AI3D/SelectionCurvedMuseumWall_V04_Meshy_Hero_normal.png using Guid(66d88409fac1240aaa28391efbbdfa7e) (TextureImporter) -> (artifact id: 'e0349ca202868d54b1216ca0fb396644') in 0.344338166 seconds
+Refreshing native plugins compatible for Editor in 8.97 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.55 ms.
+Asset Pipeline Refresh (id=34d5ebf53fb574801967d5fdaab5389a): Total: 0.368 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=356 ms
+		Asset DB Callback time: managed=0 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 5
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.049ms
+	Scan: 5.443ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.036ms
+	CategorizeAssets: 0.550ms
+	ImportOutOfDateAssets: 345.922ms (-0.353ms without children)
+		ImportManagerImport: 345.219ms (0.650ms without children)
+			ImportInProcess: 344.555ms
+			UpdateCategorizedAssets: 0.014ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.157ms
+		ReloadImportedAssets: 0.464ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.255ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.151ms
+	PostProcessAllAssets: 0.786ms
+	Hotreload: 10.238ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.027ms
+	PersistCurrentRevisions: 0.093ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.345ms
+
+Start importing Assets/Selection/V04/AI3D/SelectionEiffelMiniature_V04_Meshy_Hero_base_color.png using Guid(46e577839d57840e395446233c99b1c7) (TextureImporter) -> (artifact id: '0eed6b3f6280ba403658ac09fd3ff1c4') in 0.246415667 seconds
+Refreshing native plugins compatible for Editor in 8.99 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.56 ms.
+Asset Pipeline Refresh (id=29e610f73e9704cc8b8b5768ff7ebdee): Total: 0.269 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Selection/V04/AI3D/SelectionEiffelMiniature_V04_Meshy_Hero_normal.png using Guid(b5a467a90c02d4f99a705f79857c4a0b) (TextureImporter) -> (artifact id: 'cae7363d0a0d27aa41b7ef1a6fb3a536') in 0.383197792 seconds
+Refreshing native plugins compatible for Editor in 8.86 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.48 ms.
+Asset Pipeline Refresh (id=d1e4cc92903b74775883904e894f3fb0): Total: 0.406 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=394 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 5
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.052ms
+	Scan: 4.530ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.018ms
+	CategorizeAssets: 0.655ms
+	ImportOutOfDateAssets: 384.757ms (-0.295ms without children)
+		ImportManagerImport: 384.052ms (0.592ms without children)
+			ImportInProcess: 383.446ms
+			UpdateCategorizedAssets: 0.013ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.171ms
+		ReloadImportedAssets: 0.407ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.254ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.139ms
+	PostProcessAllAssets: 0.763ms
+	Hotreload: 11.022ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.072ms
+	UnloadStreamsBegin: 0.020ms
+	PersistCurrentRevisions: 0.088ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.217ms
+
+Start importing Assets/Selection/V04/AI3D/SelectionPagodaMiniature_V04_Meshy_Hero_base_color.png using Guid(6f9fa11466ca2410db6c506805eef665) (TextureImporter) -> (artifact id: '82d274b383c31b9a9ef00eaf66511b57') in 0.347682083 seconds
+Refreshing native plugins compatible for Editor in 10.30 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.52 ms.
+Asset Pipeline Refresh (id=aeffb50856fa84b95996ad99e9850af7): Total: 0.373 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=359 ms
+		Asset DB Callback time: managed=0 ms, native=12 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 5
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.049ms
+	Scan: 5.580ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.017ms
+	CategorizeAssets: 0.637ms
+	ImportOutOfDateAssets: 349.275ms (-0.329ms without children)
+		ImportManagerImport: 348.548ms (0.635ms without children)
+			ImportInProcess: 347.895ms
+			UpdateCategorizedAssets: 0.018ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.159ms
+		ReloadImportedAssets: 0.446ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.269ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.153ms
+	PostProcessAllAssets: 0.780ms
+	Hotreload: 11.912ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.063ms
+	UnloadStreamsBegin: 0.039ms
+	PersistCurrentRevisions: 0.091ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.267ms
+
+Start importing Assets/Selection/V04/AI3D/SelectionPagodaMiniature_V04_Meshy_Hero_metallic_smoothness.png using Guid(f8ef5a05ac73d46889cf6efa138e7aef) (TextureImporter) -> (artifact id: '10313ad2580f98f45544dd9e15ea90fd') in 0.200293375 seconds
+Refreshing native plugins compatible for Editor in 9.08 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.53 ms.
+Asset Pipeline Refresh (id=3785b2364331c42d692c6fdd1ff7346b): Total: 0.223 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Selection/V04/AI3D/SelectionPagodaMiniature_V04_Meshy_Hero_normal.png using Guid(d5c9c4d96239d425abe33ca47e09c2a7) (TextureImporter) -> (artifact id: '92758248743bf4215b4dd6bc87bf161e') in 0.415627875 seconds
+Refreshing native plugins compatible for Editor in 11.15 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.59 ms.
+Asset Pipeline Refresh (id=2fbd19e45b3c74631947542b8b9297bd): Total: 0.440 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=426 ms
+		Asset DB Callback time: managed=0 ms, native=13 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 5
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.051ms
+	Scan: 4.586ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.544ms
+	ImportOutOfDateAssets: 417.167ms (-0.313ms without children)
+		ImportManagerImport: 416.475ms (0.608ms without children)
+			ImportInProcess: 415.855ms
+			UpdateCategorizedAssets: 0.013ms
+		ReloadNativeAssets: 0.025ms
+		UnloadImportedAssets: 0.155ms
+		ReloadImportedAssets: 0.424ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.253ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.145ms
+	PostProcessAllAssets: 0.770ms
+	Hotreload: 12.827ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.028ms
+	PersistCurrentRevisions: 0.093ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.141ms
+
+Start importing Assets/Selection/V04/AI3D/SelectionWindmillMiniature_V04_Meshy_Hero_base_color.png using Guid(0973f00dad3b74fd8abb3149df7cadf7) (TextureImporter) -> (artifact id: '34d92a79d3c2f57d66c09a3fe54b09a8') in 0.278694959 seconds
+Refreshing native plugins compatible for Editor in 12.01 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.70 ms.
+Asset Pipeline Refresh (id=dc8be894c4cfe47fbacfca33711eacb5): Total: 0.306 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=290 ms
+		Asset DB Callback time: managed=0 ms, native=15 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 5
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.048ms
+	Scan: 5.439ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.566ms
+	ImportOutOfDateAssets: 280.505ms (-0.293ms without children)
+		ImportManagerImport: 279.818ms (0.593ms without children)
+			ImportInProcess: 279.209ms
+			UpdateCategorizedAssets: 0.016ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.157ms
+		ReloadImportedAssets: 0.400ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.251ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.145ms
+	PostProcessAllAssets: 0.750ms
+	Hotreload: 14.590ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.063ms
+	UnloadStreamsBegin: 0.031ms
+	PersistCurrentRevisions: 0.088ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.124ms
+
+Start importing Assets/Selection/V04/AI3D/SelectionWindmillMiniature_V04_Meshy_Hero_metallic_smoothness.png using Guid(127fee67d8d2d41f69db75d73115c056) (TextureImporter) -> (artifact id: '368d264a75f16f3e9dc7032941e14238') in 0.16768125 seconds
+Refreshing native plugins compatible for Editor in 11.83 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.55 ms.
+Asset Pipeline Refresh (id=47376fdf2efeb4090bf036b1d5e223cc): Total: 0.193 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Selection/V04/AI3D/SelectionWindmillMiniature_V04_Meshy_Hero_normal.png using Guid(3824a1b8abcbe4413a02fe852ccfb67f) (TextureImporter) -> (artifact id: '1c4271d8b37dd6a5b334dd29cdab7387') in 0.363042458 seconds
+Refreshing native plugins compatible for Editor in 9.61 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=a168486b149ad4a9cbf7ce108e5b7fb5): Total: 0.387 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=375 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 5
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.058ms
+	Scan: 5.104ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.608ms
+	ImportOutOfDateAssets: 364.806ms (-0.225ms without children)
+		ImportManagerImport: 363.928ms (0.643ms without children)
+			ImportInProcess: 363.272ms
+			UpdateCategorizedAssets: 0.013ms
+		ReloadNativeAssets: 0.031ms
+		UnloadImportedAssets: 0.191ms
+		ReloadImportedAssets: 0.446ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.271ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.161ms
+	PostProcessAllAssets: 0.801ms
+	Hotreload: 11.028ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.066ms
+	UnloadStreamsBegin: 0.028ms
+	PersistCurrentRevisions: 0.094ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.398ms
+
+Start importing Assets/Splash/Generated3D/AssemblyWorkbench_V03_Hero_base_color.png using Guid(821a0ce8e207b450f96dd9d97a957d40) (TextureImporter) -> (artifact id: 'e4342bb460a6f44922f37f8f8fcffb92') in 0.764739334 seconds
+Refreshing native plugins compatible for Editor in 11.45 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.67 ms.
+Asset Pipeline Refresh (id=60c969fe10f7e41cea31dc7bdc7e5df9): Total: 0.811 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=795 ms
+		Asset DB Callback time: managed=1 ms, native=13 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 4
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.086ms
+	Scan: 6.996ms
+	OnSourceAssetsModified: 0.337ms
+	CategorizeAssetsWithTransientArtifact: 0.005ms
+	ProcessAssetsWithTransientArtifactChanges: 0.033ms
+	CategorizeAssets: 10.020ms
+	ImportOutOfDateAssets: 769.046ms (-2.878ms without children)
+		ImportManagerImport: 768.212ms (3.225ms without children)
+			ImportInProcess: 764.966ms
+			UpdateCategorizedAssets: 0.021ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.231ms
+		ReloadImportedAssets: 3.012ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.280ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.158ms
+	PostProcessAllAssets: 0.803ms
+	Hotreload: 13.476ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.143ms
+	PersistCurrentRevisions: 0.138ms
+	UnloadStreamsEnd: 0.001ms
+	Untracked: 9.355ms
+
+Start importing Assets/Splash/Generated3D/AssemblyWorkbench_V03_Hero_emission.png using Guid(814e27b83533843d19fc40557480ddf2) (TextureImporter) -> (artifact id: '6f8c0098306aa110ab08d6b19ac41e15') in 0.021001375 seconds
+Refreshing native plugins compatible for Editor in 12.27 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.56 ms.
+Asset Pipeline Refresh (id=1d982106895884999bab0115d9e5b599): Total: 0.049 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Splash/Generated3D/AssemblyWorkbench_V03_Hero_metallic_smoothness.png using Guid(45320fa6f55374de1ba8908af29e582f) (TextureImporter) -> (artifact id: '63d991078c5eae672bbf6d274d91d995') in 0.129051 seconds
+Refreshing native plugins compatible for Editor in 10.57 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.59 ms.
+Asset Pipeline Refresh (id=d451a381cbdcb495c8373476de98170a): Total: 0.154 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Splash/Generated3D/AssemblyWorkbench_V03_Hero_normal.png using Guid(1cb8c58436e53475797f97bd7be9cdbb) (TextureImporter) -> (artifact id: '97a85714bdfe3439509a3ab4dcc78fa4') in 0.333543291 seconds
+Refreshing native plugins compatible for Editor in 10.37 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.56 ms.
+Asset Pipeline Refresh (id=1dd8fa06b1ee944aa90f5e8eed8750db): Total: 0.359 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=346 ms
+		Asset DB Callback time: managed=0 ms, native=12 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.054ms
+	Scan: 5.139ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.018ms
+	CategorizeAssets: 0.718ms
+	ImportOutOfDateAssets: 335.178ms (-0.357ms without children)
+		ImportManagerImport: 334.441ms (0.655ms without children)
+			ImportInProcess: 333.771ms
+			UpdateCategorizedAssets: 0.015ms
+		ReloadNativeAssets: 0.025ms
+		UnloadImportedAssets: 0.175ms
+		ReloadImportedAssets: 0.467ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.261ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.163ms
+	PostProcessAllAssets: 0.771ms
+	Hotreload: 11.844ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.063ms
+	UnloadStreamsBegin: 0.029ms
+	PersistCurrentRevisions: 0.085ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 5.413ms
+
+Start importing Assets/Splash/Generated3D/CurvedWorkshopStorage_Hero_base_color.png using Guid(d4889d398918443748387628be11cfe5) (TextureImporter) -> (artifact id: 'c81358f8cb8c2f9dc0f98d4154620c08') in 0.486454875 seconds
+Refreshing native plugins compatible for Editor in 11.80 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.71 ms.
+Asset Pipeline Refresh (id=52828d8f943d44470818bf2ee0d9e834): Total: 0.514 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=498 ms
+		Asset DB Callback time: managed=0 ms, native=14 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.058ms
+	Scan: 4.964ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.018ms
+	CategorizeAssets: 0.583ms
+	ImportOutOfDateAssets: 488.109ms (-0.352ms without children)
+		ImportManagerImport: 487.384ms (0.666ms without children)
+			ImportInProcess: 486.701ms
+			UpdateCategorizedAssets: 0.016ms
+		ReloadNativeAssets: 0.029ms
+		UnloadImportedAssets: 0.178ms
+		ReloadImportedAssets: 0.466ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.259ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.143ms
+	PostProcessAllAssets: 0.770ms
+	Hotreload: 14.495ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.046ms
+	PersistCurrentRevisions: 0.086ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.529ms
+
+Start importing Assets/Splash/Generated3D/CurvedWorkshopStorage_Hero_emission.png using Guid(6eb6b822a09b64837998ea6f4d21ed55) (TextureImporter) -> (artifact id: '05765345672400f922bc66907f6bc68d') in 0.032148375 seconds
+Refreshing native plugins compatible for Editor in 10.15 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=25edb4233a3fa4a31812628b755eab8a): Total: 0.057 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Splash/Generated3D/CurvedWorkshopStorage_Hero_metallic_smoothness.png using Guid(2e681311ce5a64832a6ad631192e2b67) (TextureImporter) -> (artifact id: '39221b3c6be76a6a3a4771ab5b8e707f') in 0.211924041 seconds
+Refreshing native plugins compatible for Editor in 9.50 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.55 ms.
+Asset Pipeline Refresh (id=f326a1565f8d2445d8505fa05a5fc614): Total: 0.235 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Splash/Generated3D/CurvedWorkshopStorage_Hero_normal.png using Guid(c268f97c41b36452d8949b4150725058) (TextureImporter) -> (artifact id: '56b693af82486a50c1b22bc9c947705d') in 0.577293375 seconds
+Refreshing native plugins compatible for Editor in 9.43 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=d735c82c97a0d4e63b20c6d2c773e9ba): Total: 0.600 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=588 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.052ms
+	Scan: 4.797ms
+	OnSourceAssetsModified: 0.001ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.537ms
+	ImportOutOfDateAssets: 578.821ms (-0.288ms without children)
+		ImportManagerImport: 578.125ms (0.589ms without children)
+			ImportInProcess: 577.523ms
+			UpdateCategorizedAssets: 0.014ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.154ms
+		ReloadImportedAssets: 0.403ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.251ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.147ms
+	PostProcessAllAssets: 0.861ms
+	Hotreload: 10.930ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.038ms
+	PersistCurrentRevisions: 0.088ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.219ms
+
+Start importing Assets/Splash/Generated3D/ModelBuilder_Hero_base_color.png using Guid(39cfb405f3ffa429c81d4e2e7f069636) (TextureImporter) -> (artifact id: 'b29310bcd2aaac4f9278c2f791aa6b06') in 1.121940667 seconds
+Refreshing native plugins compatible for Editor in 9.46 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.58 ms.
+Asset Pipeline Refresh (id=a8a66a98a6fb647319a8ca1c0f7848cc): Total: 1.147 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1134 ms
+		Asset DB Callback time: managed=0 ms, native=12 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	ApplyChangesToAssetFolders: 0.055ms
+	Scan: 5.022ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.648ms
+	ImportOutOfDateAssets: 1124.013ms (-0.648ms without children)
+		ImportManagerImport: 1123.179ms (0.987ms without children)
+			ImportInProcess: 1122.174ms
+			UpdateCategorizedAssets: 0.017ms
+		ReloadNativeAssets: 0.028ms
+		UnloadImportedAssets: 0.250ms
+		ReloadImportedAssets: 0.772ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.263ms
+		InitializingProgressBar: 0.005ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.164ms
+	PostProcessAllAssets: 0.799ms
+	Hotreload: 12.191ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.065ms
+	UnloadStreamsBegin: 0.066ms
+	PersistCurrentRevisions: 0.087ms
+	UnloadStreamsEnd: 0.001ms
+	Untracked: 4.269ms
+
+Start importing Assets/Splash/Generated3D/ModelBuilder_Hero_emission.png using Guid(2e69f01466fd840ff8edc300684529da) (TextureImporter) -> (artifact id: '41435c8844129fd5f0a370eedb32ce57') in 0.068265917 seconds
+Refreshing native plugins compatible for Editor in 8.84 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.55 ms.
+Asset Pipeline Refresh (id=99fcfe11ae63f493ea8be0c7cde2c39a): Total: 0.090 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Splash/Generated3D/ModelBuilder_Hero_metallic_smoothness.png using Guid(e90018a82357a4f9a9a37af36f7d7b3a) (TextureImporter) -> (artifact id: '5235b79d67cdc1dcf7d56116c3db98a7') in 0.284306375 seconds
+Refreshing native plugins compatible for Editor in 8.43 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=af3af197e19764d41aa084b6a78be8f6): Total: 0.306 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=295 ms
+		Asset DB Callback time: managed=0 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.053ms
+	Scan: 4.528ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.629ms
+	ImportOutOfDateAssets: 285.737ms (-0.228ms without children)
+		ImportManagerImport: 285.039ms (0.514ms without children)
+			ImportInProcess: 284.515ms
+			UpdateCategorizedAssets: 0.010ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.167ms
+		ReloadImportedAssets: 0.344ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.250ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.136ms
+	PostProcessAllAssets: 0.725ms
+	Hotreload: 10.086ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.025ms
+	PersistCurrentRevisions: 0.082ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.028ms
+
+Start importing Assets/Splash/Generated3D/ModelBuilder_Hero_normal.png using Guid(85a7f11a0ddfa46708dbdfd31580c348) (TextureImporter) -> (artifact id: '83cf321ccb673802ad0a7506486ec8ad') in 0.643804125 seconds
+Refreshing native plugins compatible for Editor in 9.04 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=2011f4d7fe36941fc8b2fe4b76436cae): Total: 0.666 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=654 ms
+		Asset DB Callback time: managed=0 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.051ms
+	Scan: 4.506ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.589ms
+	ImportOutOfDateAssets: 645.402ms (-0.307ms without children)
+		ImportManagerImport: 644.654ms (0.613ms without children)
+			ImportInProcess: 644.029ms
+			UpdateCategorizedAssets: 0.012ms
+		ReloadNativeAssets: 0.025ms
+		UnloadImportedAssets: 0.184ms
+		ReloadImportedAssets: 0.428ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.259ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.157ms
+	PostProcessAllAssets: 0.747ms
+	Hotreload: 10.077ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.063ms
+	UnloadStreamsBegin: 0.026ms
+	PersistCurrentRevisions: 0.092ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.057ms
+
+Start importing Assets/Splash/Generated3D/ReferenceLeftHandOpen_20260715_V04_R2_Hero_base_color.png using Guid(a8c3b14638913409f88d3bc43b9a219e) (TextureImporter) -> (artifact id: '288c7ea64a9c7e8508fa456d03a02475') in 0.551932667 seconds
+Refreshing native plugins compatible for Editor in 9.21 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.52 ms.
+Asset Pipeline Refresh (id=50c29b83c2e9a464fa07454f022aabda): Total: 0.575 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=563 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.053ms
+	Scan: 4.523ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.556ms
+	ImportOutOfDateAssets: 553.954ms (-0.730ms without children)
+		ImportManagerImport: 553.222ms (1.043ms without children)
+			ImportInProcess: 552.161ms
+			UpdateCategorizedAssets: 0.018ms
+		ReloadNativeAssets: 0.025ms
+		UnloadImportedAssets: 0.214ms
+		ReloadImportedAssets: 0.832ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.248ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.140ms
+	PostProcessAllAssets: 0.736ms
+	Hotreload: 10.631ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.083ms
+	PersistCurrentRevisions: 0.081ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 3.986ms
+
+Start importing Assets/Splash/Generated3D/ReferenceLeftHandOpen_20260715_V04_R2_Hero_metallic_smoothness.png using Guid(b8dbe9fda7c8740409ab6ee8109fa734) (TextureImporter) -> (artifact id: '560b49c5f859af6cbb320991b19556d5') in 0.060450583 seconds
+Refreshing native plugins compatible for Editor in 8.71 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=181184b25c30b45c1a95da5788f236cd): Total: 0.082 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Splash/Generated3D/ReferenceLeftHandOpen_20260715_V04_R2_Hero_normal.png using Guid(a96bfc76c99754610aae13de9003be76) (TextureImporter) -> (artifact id: 'cefe9b38ec47e45e810515c215a67ace') in 0.295232208 seconds
+Refreshing native plugins compatible for Editor in 8.86 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=0558f4acaf64d444fb0dd94bd5db5829): Total: 0.317 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=305 ms
+		Asset DB Callback time: managed=0 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	ApplyChangesToAssetFolders: 0.057ms
+	Scan: 4.476ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.026ms
+	CategorizeAssets: 0.596ms
+	ImportOutOfDateAssets: 296.709ms (-0.290ms without children)
+		ImportManagerImport: 296.016ms (0.573ms without children)
+			ImportInProcess: 295.433ms
+			UpdateCategorizedAssets: 0.010ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.164ms
+		ReloadImportedAssets: 0.403ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.249ms
+		InitializingProgressBar: 0.002ms
+		OnDemandSchedulerStart: 0.140ms
+	PostProcessAllAssets: 0.754ms
+	Hotreload: 10.277ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.022ms
+	PersistCurrentRevisions: 0.082ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 3.930ms
+
+Start importing Assets/Splash/Generated3D/ShipwrightWorkbench_V03_Hero_base_color.png using Guid(4e0ea6c4e379d451db517dafd781d941) (TextureImporter) -> (artifact id: '796849b913903ab31689e4cae965de0b') in 0.781939667 seconds
+Refreshing native plugins compatible for Editor in 9.88 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.53 ms.
+Asset Pipeline Refresh (id=5069b1fb347244fd6abbc8fe6b24283c): Total: 0.820 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=807 ms
+		Asset DB Callback time: managed=0 ms, native=11 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 4
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.083ms
+	Scan: 6.610ms
+	OnSourceAssetsModified: 0.021ms
+	CategorizeAssetsWithTransientArtifact: 0.005ms
+	ProcessAssetsWithTransientArtifactChanges: 0.031ms
+	CategorizeAssets: 9.801ms
+	ImportOutOfDateAssets: 786.258ms (-2.955ms without children)
+		ImportManagerImport: 785.437ms (3.275ms without children)
+			ImportInProcess: 782.144ms
+			UpdateCategorizedAssets: 0.017ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.244ms
+		ReloadImportedAssets: 3.082ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.276ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.145ms
+	PostProcessAllAssets: 0.757ms
+	Hotreload: 11.049ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.063ms
+	UnloadStreamsBegin: 0.042ms
+	PersistCurrentRevisions: 0.138ms
+	UnloadStreamsEnd: 0.001ms
+	Untracked: 4.917ms
+
+Start importing Assets/Splash/Generated3D/ShipwrightWorkbench_V03_Hero_emission.png using Guid(3e0a22485e3ff4b43b4479814ba7600d) (TextureImporter) -> (artifact id: '867b063ea0a6874e5cb085c40c1c0237') in 0.020312209 seconds
+Refreshing native plugins compatible for Editor in 8.65 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.54 ms.
+Asset Pipeline Refresh (id=d4e441471ded54552a2f8e8729a86927): Total: 0.042 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Splash/Generated3D/ShipwrightWorkbench_V03_Hero_metallic_smoothness.png using Guid(691c5782c119c4bf49fad83aa89432f3) (TextureImporter) -> (artifact id: '76d4f7eca7b45549ae009669c6a219a6') in 0.138207292 seconds
+Refreshing native plugins compatible for Editor in 11.56 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.55 ms.
+Asset Pipeline Refresh (id=b9dc00464a3474d87bdd596d9427cc62): Total: 0.163 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Splash/Generated3D/ShipwrightWorkbench_V03_Hero_normal.png using Guid(0228e80dd17bd49fcbcf8246c30cfc68) (TextureImporter) -> (artifact id: 'ff6a5d3ea2cb887fbce6e77a8ffc5215') in 0.32178125 seconds
+Refreshing native plugins compatible for Editor in 9.75 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.49 ms.
+Asset Pipeline Refresh (id=a8e4bef602a084d74abe5e881ce0338a): Total: 0.347 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=333 ms
+		Asset DB Callback time: managed=0 ms, native=12 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.050ms
+	Scan: 5.266ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.015ms
+	CategorizeAssets: 0.552ms
+	ImportOutOfDateAssets: 323.834ms (-0.583ms without children)
+		ImportManagerImport: 323.144ms (0.871ms without children)
+			ImportInProcess: 322.256ms
+			UpdateCategorizedAssets: 0.017ms
+		ReloadNativeAssets: 0.024ms
+		UnloadImportedAssets: 0.159ms
+		ReloadImportedAssets: 0.692ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.253ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.143ms
+	PostProcessAllAssets: 0.752ms
+	Hotreload: 11.972ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.065ms
+	UnloadStreamsBegin: 0.028ms
+	PersistCurrentRevisions: 0.082ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 3.914ms
+
+Start importing Assets/Splash/Generated3D/WorkshopShip_Hero_base_color.png using Guid(3a3953116b7d04b3da110dfd5497011e) (TextureImporter) -> (artifact id: '29d8544ddbcee9c5c509efd061aeba11') in 0.502299625 seconds
+Refreshing native plugins compatible for Editor in 12.85 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.58 ms.
+Asset Pipeline Refresh (id=a27d449b1686b451fb7bae55f273c93e): Total: 0.536 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=520 ms
+		Asset DB Callback time: managed=0 ms, native=14 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.052ms
+	Scan: 11.294ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.018ms
+	CategorizeAssets: 0.561ms
+	ImportOutOfDateAssets: 503.923ms (-0.386ms without children)
+		ImportManagerImport: 503.219ms (0.692ms without children)
+			ImportInProcess: 502.514ms
+			UpdateCategorizedAssets: 0.014ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.154ms
+		ReloadImportedAssets: 0.498ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.256ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.153ms
+	PostProcessAllAssets: 0.817ms
+	Hotreload: 14.296ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.044ms
+	PersistCurrentRevisions: 0.092ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.736ms
+
+Start importing Assets/Splash/Generated3D/WorkshopShip_Hero_emission.png using Guid(15daed01121d743f99e4c2aba430847e) (TextureImporter) -> (artifact id: 'c4f590b1e3dbed4089431b60dec57952') in 0.042149792 seconds
+Refreshing native plugins compatible for Editor in 11.72 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.68 ms.
+Asset Pipeline Refresh (id=9681b694645e14adb88f3cc3197537c7): Total: 0.069 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Splash/Generated3D/WorkshopShip_Hero_metallic_smoothness.png using Guid(c84069258b5934a7cbd0c51d41c17be5) (TextureImporter) -> (artifact id: 'a7ffd9295380e8be9264da076e928908') in 0.199663292 seconds
+Refreshing native plugins compatible for Editor in 14.63 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 1.01 ms.
+Asset Pipeline Refresh (id=230a4abd865fe415c9ac89cdcb1a2b47): Total: 0.230 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Splash/Generated3D/WorkshopShip_Hero_normal.png using Guid(523373ea8fa224bb3a3107f92a525eb8) (TextureImporter) -> (artifact id: '0accd89ac8de7fc5a24407d4533ad161') in 0.68236625 seconds
+Refreshing native plugins compatible for Editor in 8.40 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=b6ba1f9615e7c489482b21c43b817f2f): Total: 0.706 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=695 ms
+		Asset DB Callback time: managed=0 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.052ms
+	Scan: 5.487ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.016ms
+	CategorizeAssets: 0.563ms
+	ImportOutOfDateAssets: 683.951ms (-0.326ms without children)
+		ImportManagerImport: 683.247ms (0.635ms without children)
+			ImportInProcess: 682.597ms
+			UpdateCategorizedAssets: 0.015ms
+		ReloadNativeAssets: 0.027ms
+		UnloadImportedAssets: 0.172ms
+		ReloadImportedAssets: 0.439ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.256ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.134ms
+	PostProcessAllAssets: 0.730ms
+	Hotreload: 9.798ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.065ms
+	UnloadStreamsBegin: 0.036ms
+	PersistCurrentRevisions: 0.082ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.926ms
+
+Start importing Assets/Splash/Generated3D/WorkshopWallStorage_V03_Hero_base_color.png using Guid(04454e3b5c48d44af99c4041f518fbe7) (TextureImporter) -> (artifact id: '5b12fdbf3c6a420ccd762f2808d060bc') in 0.26476475 seconds
+Refreshing native plugins compatible for Editor in 9.10 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.53 ms.
+Asset Pipeline Refresh (id=658c6c2b028a646be89df7fe299c3485): Total: 0.287 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Splash/Generated3D/WorkshopWallStorage_V03_Hero_emission.png using Guid(f9fed8002f39043a78328757630535e1) (TextureImporter) -> (artifact id: 'fda44bfc2b156d97ba91769a9f9ba3d7') in 0.021047291 seconds
+Refreshing native plugins compatible for Editor in 8.56 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.55 ms.
+Asset Pipeline Refresh (id=18ccb8c45542c489ea464bec2fdb0ddc): Total: 0.042 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Splash/Generated3D/WorkshopWallStorage_V03_Hero_metallic_smoothness.png using Guid(63b3e1209886f42ab9c95271c6111830) (TextureImporter) -> (artifact id: '7bc0b7b9b045abf779f460ab7feda4a2') in 0.147890208 seconds
+Refreshing native plugins compatible for Editor in 9.31 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.61 ms.
+Asset Pipeline Refresh (id=f6d33625985824ec4af8abf491c51a52): Total: 0.171 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Splash/Generated3D/WorkshopWallStorage_V03_Hero_normal.png using Guid(608a791e5b53347cab8aba966d82d8a5) (TextureImporter) -> (artifact id: '61504ba9f94501337ee98e60ac2ace6b') in 0.412683459 seconds
+Refreshing native plugins compatible for Editor in 9.07 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.55 ms.
+Asset Pipeline Refresh (id=3e2b51984252d4adc8cb16390e05a612): Total: 0.435 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=424 ms
+		Asset DB Callback time: managed=0 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 4
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.053ms
+	Scan: 5.317ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.002ms
+	ProcessAssetsWithTransientArtifactChanges: 0.017ms
+	CategorizeAssets: 0.514ms
+	ImportOutOfDateAssets: 414.175ms (-0.293ms without children)
+		ImportManagerImport: 413.496ms (0.580ms without children)
+			ImportInProcess: 412.905ms
+			UpdateCategorizedAssets: 0.012ms
+		ReloadNativeAssets: 0.026ms
+		UnloadImportedAssets: 0.147ms
+		ReloadImportedAssets: 0.401ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.250ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.146ms
+	PostProcessAllAssets: 0.762ms
+	Hotreload: 10.102ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.063ms
+	UnloadStreamsBegin: 0.031ms
+	PersistCurrentRevisions: 0.087ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.134ms
+
+Start importing Assets/Splash/V05/Generated3D/MeshyPointingRightHand_20260716_V05_BaseColor.png using Guid(828d701a5720c461fba40bab3e6baa1d) (TextureImporter) -> (artifact id: '5eb7ef66f78d800f1b505dee2b0bcc3b') in 0.269369958 seconds
+Refreshing native plugins compatible for Editor in 12.03 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.69 ms.
+Asset Pipeline Refresh (id=1ac4326f344ab475f894b03231cb2a05): Total: 0.295 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Splash/V05/Generated3D/MeshyPointingRightHand_20260716_V05_Normal.png using Guid(115388320c86340e7aeff81e0d4e8ae6) (TextureImporter) -> (artifact id: '2e2984f917e8d307ba59332623413bae') in 0.3081135 seconds
+Refreshing native plugins compatible for Editor in 8.97 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.53 ms.
+Asset Pipeline Refresh (id=e33216ffdf135498da62a0e9e41f20f8): Total: 0.331 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=320 ms
+		Asset DB Callback time: managed=0 ms, native=10 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 5
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.054ms
+	Scan: 5.589ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.017ms
+	CategorizeAssets: 0.660ms
+	ImportOutOfDateAssets: 309.640ms (-0.314ms without children)
+		ImportManagerImport: 308.955ms (0.606ms without children)
+			ImportInProcess: 308.337ms
+			UpdateCategorizedAssets: 0.012ms
+		ReloadNativeAssets: 0.025ms
+		UnloadImportedAssets: 0.167ms
+		ReloadImportedAssets: 0.422ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.248ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.136ms
+	PostProcessAllAssets: 0.724ms
+	Hotreload: 9.990ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.064ms
+	UnloadStreamsBegin: 0.028ms
+	PersistCurrentRevisions: 0.082ms
+	UnloadStreamsEnd: 0.000ms
+	Untracked: 4.060ms
+
+Start importing Assets/Branding/V81/PersonallyPuzzledIcon.png using Guid(db9f58e701e634cab9cb18a1c31eebca) (TextureImporter) -> (artifact id: '2ce49dc93c2cb48207a00eb7677f8022') in 0.0353025 seconds
+Refreshing native plugins compatible for Editor in 8.66 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.50 ms.
+Asset Pipeline Refresh (id=f47831549593740d1b8b2be06c4f612d): Total: 0.063 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Optimization] ICON Adaptive (API 26) slots=6
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+AndroidSizeOptimization:Apply () (at Assets/Editor/AndroidSizeOptimization.cs:67)
+
+(Filename: Assets/Editor/AndroidSizeOptimization.cs Line: 67)
+
+[Optimization] ICON Round (API 25) slots=6
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+AndroidSizeOptimization:Apply () (at Assets/Editor/AndroidSizeOptimization.cs:67)
+
+(Filename: Assets/Editor/AndroidSizeOptimization.cs Line: 67)
+
+[Optimization] ICON Legacy slots=6
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+AndroidSizeOptimization:Apply () (at Assets/Editor/AndroidSizeOptimization.cs:67)
+
+(Filename: Assets/Editor/AndroidSizeOptimization.cs Line: 67)
+
+Start importing ProjectSettings/ProjectSettings.asset using Guid(00000000000000004000000000000000) (LibraryAssetImporter) -> (artifact id: '5d5f35c33a008416a96e0ecfac0eb949') in 0.001207542 seconds
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+AndroidSizeOptimization:Apply () (at Assets/Editor/AndroidSizeOptimization.cs:69)
+
+[Assets/Editor/AndroidSizeOptimization.cs line 69]
+
+Launching external process: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.60 seconds
+Refreshing native plugins compatible for Editor in 8.76 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.55 ms.
+Asset Pipeline Refresh (id=b76a1520a23a045bd8d274739f5f2867): Total: 0.989 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=292 ms
+		Asset DB Callback time: managed=0 ms, native=696 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1679, non-scripts=2683
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.000ms
+	ApplyChangesToAssetFolders: 0.105ms
+	Scan: 262.849ms
+	OnSourceAssetsModified: 0.000ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 0.031ms
+	CategorizeAssets: 18.953ms
+	ImportOutOfDateAssets: 2.768ms (0.229ms without children)
+		ImportManagerImport: 1.465ms (0.121ms without children)
+			ImportInProcess: 1.337ms
+			UpdateCategorizedAssets: 0.006ms
+		ReloadNativeAssets: 0.044ms
+		UnloadImportedAssets: 0.229ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.530ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.271ms
+	PostProcessAllAssets: 960.974ms
+	Hotreload: 17.769ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.124ms
+	UnloadStreamsBegin: 0.002ms
+	PersistCurrentRevisions: 0.160ms
+	UnloadStreamsEnd: 0.001ms
+	Untracked: -274.257ms
+
+[Optimization] APPLY PASSED textures=106
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+AndroidSizeOptimization:Apply () (at Assets/Editor/AndroidSizeOptimization.cs:70)
+
+(Filename: Assets/Editor/AndroidSizeOptimization.cs Line: 70)
+
+Batchmode quit successfully invoked - shutting down!
+Thread 0x337c13000 may have been prematurely finalized
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
+Call to StopSubsystems without an initialized manager.Please make sure wait for initialization to complete before calling this API.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.XR.Management.XRManagerSettings:StopSubsystems () (at ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs:427)
+UnityEngine.XR.Management.XRManagerSettings:OnDisable () (at ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs:481)
+
+(Filename: ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs Line: 427)
+
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+[Licensing::IpcConnector] LicenseClient-bytedance-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-bytedance channel disconnected successfully.
+Thread 0x16d21f000 may have been prematurely finalized
+Thread 0x16d567000 may have been prematurely finalized
+Thread 0x16d3c3000 may have been prematurely finalized
+Thread 0x16d4db000 may have been prematurely finalized
+Thread 0x16d2ab000 may have been prematurely finalized
+Thread 0x16d337000 may have been prematurely finalized
+Thread 0x16d44f000 may have been prematurely finalized
+AcceleratorClientConnectionCallback - disconnected - :0
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+Cleanup mono
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      ALC ILPP context 1 is unloading
+debugger-agent: Unable to listen on 43
+Exiting batchmode successfully now!
+[Package Manager] Server process was shutdown

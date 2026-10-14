@@ -1,0 +1,12 @@
+{
+  "bytes": 230554388,
+  "MB": 230.554388,
+  "MiB": 219.87379837036133,
+  "baseline_bytes": 280115601,
+  "saved_bytes": 49561213,
+  "reduction_percent": 17.693128416649667,
+  "original_bytes": 443157258,
+  "total_reduction_percent": 47.97458828937876,
+  "sha256": "eee4e98e5b39f7b7906ca83bfe9d01657edba097f8a003228125dadd67c7172a",
+  "zip_crc": "PASS"
+}

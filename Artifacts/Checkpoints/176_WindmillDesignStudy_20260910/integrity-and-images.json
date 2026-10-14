@@ -1,0 +1,81 @@
+{
+  "baseline_files": 22,
+  "changed_baseline_files": [],
+  "apk_bytes": 230554388,
+  "apk_sha256": "eee4e98e5b39f7b7906ca83bfe9d01657edba097f8a003228125dadd67c7172a",
+  "screenshots": [
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/176_WindmillDesignStudy_20260910/DIFFERENCE.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "bytes": 3012630
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/176_WindmillDesignStudy_20260910/OVERLAY.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "bytes": 2384598
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/176_WindmillDesignStudy_20260910/STUDY_ALIVE_FRONT.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "bytes": 2787421
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/176_WindmillDesignStudy_20260910/STUDY_ALIVE_LEFT.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "bytes": 2788794
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/176_WindmillDesignStudy_20260910/STUDY_ASSEMBLED_FRONT.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "bytes": 2780544
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/176_WindmillDesignStudy_20260910/STUDY_ASSEMBLED_LEFT.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "bytes": 2781721
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/176_WindmillDesignStudy_20260910/STUDY_START_FRONT.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "bytes": 2649675
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/176_WindmillDesignStudy_20260910/STUDY_START_LEFT.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "bytes": 2651863
+    },
+    {
+      "file": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/176_WindmillDesignStudy_20260910/WINDKEEPER_CONCEPT_V01.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 2288334
+    }
+  ],
+  "comparison_note": "Intentional design/camera/layout changes; overlay is visual change evidence, not a similarity target."
+}

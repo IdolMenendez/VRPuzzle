@@ -1,0 +1,14 @@
+{
+  "schema": "PPVRAI3DProviderAttemptV1",
+  "provider": "Meshy",
+  "state": "UNKNOWN_COMMIT",
+  "updated_unix_ms": 1787628852000,
+  "source": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/GardenCottage/V76/PartSources/GardenCottage_Part_06_CurvedFloweringVine_SourceEnvelope_V76_R03_CompactWallRelief.png",
+  "source_sha256": "ae1d7acffdd978088714e3593b39032e6f982d38e35f8f7a307c5ac5bcfd4417",
+  "output_prefix": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/GardenCottage/V76/Parts3D/GardenCottage_Part_06_CurvedFloweringVine_V76_Meshy_Fallback",
+  "metadata": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/169_GardenCottage_V76_ProviderSemanticReplacement_20260824/Provider/Part_06_CurvedFloweringVine_V76_MESHY_TASK.json",
+  "task_id": "",
+  "resumed_existing_task": false,
+  "detail": "Create-task POST returned Errno 60 before any task receipt was available. Local DNS resolves api.meshy.ai to unrelated sentinel addresses; authoritative-IP TLS is reset. Remote commit state is not independently known.",
+  "credentials_persisted": false
+}

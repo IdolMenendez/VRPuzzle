@@ -1,0 +1,82 @@
+{
+  "schema": "PPVRLocalReliefBuildV1",
+  "provider": "LocalRelief",
+  "status": "SUCCEEDED",
+  "progress": 100,
+  "build_id": "localrelief-part_07-b952a11517c94889b5dc8163ca3194d3",
+  "task_id": "local-b952a11517c94889b5dc8163ca3194d3",
+  "created_utc": "2026-08-26T07:41:06.819062Z",
+  "source": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/GardenCottage/V76/PartSources/GardenCottage_Part_07_SignFenceFlowerbed_SourceEnvelope_V76_R05_XCompressed.png",
+  "source_sha256": "715fb897c5fc4e79a7da1950a16851b178f4e3478fd0217261add1355f8def85",
+  "models": [
+    "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/GardenCottage/V76/Parts3D/DerivedLocalRelief/GardenCottage_Part_07_SignFenceFlowerbed_V76_LocalReliefFallback_Hero.glb"
+  ],
+  "output_sha256": "7cfc9ed7651875812f96f0fefb374408d601d89f50104745daedbaae91d7fcda",
+  "cutout_preview": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/GardenCottage/V76/Parts3D/DerivedLocalRelief/GardenCottage_Part_07_SignFenceFlowerbed_V76_LocalReliefFallback_Cutout.png",
+  "cutout_sha256": "4d889c1fc1837213b02e644ec586e799ac0fedd3520b1e56bbf311cf8534a291",
+  "vertices": 47674,
+  "triangles": 84596,
+  "depth_ratio": 0.07999999821186066,
+  "indexed_contact_vertices": 120,
+  "texture_embedded": true,
+  "credentials_persisted": false,
+  "network_used": false,
+  "generator": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Tools/AI3D/build_garden_cottage_v76_local_relief_fallback.py",
+  "generator_sha256": "269290c738dcc5b16003eb62f113cb5fd58b00c8949d492053442070f0e10855",
+  "recipe": "Part07OrganicContactReliefV01",
+  "segmentation": {
+    "source_width": 1024,
+    "source_height": 1536,
+    "grid_width": 213,
+    "grid_height": 320,
+    "background_rgb": [
+      245,
+      219,
+      201
+    ],
+    "mask_threshold": 18.0,
+    "foreground_cells": 20476,
+    "foreground_bbox_grid": {
+      "min_x": 28,
+      "min_y": 58,
+      "max_x": 179,
+      "max_y": 278
+    },
+    "foreground_fill_ratio": 0.3004107981220657
+  },
+  "mesh": {
+    "vertices": 47674,
+    "triangles": 84596,
+    "indices": 253788,
+    "boundary_edges": 1346,
+    "indexed_contact_vertices": 120,
+    "depth_ratio": 0.07999999821186066,
+    "bounds_min": [
+      -0.3438914120197296,
+      0.0,
+      -0.03999999910593033
+    ],
+    "bounds_max": [
+      0.3438914120197296,
+      1.0,
+      0.03999999910593033
+    ]
+  },
+  "validation": {
+    "glb_version": 2,
+    "glb_bytes": 4635864,
+    "json_parsed": true,
+    "buffer_bytes": 4633980,
+    "buffer_views": 5,
+    "accessors": 4,
+    "vertices": 47674,
+    "triangles": 84596,
+    "index_max": 47673,
+    "embedded_png_bytes": 2093257,
+    "embedded_png_rgba": true,
+    "embedded_texture_size": [
+      1024,
+      1536
+    ]
+  }
+}

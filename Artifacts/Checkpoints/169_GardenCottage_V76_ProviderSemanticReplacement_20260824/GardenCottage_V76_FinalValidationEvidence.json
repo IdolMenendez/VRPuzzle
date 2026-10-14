@@ -1,0 +1,16 @@
+{
+    "schema": "GardenCottageV76FinalEvidenceV1",
+    "status": "PASS",
+    "predecessorPath": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/169_GardenCottage_V76_ProviderSemanticReplacement_20260824/GardenCottage_V76_ComparisonEvidence.json",
+    "predecessorSha256": "d00db5d4edeebe6f361e676e67331e501cfea5a8202f4be682d638a9ec1f2e20",
+    "manualReviewPath": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/169_GardenCottage_V76_ProviderSemanticReplacement_20260824/GardenCottage_V76_OriginalResolutionManualReviewEvidence.json",
+    "manualReviewSha256": "efffbe83ff4d9bd04f0907cd80a0525ca754de5bc1eb5090a6152f120e820b77",
+    "validationPath": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/169_GardenCottage_V76_ProviderSemanticReplacement_20260824/VALIDATION.md",
+    "validationSha256": "20c6d6217abc4a21efb8bd5da97cea84f9be19c135bcdfc1bb6827f6afd10411",
+    "sceneAssetPath": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Scenes/GardenCottage_20260824_V02_ProviderSemanticReplacement.unity",
+    "sceneAssetSha256": "3c041a638f5ac54867630871ef4912fcdd37537d795613e47dab21e5e151fdca",
+    "sceneAssetLastWriteUtcTicks": 639233547117022189,
+    "rootFrontContentSha256": "8bb3c76500021bfe451d85e5659598c6dcc77f03c9c178b48c66c29591490a14",
+    "finalFrontContentSha256": "568b468b6f655ef8debfb32d2258518d25db3efa956f7a36edcf2008b8a374d8",
+    "leftEyeContentSha256": "18d457e0ce55ef664549653482033f17a3846b2d66e8744fa570284a3db667f5"
+}

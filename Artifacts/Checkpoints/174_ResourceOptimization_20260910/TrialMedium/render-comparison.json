@@ -1,0 +1,162 @@
+[
+  {
+    "file": "GardenCottage_V76_FRONT.png",
+    "size": [
+      1450,
+      1498
+    ],
+    "mean_RGB": 0.00045286435553918634
+  },
+  {
+    "file": "GardenCottage_V76_LEFT.png",
+    "size": [
+      1450,
+      1498
+    ],
+    "mean_RGB": 0.00045286435553918634
+  },
+  {
+    "file": "Runtime_Collection_20260910_V82_ResourceOptimization_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 0.011948302469135802
+  },
+  {
+    "file": "Runtime_Collection_20260910_V82_ResourceOptimization_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 0.011793016975308643
+  },
+  {
+    "file": "Runtime_Completion_20260910_V82_ResourceOptimization_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 0.0403734246399177
+  },
+  {
+    "file": "Runtime_Completion_20260910_V82_ResourceOptimization_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 0.040671939300411526
+  },
+  {
+    "file": "Runtime_Level_CottageHint_20260910_V82_ResourceOptimization_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 1.8741394997427985
+  },
+  {
+    "file": "Runtime_Level_CottageHint_20260910_V82_ResourceOptimization_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 1.8937337641460905
+  },
+  {
+    "file": "Runtime_Level_Eiffel_20260910_V82_ResourceOptimization_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 2.8287696116255145
+  },
+  {
+    "file": "Runtime_Level_Eiffel_20260910_V82_ResourceOptimization_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 2.871916313014403
+  },
+  {
+    "file": "Runtime_Level_Pagoda_20260910_V82_ResourceOptimization_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 1.7307497427983538
+  },
+  {
+    "file": "Runtime_Level_Pagoda_20260910_V82_ResourceOptimization_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 1.7687332818930042
+  },
+  {
+    "file": "Runtime_Level_Ship_20260910_V82_ResourceOptimization_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 1.8670703125
+  },
+  {
+    "file": "Runtime_Level_Ship_20260910_V82_ResourceOptimization_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 1.8973567708333334
+  },
+  {
+    "file": "Runtime_Level_Windmill_20260910_V82_ResourceOptimization_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 1.9329870756172838
+  },
+  {
+    "file": "Runtime_Level_Windmill_20260910_V82_ResourceOptimization_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 1.9557375257201646
+  },
+  {
+    "file": "Runtime_Selection_20260910_V82_ResourceOptimization_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 0.04377170138888889
+  },
+  {
+    "file": "Runtime_Selection_20260910_V82_ResourceOptimization_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 0.04363634902263375
+  },
+  {
+    "file": "Runtime_Splash_20260910_V82_ResourceOptimization_FRONT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 0.9771418467078189
+  },
+  {
+    "file": "Runtime_Splash_20260910_V82_ResourceOptimization_LEFT.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mean_RGB": 0.976101948302469
+  }
+]

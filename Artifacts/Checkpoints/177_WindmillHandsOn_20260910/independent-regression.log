@@ -1,0 +1,909 @@
+Unity Editor version:    6000.0.77f1 (88f89d0d8b31)
+Branch:                  6000.0/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 26.5.1 (Build 25F80)
+Darwin version:          25.5.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        49152 MB
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-bytedance" at "2026-09-10T08:50:42.923838Z"
+Launching external process: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/PackageManager/Server/UnityPackageManager
+
+COMMAND LINE ARGUMENTS:
+/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MacOS/Unity
+-batchmode
+-nographics
+-quit
+-projectPath
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+-executeMethod
+WindmillBackgroundPlaytest.ValidateRegression
+-logFile
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Artifacts/Checkpoints/177_WindmillHandsOn_20260910/independent-regression.log
+Successfully changed project path to: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8388927104]  Target information:
+
+Player connection [8388927104]  * "[IP] 10.79.241.240 [Port] 55504 [Flags] 2 [Guid] 3391616033 [EditorId] 3391616033 [Version] 1048832 [Id] OSXEditor(0,H6CF6V271T) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8388927104] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8388927104] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              cf5ef6540381420a8518ae3dd378c72b
+  Correlation Id:          6ad893757afb311ba06f7186ddb1c098
+  External correlation Id: 4861028225437718742
+  Machine Id:              LeVNMX2qyTd1zEMhHx8Y3O6ln5U=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-bytedance" (connect: 0.00s, validation: 0.00s, handshake: 0.24s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-bytedance-notifications" at "2026-09-10T08:50:43.165169Z"
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: ewogICJzdWJzR3JvdXAiIDogInVuaXR5IGVkaXRvciIsCiAgIm5hbWVzcGFjZSIgOiAidW5pdHlfZWRpdG9yIiwKICAidHlwZSIgOiAiRURJVE9SIiwKICAidGFnIiA6ICJVbml0eVBlcnNvbmFsXXXX
+  Product: Unity Personal Version
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.25s
+[Package Manager] Connected to IPC stream "Upm-40618" after 0.5 seconds.
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+[Licensing::Client] Successfully resolved entitlement details
+Refreshing native plugins compatible for Editor in 17.97 ms, found 6 plugins.
+Preloading 3 native plugins for Editor in 21.33 ms.
+Initialize engine version: 6000.0.77f1 (88f89d0d8b31)
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets
+Forcing GfxDevice: Null
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Initialize mono
+Mono path[0] = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56618
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.003282 seconds.
+- Loaded All Assemblies, in  0.342 seconds
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.222 seconds
+Domain Reload Profiling: 565ms
+	BeginReloadAssembly (166ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (111ms)
+		LoadAssemblies (169ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (106ms)
+			TypeCache.Refresh (104ms)
+				TypeCache.ScanAssembly (92ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (223ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (203ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (50ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (39ms)
+			ProcessInitializeOnLoadAttributes (77ms)
+			ProcessInitializeOnLoadMethodAttributes (34ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 53 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.cloud.gltfast@6.19.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.cloud.gltfast@92828f845157)
+    com.unity.xr.arfoundation@6.0.5 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1)
+    com.unity.xr.compositionlayers@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.compositionlayers@fc89f0bd9eb1)
+    com.unity.xr.hands@1.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.hands@b137b9cef9d8)
+    com.unity.xr.management@4.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.management@3126858600e6)
+    com.unity.xr.openxr@1.13.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd)
+    com.unity.xr.interaction.toolkit@3.0.7 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.interaction.toolkit@3c62ab08b942)
+    com.unity.inputsystem@1.11.2 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.inputsystem@3c4a97c3950f)
+    com.unity.scriptablebuildpipeline@1.20.1 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.scriptablebuildpipeline@51d0ffeee857)
+    com.unity.ide.rider@3.0.34 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ide.rider@ecbf706690e5)
+    com.unity.xr.core-utils@2.6.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.core-utils@a8b900321199)
+    com.unity.xr.legacyinputhelpers@2.1.12 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.legacyinputhelpers@b7579e86f3b4)
+    com.unity.editorcoroutines@1.1.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.editorcoroutines@87a15ed012c2)
+    com.unity.burst@1.8.29 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.burst@6bb9aca3ef38)
+    com.unity.collections@2.6.7 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.collections@31e963071226)
+    com.unity.mathematics@1.3.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.mathematics@19a9377c4ffa)
+    com.unity.searcher@4.9.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.searcher@1e17ce91558d)
+    com.unity.nuget.mono-cecil@1.11.6 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff)
+    com.unity.test-framework.performance@3.5.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.test-framework.performance@8b56083ec0f0)
+  Built-in packages:
+    com.unity.render-pipelines.universal@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.universal@f53585c49405)
+    com.unity.textmeshpro@5.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.textmeshpro@53f43edfd2e0)
+    com.unity.modules.androidjni@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.androidjni)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.jsonserialize)
+    com.unity.modules.unityanalytics@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unityanalytics)
+    com.unity.modules.ai@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.ai)
+    com.unity.modules.animation@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.audio)
+    com.unity.modules.imageconversion@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.imgui)
+    com.unity.modules.particlesystem@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.physics)
+    com.unity.modules.screencapture@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.terrain)
+    com.unity.modules.ui@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.umbra)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.video@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.video)
+    com.unity.modules.vr@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.vr)
+    com.unity.modules.xr@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.modules.hierarchycore)
+    com.unity.ext.nunit@2.0.5 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ext.nunit@031a54704bff)
+    com.unity.ugui@2.0.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.ugui@92256ab62536)
+    com.unity.render-pipelines.core@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.core@f127f5fd8324)
+    com.unity.shadergraph@17.0.4 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.shadergraph@fe106b49deb4)
+    com.unity.render-pipelines.universal-config@17.0.3 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.render-pipelines.universal-config@dd206bf35d04)
+    com.unity.rendering.light-transport@1.0.1 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.rendering.light-transport@9bd588f963c0)
+    com.unity.test-framework@1.6.0 (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.test-framework@082c24152fd4)
+  Embedded packages:
+    com.bytedance.pico.xr@file:/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr (location: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr)
+[Package Manager] com.unity.textmeshpro is deprecated: This package is no longer supported. TextMeshPro functionalities are now included in the com.unity.ugui package. To continue using them, consider adding it to your project dependencies.
+[Subsystems] Looking for new subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr
+[Subsystems] Novel subsystem found at Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Packages/com.bytedance.pico.xr
+[Subsystems] No descriptors matched for  examples in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'meshings' descriptors matched in Packages/com.bytedance.pico.xr/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  examples in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  displays in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Packages/com.bytedance.pico.xr/Spatial/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  displays in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@b18f5959dab1/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  meshings in Library/PackageCache/com.unity.xr.openxr@a2fa7645cabd/Runtime/UnitySubsystemsManifest.json.
+[Package Manager] Done registering packages in 0.03 seconds
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+[ScriptCompilation] Requested script compilation because: Assetdatabase observed changes in script compilation related files
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://unix:/tmp/ilpp.sock-5753aa6841acce6ec0f178d3d44a5ca9
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Content root path: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc - - 200 - application/grpc 40.7413ms
+Starting: /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/1300b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Volumes/APFS/Unity/Projects/PersonallyPuzzledVR
+DisplayProgressbar: Compiling Scripts
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+[40m[1m[33mwarn[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+[40m[1m[33mwarn[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll" in favor of "/Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Burst.Cecil, Version=0.11.6.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.burst@6bb9aca3ef38/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Mono.Cecil, Version=0.11.5.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/Mono.Cecil.dll
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc - - 200 - application/grpc 22.8249ms
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc -
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll, with 144 defines and 348 references
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running Unity.Jobs.CodeGen.JobsILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with Library/Bee/artifacts/1300b0aE.dag/Unity.Collections.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null with /Volumes/APFS/Unity/Hub/Editor/6000.0.77f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Burst.Cecil.Rocks, Version=0.11.6.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library/PackageCache/com.unity.burst@6bb9aca3ef38/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc - - 200 - application/grpc 317.8422ms
+ExitCode: 0 Duration: 1s867ms
+[ 820/1107  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[1103/1107  1s] Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+Assets/Editor/AndroidSizeOptimization.cs(58,9): warning CS0618: 'PlayerSettings.SetIconsForTargetGroup(BuildTargetGroup, Texture2D[])' is obsolete: 'Use SetIcons(NamedBuildTarget, Texture2D[], IconKind) instead'
+[1104/1107  0s] ILPostProcess Library/Bee/artifacts/1300b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll, with 144 defines and 348 references
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[1105/1107  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+[1106/1107  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+*** Tundra build success (1.85 seconds), 5 items updated, 1107 evaluated
+Assets/Editor/AndroidSizeOptimization.cs(58,9): warning CS0618: 'PlayerSettings.SetIconsForTargetGroup(BuildTargetGroup, Texture2D[])' is obsolete: 'Use SetIcons(NamedBuildTarget, Texture2D[], IconKind) instead'
+AssetDatabase: script compilation time: 2.490216s
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.598 seconds
+'Packages/com.unity.xr.openxr/Runtime/OpenXRLoaderInternal.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.xr.openxr/Runtime/OpenXRLoader.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Refreshing native plugins compatible for Editor in 25.25 ms, found 15 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 8.89 ms, found 15 plugins.
+PXRLog [Build Check]RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+ByteDance.PICO.XR.Editor.PXR_SDKBuildCheck:.cctor () (at ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: ./Packages/com.bytedance.pico.xr/Editor/PXR_SDKBuildCheck.cs Line: 31)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.290 seconds
+Domain Reload Profiling: 2888ms
+	BeginReloadAssembly (204ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (128ms)
+	RebuildCommonClasses (18ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (358ms)
+		LoadAssemblies (302ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (100ms)
+			TypeCache.Refresh (71ms)
+				TypeCache.ScanAssembly (62ms)
+			BuildScriptInfoCaches (21ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (2290ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2205ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (72ms)
+			ProcessInitializeOnLoadAttributes (1950ms)
+			ProcessInitializeOnLoadMethodAttributes (172ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+The GUID inside 'Packages/com.bytedance.pico.xr/Runtime/CompositionLayers.meta' cannot be extracted by the YAML Parser. Attempting to extract it via string matching instead. Please verify the file does not contain unexpected data.
+Refreshing native plugins compatible for Editor in 10.69 ms, found 15 plugins.
+Preloading 3 native plugins for Editor in 0.51 ms.
+Asset Pipeline Refresh (id=bdfc6f4c5b65a4086b6d3c6f6610e9de): Total: 8.006 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=4714 ms
+		Asset DB Callback time: managed=132 ms, native=42 ms
+		Scripting: domain reloads=1, domain reload time=598 ms, compile time=2491 ms, other=27 ms
+		Project Asset Count: scripts=1713, non-scripts=2726
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokeCustomDependenciesCallbacks: 0.000ms
+	InvokePackagesCallback: 30.982ms
+	ApplyChangesToAssetFolders: 0.204ms
+	Scan: 2114.172ms
+	OnSourceAssetsModified: 0.792ms
+	CategorizeAssetsWithTransientArtifact: 38.641ms
+	ProcessAssetsWithTransientArtifactChanges: 36.376ms
+	CategorizeAssets: 45.813ms
+	ImportOutOfDateAssets: 2334.869ms (-157.224ms without children)
+		CompileScripts: 2490.949ms
+		ReloadNativeAssets: 0.022ms
+		UnloadImportedAssets: 0.495ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.425ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.202ms
+	PostProcessAllAssets: 132.900ms
+	Hotreload: 12.332ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.000ms
+	UnloadStreamsBegin: 1.866ms
+	PersistCurrentRevisions: 0.082ms
+	UnloadStreamsEnd: 0.001ms
+	GenerateScriptTypeHashes: 1.818ms
+	Untracked: 3256.928ms
+
+Application.AssetDatabase Initial Refresh End
+Scanning for USB devices : 0.103ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Personally Puzzled XR
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6026 unused Assets / (2.4 MB). Loaded Objects now: 6782.
+Memory consumption went from 227.7 MB to 225.3 MB.
+Total: 10.438333 ms (FindLiveObjects: 0.188875 ms CreateObjectMapping: 0.197167 ms MarkObjects: 8.308041 ms  DeleteObjects: 1.743833 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Bootstrap_20260910_V82_ResourceOptimization.unity'
+Unloading 20 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Bootstrap_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            25.684 ms
+	Integration:            99.465 ms
+	Integration of assets:  0.032 ms
+	Thread Wait Time:       0.004 ms
+	Total Operation Time:   125.185 ms
+Unloading 1 unused Assets / (0.5 KB). Loaded Objects now: 7095.
+Memory consumption went from 205.6 MB to 205.6 MB.
+Total: 8.497750 ms (FindLiveObjects: 0.139917 ms CreateObjectMapping: 0.063917 ms MarkObjects: 8.276000 ms  DeleteObjects: 0.017250 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Bootstrap_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+WindmillBackgroundPlaytest:ValidateRegression () (at Assets/Editor/WindmillBackgroundPlaytest.cs:15)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Splash_20260910_V82_ResourceOptimization.unity'
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Splash_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            13.521 ms
+	Integration:            155.428 ms
+	Integration of assets:  1.104 ms
+	Thread Wait Time:       -0.922 ms
+	Total Operation Time:   169.131 ms
+Unloading 140 unused Assets / (25.5 KB). Loaded Objects now: 8309.
+Memory consumption went from 237.4 MB to 237.4 MB.
+Total: 8.042333 ms (FindLiveObjects: 0.138042 ms CreateObjectMapping: 0.071500 ms MarkObjects: 7.620083 ms  DeleteObjects: 0.212416 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Splash_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+WindmillBackgroundPlaytest:ValidateRegression () (at Assets/Editor/WindmillBackgroundPlaytest.cs:15)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Selection_20260910_V82_ResourceOptimization.unity'
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Selection_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            24.955 ms
+	Integration:            499.579 ms
+	Integration of assets:  0.805 ms
+	Thread Wait Time:       -0.695 ms
+	Total Operation Time:   524.644 ms
+Unloading 65 unused Assets / (355.0 KB). Loaded Objects now: 9673.
+Memory consumption went from 409.3 MB to 409.0 MB.
+Total: 7.835542 ms (FindLiveObjects: 0.164708 ms CreateObjectMapping: 0.086458 ms MarkObjects: 7.473125 ms  DeleteObjects: 0.110792 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Selection_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+WindmillBackgroundPlaytest:ValidateRegression () (at Assets/Editor/WindmillBackgroundPlaytest.cs:15)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_CottageHint_20260910_V82_ResourceOptimization.unity'
+Unloading 79 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_CottageHint_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            18.659 ms
+	Integration:            146.757 ms
+	Integration of assets:  0.130 ms
+	Thread Wait Time:       0.002 ms
+	Total Operation Time:   165.548 ms
+Unloading 235 unused Assets / (0.8 MB). Loaded Objects now: 8383.
+Memory consumption went from 410.0 MB to 409.2 MB.
+Total: 8.235500 ms (FindLiveObjects: 0.152833 ms CreateObjectMapping: 0.086000 ms MarkObjects: 7.683833 ms  DeleteObjects: 0.312209 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_CottageHint_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+WindmillBackgroundPlaytest:ValidateRegression () (at Assets/Editor/WindmillBackgroundPlaytest.cs:15)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Ship_20260910_V82_ResourceOptimization.unity'
+Unloading 72 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Ship_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            11.361 ms
+	Integration:            190.387 ms
+	Integration of assets:  0.111 ms
+	Thread Wait Time:       0.016 ms
+	Total Operation Time:   201.875 ms
+Unloading 39 unused Assets / (426.0 KB). Loaded Objects now: 8100.
+Memory consumption went from 340.2 MB to 339.8 MB.
+Total: 7.838542 ms (FindLiveObjects: 0.140500 ms CreateObjectMapping: 0.075750 ms MarkObjects: 7.496208 ms  DeleteObjects: 0.125958 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Ship_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+WindmillBackgroundPlaytest:ValidateRegression () (at Assets/Editor/WindmillBackgroundPlaytest.cs:15)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Eiffel_20260910_V82_ResourceOptimization.unity'
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Eiffel_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            10.196 ms
+	Integration:            134.005 ms
+	Integration of assets:  0.081 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   144.286 ms
+Unloading 48 unused Assets / (335.6 KB). Loaded Objects now: 8054.
+Memory consumption went from 336.3 MB to 336.0 MB.
+Total: 7.824708 ms (FindLiveObjects: 0.138500 ms CreateObjectMapping: 0.072250 ms MarkObjects: 7.462416 ms  DeleteObjects: 0.151292 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Eiffel_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+WindmillBackgroundPlaytest:ValidateRegression () (at Assets/Editor/WindmillBackgroundPlaytest.cs:15)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Pagoda_20260910_V82_ResourceOptimization.unity'
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Pagoda_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            11.349 ms
+	Integration:            135.645 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       0.030 ms
+	Total Operation Time:   147.027 ms
+Unloading 22 unused Assets / (208.4 KB). Loaded Objects now: 8205.
+Memory consumption went from 261.3 MB to 261.1 MB.
+Total: 7.925625 ms (FindLiveObjects: 0.138708 ms CreateObjectMapping: 0.072459 ms MarkObjects: 7.645125 ms  DeleteObjects: 0.068958 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Pagoda_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+WindmillBackgroundPlaytest:ValidateRegression () (at Assets/Editor/WindmillBackgroundPlaytest.cs:15)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Windmill_20260910_V82_ResourceOptimization.unity'
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Windmill_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            12.502 ms
+	Integration:            133.689 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       0.001 ms
+	Total Operation Time:   146.196 ms
+Unloading 11 unused Assets / (472.9 KB). Loaded Objects now: 8291.
+Memory consumption went from 261.3 MB to 260.8 MB.
+Total: 7.878167 ms (FindLiveObjects: 0.143125 ms CreateObjectMapping: 0.071875 ms MarkObjects: 7.613709 ms  DeleteObjects: 0.048834 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Windmill_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+WindmillBackgroundPlaytest:ValidateRegression () (at Assets/Editor/WindmillBackgroundPlaytest.cs:15)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Completion_20260910_V82_ResourceOptimization.unity'
+Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Completion_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            23.092 ms
+	Integration:            252.266 ms
+	Integration of assets:  79.771 ms
+	Thread Wait Time:       -0.689 ms
+	Total Operation Time:   354.441 ms
+Unloading 36 unused Assets / (368.9 KB). Loaded Objects now: 9127.
+Memory consumption went from 501.7 MB to 501.4 MB.
+Total: 7.762708 ms (FindLiveObjects: 0.157375 ms CreateObjectMapping: 0.075459 ms MarkObjects: 7.402291 ms  DeleteObjects: 0.127291 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Completion_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+WindmillBackgroundPlaytest:ValidateRegression () (at Assets/Editor/WindmillBackgroundPlaytest.cs:15)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Collection_20260910_V82_ResourceOptimization.unity'
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Collection_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            13.064 ms
+	Integration:            130.884 ms
+	Integration of assets:  0.777 ms
+	Thread Wait Time:       -0.684 ms
+	Total Operation Time:   144.041 ms
+Unloading 90 unused Assets / (1.0 MB). Loaded Objects now: 8263.
+Memory consumption went from 0.50 GB to 0.50 GB.
+Total: 8.126709 ms (FindLiveObjects: 0.142000 ms CreateObjectMapping: 0.078042 ms MarkObjects: 7.650042 ms  DeleteObjects: 0.256042 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Collection_20260910_V82_ResourceOptimization.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+WindmillBackgroundPlaytest:ValidateRegression () (at Assets/Editor/WindmillBackgroundPlaytest.cs:15)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+Opening scene 'Assets/Scenes/GardenCottage_20260824_V02_ProviderSemanticReplacement.unity'
+Unloading 83 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/GardenCottage_20260824_V02_ProviderSemanticReplacement.unity'
+	Deserialize:            2.242 ms
+	Integration:            248.338 ms
+	Integration of assets:  0.014 ms
+	Thread Wait Time:       0.008 ms
+	Total Operation Time:   250.602 ms
+Unloading 364 unused Assets / (0.9 MB). Loaded Objects now: 7129.
+Memory consumption went from 0.55 GB to 0.55 GB.
+Total: 8.585167 ms (FindLiveObjects: 0.122750 ms CreateObjectMapping: 0.069084 ms MarkObjects: 7.778000 ms  DeleteObjects: 0.614917 ms)
+
+[Current] SCENE CHECKED Assets/Scenes/GardenCottage_20260824_V02_ProviderSemanticReplacement.unity
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:134)
+WindmillBackgroundPlaytest:ValidateRegression () (at Assets/Editor/WindmillBackgroundPlaytest.cs:15)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 134)
+
+[V82] FONT COVERAGE PASSED current scene/script corpus
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+ResourceOptimizationV82:ValidateFontCoverage () (at Assets/Editor/ResourceOptimizationV82.cs:226)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:139)
+WindmillBackgroundPlaytest:ValidateRegression () (at Assets/Editor/WindmillBackgroundPlaytest.cs:15)
+
+(Filename: Assets/Editor/ResourceOptimizationV82.cs Line: 226)
+
+[Current] VALIDATION PASSED scenes=11 missing-scripts=0 missing-references=0 missing-active-materials=0
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+LatestProjectTools:Validate () (at Assets/Editor/LatestProjectTools.cs:140)
+WindmillBackgroundPlaytest:ValidateRegression () (at Assets/Editor/WindmillBackgroundPlaytest.cs:15)
+
+(Filename: Assets/Editor/LatestProjectTools.cs Line: 140)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Bootstrap_20260910_V82_ResourceOptimization.unity'
+Unloading 57 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Bootstrap_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            3.213 ms
+	Integration:            126.188 ms
+	Integration of assets:  0.023 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   129.429 ms
+Unloading 146 unused Assets / (17.3 MB). Loaded Objects now: 7139.
+Memory consumption went from 293.2 MB to 275.9 MB.
+Total: 8.941208 ms (FindLiveObjects: 0.120542 ms CreateObjectMapping: 0.070833 ms MarkObjects: 7.920167 ms  DeleteObjects: 0.829167 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Splash_20260910_V82_ResourceOptimization.unity'
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Splash_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            9.200 ms
+	Integration:            150.418 ms
+	Integration of assets:  0.142 ms
+	Thread Wait Time:       -0.131 ms
+	Total Operation Time:   159.628 ms
+Unloading 138 unused Assets / (20.5 KB). Loaded Objects now: 8343.
+Memory consumption went from 241.5 MB to 241.5 MB.
+Total: 7.965833 ms (FindLiveObjects: 0.142875 ms CreateObjectMapping: 0.073583 ms MarkObjects: 7.672958 ms  DeleteObjects: 0.076084 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Selection_20260910_V82_ResourceOptimization.unity'
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Selection_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            19.869 ms
+	Integration:            244.373 ms
+	Integration of assets:  0.812 ms
+	Thread Wait Time:       -0.775 ms
+	Total Operation Time:   264.279 ms
+Unloading 43 unused Assets / (300.7 KB). Loaded Objects now: 9698.
+Memory consumption went from 412.4 MB to 412.1 MB.
+Total: 8.132083 ms (FindLiveObjects: 0.160416 ms CreateObjectMapping: 0.076334 ms MarkObjects: 7.822208 ms  DeleteObjects: 0.072833 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_CottageHint_20260910_V82_ResourceOptimization.unity'
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_CottageHint_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            11.796 ms
+	Integration:            141.796 ms
+	Integration of assets:  0.020 ms
+	Thread Wait Time:       0.003 ms
+	Total Operation Time:   153.615 ms
+Unloading 177 unused Assets / (19.3 KB). Loaded Objects now: 8403.
+Memory consumption went from 408.5 MB to 408.5 MB.
+Total: 7.898334 ms (FindLiveObjects: 0.139042 ms CreateObjectMapping: 0.066625 ms MarkObjects: 7.614375 ms  DeleteObjects: 0.077667 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Ship_20260910_V82_ResourceOptimization.unity'
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Ship_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            8.405 ms
+	Integration:            195.724 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   204.139 ms
+Unloading 15 unused Assets / (3.9 KB). Loaded Objects now: 8084.
+Memory consumption went from 340.9 MB to 340.9 MB.
+Total: 8.263000 ms (FindLiveObjects: 0.145209 ms CreateObjectMapping: 0.076875 ms MarkObjects: 8.007500 ms  DeleteObjects: 0.032791 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Eiffel_20260910_V82_ResourceOptimization.unity'
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Eiffel_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            8.690 ms
+	Integration:            134.528 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       0.013 ms
+	Total Operation Time:   143.235 ms
+Unloading 27 unused Assets / (11.2 KB). Loaded Objects now: 8035.
+Memory consumption went from 336.9 MB to 336.9 MB.
+Total: 8.057417 ms (FindLiveObjects: 0.137917 ms CreateObjectMapping: 0.081542 ms MarkObjects: 7.792666 ms  DeleteObjects: 0.044750 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Pagoda_20260910_V82_ResourceOptimization.unity'
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Pagoda_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            9.451 ms
+	Integration:            136.490 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       0.017 ms
+	Total Operation Time:   145.962 ms
+Unloading 16 unused Assets / (2.7 KB). Loaded Objects now: 8186.
+Memory consumption went from 261.5 MB to 261.5 MB.
+Total: 7.887292 ms (FindLiveObjects: 0.139708 ms CreateObjectMapping: 0.078209 ms MarkObjects: 7.637083 ms  DeleteObjects: 0.031958 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Windmill_20260910_V82_ResourceOptimization.unity'
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Level_Windmill_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            9.787 ms
+	Integration:            126.961 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   136.757 ms
+Unloading 10 unused Assets / (2.2 KB). Loaded Objects now: 8263.
+Memory consumption went from 261.2 MB to 261.2 MB.
+Total: 7.688625 ms (FindLiveObjects: 0.158542 ms CreateObjectMapping: 0.066917 ms MarkObjects: 7.437875 ms  DeleteObjects: 0.024584 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Completion_20260910_V82_ResourceOptimization.unity'
+Unloading 23 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Completion_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            17.272 ms
+	Integration:            198.326 ms
+	Integration of assets:  82.650 ms
+	Thread Wait Time:       -0.270 ms
+	Total Operation Time:   297.979 ms
+Unloading 13 unused Assets / (8.0 KB). Loaded Objects now: 9116.
+Memory consumption went from 500.9 MB to 500.9 MB.
+Total: 8.019000 ms (FindLiveObjects: 0.151584 ms CreateObjectMapping: 0.074417 ms MarkObjects: 7.756958 ms  DeleteObjects: 0.035375 ms)
+
+Opening scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Collection_20260910_V82_ResourceOptimization.unity'
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/RuntimeV82_ResourceOptimization/Runtime_Collection_20260910_V82_ResourceOptimization.unity'
+	Deserialize:            10.222 ms
+	Integration:            127.576 ms
+	Integration of assets:  0.503 ms
+	Thread Wait Time:       -0.478 ms
+	Total Operation Time:   137.823 ms
+Unloading 57 unused Assets / (349.6 KB). Loaded Objects now: 8256.
+Memory consumption went from 0.50 GB to 0.50 GB.
+Total: 7.866417 ms (FindLiveObjects: 0.139208 ms CreateObjectMapping: 0.077208 ms MarkObjects: 7.543917 ms  DeleteObjects: 0.105583 ms)
+
+Opening scene 'Assets/Scenes/WindmillStudy_20260910_V01_LivingWorkshop.unity'
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/WindmillStudy_20260910_V01_LivingWorkshop.unity'
+	Deserialize:            12.093 ms
+	Integration:            134.978 ms
+	Integration of assets:  0.086 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   147.163 ms
+Unloading 264 unused Assets / (25.4 KB). Loaded Objects now: 8288.
+Memory consumption went from 0.50 GB to 0.50 GB.
+Total: 7.371000 ms (FindLiveObjects: 0.142542 ms CreateObjectMapping: 0.073750 ms MarkObjects: 7.057625 ms  DeleteObjects: 0.096791 ms)
+
+[Windmill Study] STATIC VALIDATION PASSED
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillStudyBuilder:Validate () (at Assets/Editor/WindmillStudyBuilder.cs:197)
+WindmillBackgroundPlaytest:ValidateRegression () (at Assets/Editor/WindmillBackgroundPlaytest.cs:23)
+
+(Filename: Assets/Editor/WindmillStudyBuilder.cs Line: 197)
+
+[Background Input] INDEPENDENT REGRESSION PASSED - release keyboard defaults, references, font and isolated study
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WindmillBackgroundPlaytest:ValidateRegression () (at Assets/Editor/WindmillBackgroundPlaytest.cs:24)
+
+(Filename: Assets/Editor/WindmillBackgroundPlaytest.cs Line: 24)
+
+Batchmode quit successfully invoked - shutting down!
+Thread 0x1708f3000 may have been prematurely finalized
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
+Call to StopSubsystems without an initialized manager.Please make sure wait for initialization to complete before calling this API.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:35)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.XR.Management.XRManagerSettings:StopSubsystems () (at ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs:427)
+UnityEngine.XR.Management.XRManagerSettings:OnDisable () (at ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs:481)
+
+(Filename: ./Library/PackageCache/com.unity.xr.management@3126858600e6/Runtime/XRManagerSettings.cs Line: 427)
+
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+[Licensing::IpcConnector] LicenseClient-bytedance-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-bytedance channel disconnected successfully.
+Thread 0x1714fb000 may have been prematurely finalized
+Thread 0x17146f000 may have been prematurely finalized
+Thread 0x171587000 may have been prematurely finalized
+Thread 0x171613000 may have been prematurely finalized
+Thread 0x17169f000 may have been prematurely finalized
+Thread 0x17172b000 may have been prematurely finalized
+Thread 0x1717b7000 may have been prematurely finalized
+AcceleratorClientConnectionCallback - disconnected - :0
+[40m[32minfo[39m[22m[49m: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+Cleanup mono
+[40m[32minfo[39m[22m[49m: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      ALC ILPP context 1 is unloading
+debugger-agent: Unable to listen on 43
+Exiting batchmode successfully now!
+[Package Manager] Server process was shutdown

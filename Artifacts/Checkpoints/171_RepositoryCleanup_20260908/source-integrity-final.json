@@ -1,0 +1,14 @@
+{
+  "dependency_files_unchanged": 548,
+  "intentional_stale_reference_scene_changes": [
+    "Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Completion_20260807_V80_ZeroLatencyAssembly.unity",
+    "Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Level_Ship_20260807_V80_ZeroLatencyAssembly.unity",
+    "Assets/Scenes/RuntimeV80_ZeroLatencyAssembly/Runtime_Selection_20260807_V80_ZeroLatencyAssembly.unity"
+  ],
+  "missing_files": [],
+  "current_scene_count": 11,
+  "editor_script_count": 4,
+  "csharp_file_count": 100,
+  "latest_apk_sha256": "a13a1c5c4d99d0011341c407211b3930efd1245100a7d20c0b19ec6640ccfe7a",
+  "latest_apk_bytes": 443233558
+}

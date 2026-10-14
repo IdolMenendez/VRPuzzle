@@ -1,0 +1,104 @@
+{
+  "sample_rate": 48000,
+  "channels": 2,
+  "original_composition": true,
+  "bgm": [
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/BGM/BGM_01_WorkshopArrival_V02.wav",
+      "seconds": 48.0,
+      "peak": 0.42000001668930054
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/BGM/BGM_02_WondersCarousel_V02.wav",
+      "seconds": 48.0,
+      "peak": 0.41999998688697815
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/BGM/BGM_03_CottageAssembly_V02.wav",
+      "seconds": 48.0,
+      "peak": 0.42000001668930054
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/BGM/BGM_04_ShipwrightAssembly_V02.wav",
+      "seconds": 48.0,
+      "peak": 0.41999998688697815
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/BGM/BGM_05_EiffelAssembly_V02.wav",
+      "seconds": 48.0,
+      "peak": 0.42000001668930054
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/BGM/BGM_06_CompletionLift_V02.wav",
+      "seconds": 48.0,
+      "peak": 0.42000001668930054
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/BGM/BGM_07_ArchiveRitual_V02.wav",
+      "seconds": 48.0,
+      "peak": 0.42000001668930054
+    }
+  ],
+  "sfx": [
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/SFX/SFX_Touch_Wood_V02.wav",
+      "seconds": 0.3,
+      "peak": 0.7402581572532654
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/SFX/SFX_Carousel_Swipe_V02.wav",
+      "seconds": 0.82,
+      "peak": 0.8199999928474426
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/SFX/SFX_Piece_Grab_V02.wav",
+      "seconds": 0.34,
+      "peak": 0.7218701839447021
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/SFX/SFX_Socket_Breath_V02.wav",
+      "seconds": 1.2,
+      "peak": 0.8199999928474426
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/SFX/SFX_Socket_Snap_V02.wav",
+      "seconds": 0.48,
+      "peak": 0.7730816602706909
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/SFX/SFX_Misalignment_Return_V02.wav",
+      "seconds": 0.6,
+      "peak": 0.8115572929382324
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/SFX/SFX_Hint_Lamp_Tap_V02.wav",
+      "seconds": 0.72,
+      "peak": 0.8047575354576111
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/SFX/SFX_Ghost_Reveal_V02.wav",
+      "seconds": 1.85,
+      "peak": 0.8199999928474426
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/SFX/SFX_Heavy_Lift_Tension_V02.wav",
+      "seconds": 1.1,
+      "peak": 0.8199999928474426
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/SFX/SFX_Completion_Bloom_V02.wav",
+      "seconds": 2.65,
+      "peak": 0.8199999928474426
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/SFX/SFX_Archive_Flight_V02.wav",
+      "seconds": 2.1,
+      "peak": 0.8199999928474426
+    },
+    {
+      "path": "/Volumes/APFS/Unity/Projects/PersonallyPuzzledVR/Assets/Audio/V02/SFX/SFX_Star_Light_V02.wav",
+      "seconds": 1.35,
+      "peak": 0.8199999928474426
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+# Unity-generated directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Uu]ser[Ss]ettings/
+/[Cc]ode[Cc]overage/
+/[Aa]ssets/[Aa]sset[Bb]undles~/
+
+# Never ignore Unity asset metadata or native DLL dependencies
+!/[Aa]ssets/**/*.meta
+!*.dll
+
+# Unity and platform-generated caches
+[Aa]ssets/Plugins/Editor/JetBrains*
+.gradle/
+ExportedObj/
+.consulo/
+
+# IDE and editor state
+.vs/
+.vscode/
+.idea/
+
+# Codex/editor scratch output
+.utmp/
+tmp/
+.pnpm-store/
+node_modules/
+dist/
+__pycache__/
+*.py[cod]
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity-generated metadata and crash reports
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+mono_crash.*
+
+# Blender automatic recovery backups
+*.blend[0-9]*
+
+# Provider task responses may contain signed asset URLs
+preview_task.json
+refine_task.json
+*_meshy_task.json
+
+# Generated build packages
+*.apk
+*.unitypackage
+
+# Platform noise
+.DS_Store
+Thumbs.db
+
+# Credentials and local overrides
+.env
+.env.*
+!.env.example
+*.secrets
+*.key
+
+# Project-specific generated or local-only content
+/Assets/App/Net/Simulation/HttpSimulationConfig.asset
+!/CustomPackages/com.bytedance.picoverse.nativeservice/Runtime/NativeServiceConfiguration/Implementations/*~
+Assets/StreamingAssets/*
+Assets/ZTest/*
+Assets/ZTest.meta
