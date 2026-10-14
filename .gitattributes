@@ -29,3 +29,6 @@
 *.so filter=lfs diff=lfs merge=lfs -text
 *.pdb filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+
+# Small README display images live in ordinary Git for direct rendering.
+Docs/Media/*.jpg -filter -diff -merge -text

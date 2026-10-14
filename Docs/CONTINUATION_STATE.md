@@ -1,3 +1,7 @@
+# Public README and promotional media — 2026-10-14
+
+README now uses repository-relative/public links with no workstation paths. Chinese title follows the user-provided work page: 拼接世界. Docs/Media contains separate generated promotional artwork and actual V82 screenshots, with source mapping and prompt. Full historical V80 video converted to 720p for GitHub Releases; existing V82 APK reused without rebuild. CP184 records documentation/media validation. Game code/scenes unchanged. Poster user review pending; PICO form must remain draft with no submit-review click.
+
 # GitHub dev snapshot migration — 2026-10-14
 
 User requested switching source to dev and copying all code into /Volumes/APFS/编辑器/VRPuzzle, then pushing its existing GitHub repository. This commit imports the complete tracked dev snapshot 436e5c520355fca50967b3861fcb314f640ae5b5 into https://github.com/IdolMenendez/VRPuzzle on main. Source checkout remains dev; codex/scene-redesign stays preserved in the original repository and is not part of this import. Git push completion is verified against remote main.
