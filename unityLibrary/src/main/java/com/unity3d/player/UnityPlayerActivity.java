@@ -44,7 +44,7 @@ public class UnityPlayerActivity extends Activity implements IUnityPlayerLifecyc
         mUnityPlayer.getFrameLayout().requestFocus();
     }
 
-    @Override 
+    @Override
     public UnityPlayerForActivityOrService getUnityPlayerConnection() {
         return mUnityPlayer;
     }
