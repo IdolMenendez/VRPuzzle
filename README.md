@@ -44,6 +44,21 @@
 
 安装包沿用已验证的构建产物，本次未重新编译。它使用开发测试签名，头显佩戴体验与持续性能验收仍待完成。
 
+## Android / PICO 自动打包
+
+审核反馈要求 Android Gradle 工程。本仓库 `main` 保留 Unity 源码；自动打包请使用 [codex/pico-android-gradle](https://github.com/IdolMenendez/VRPuzzle/tree/codex/pico-android-gradle) 分支，根目录直接执行 `./gradlew :launcher:assembleRelease`。服务器无需 Unity Editor，完整交付配置见 [Gradle 构建与签名说明](Docs/PICO_GRADLE_DELIVERY.md)。
+
+| 发布字段 | 当前配置 |
+| --- | --- |
+| 应用名称 | 拼接世界 |
+| Android 包名 | com.bytedance.personallypuzzled.xr（保留旧包名） |
+| 版本名称 / 版本号 | 1.0.0 / 2 |
+| 图标 | 定制拼图图标 |
+| 运行时 / 架构 | IL2CPP / ARM64 |
+| 签名 | Release 由平台或自有证书签名；测试包单独标注 |
+
+上方历史 APK 是原 V82 体验版；本次 Gradle 交付的版本信息以此表及新交付记录为准。覆盖安装还需要保持签名一致。
+
 ## 打开项目
 
 需要 **Unity 6000.0.77f1** 与 **Git LFS**。先安装 Git LFS，再克隆仓库：
@@ -72,7 +87,7 @@ git lfs pull
 | GitHub 迁移校验 | [迁移验证记录](Artifacts/Checkpoints/183_GitHubDevMigration_20261014/VALIDATION.md) |
 | 宣传素材说明 | [媒体来源与版本](Docs/Media/PROVENANCE.md) |
 
-编辑器入口包括 `LatestProjectTools.Validate`、`LatestProjectTools.CaptureFinal`、`LatestProjectTools.RunInteractionSmoke` 和 `LatestProjectTools.BuildPico`。无人值守任务使用后台批处理；截图需要图形环境，交互测试由运行器自行退出。
+编辑器入口包括 `LatestProjectTools.Validate`、`LatestProjectTools.CaptureFinal`、`LatestProjectTools.RunInteractionSmoke` 、`LatestProjectTools.BuildPico` 和 `LatestProjectTools.ExportPicoGradle`。无人值守任务使用后台批处理；截图需要图形环境，交互测试由运行器自行退出。
 
 Android 构建使用外部 SDK、JDK 17 和 NDK 27.2.12479018。工具链由上表的统一配置文件校验，目前保留原构建工作站的配置约束；在其他机器上构建前需适配该统一配置。Unity 缓存、构建目录和凭据不进入仓库。
 

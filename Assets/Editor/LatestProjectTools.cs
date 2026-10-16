@@ -151,23 +151,54 @@ public static class LatestProjectTools
     [MenuItem("Personally Puzzled XR/Current/Build PICO APK")]
     public static void BuildPico()
     {
+        BuildAndroid(false);
+    }
+
+    [MenuItem("Personally Puzzled XR/Current/Export PICO Gradle Project")]
+    public static void ExportPicoGradle()
+    {
+        BuildAndroid(true);
+    }
+
+    static void BuildAndroid(bool export)
+    {
         CurrentAndroidToolchain.Apply();
         RestorePicoRuntimeConfiguration();
         PersonallyPuzzledPlayModeWindow.ForceManualReleaseDefault();
         Validate();
         Directory.CreateDirectory("Builds");
-        string apkPath = Environment.GetEnvironmentVariable("PPVR_APK_PATH") ??
-            "Builds/PersonallyPuzzledVR-PICO-OptimizedV82.apk";
-        BuildReport report = BuildPipeline.BuildPlayer(new BuildPlayerOptions
+        string outputPath = export
+            ? Environment.GetEnvironmentVariable("PPVR_GRADLE_PATH") ?? "Builds/PicoGradle"
+            : Environment.GetEnvironmentVariable("PPVR_APK_PATH") ?? "Builds/PersonallyPuzzledVR-PICO-OptimizedV82.apk";
+        if (export && Directory.Exists(outputPath) && Directory.EnumerateFileSystemEntries(outputPath).Any())
+            throw new InvalidOperationException("Export requires a new or empty directory: " + outputPath);
+        bool previousExport = EditorUserBuildSettings.exportAsGoogleAndroidProject;
+        bool previousBundle = EditorUserBuildSettings.buildAppBundle;
+        try
         {
-            scenes = Runtime,
-            locationPathName = apkPath,
-            target = BuildTarget.Android,
-            options = BuildOptions.None
-        });
-        if (report.summary.result != BuildResult.Succeeded) throw new InvalidOperationException("PICO build failed.");
-        long apkBytes = new FileInfo(apkPath).Length;
-        Debug.Log("[Current] PICO BUILD PASSED apkBytes=" + apkBytes);
+            EditorUserBuildSettings.exportAsGoogleAndroidProject = export;
+            EditorUserBuildSettings.buildAppBundle = false;
+            BuildReport report = BuildPipeline.BuildPlayer(new BuildPlayerOptions
+            {
+                scenes = Runtime,
+                locationPathName = outputPath,
+                target = BuildTarget.Android,
+                options = BuildOptions.None
+            });
+            if (report.summary.result != BuildResult.Succeeded) throw new InvalidOperationException("PICO build/export failed.");
+            if (export)
+            {
+                foreach (string file in new[] { "settings.gradle", "build.gradle", "launcher/build.gradle", "unityLibrary/build.gradle" })
+                    if (!File.Exists(Path.Combine(outputPath, file))) throw new FileNotFoundException("Incomplete Gradle export: " + file);
+                Debug.Log("[Current] PICO GRADLE EXPORT PASSED " + Path.GetFullPath(outputPath));
+            }
+            else Debug.Log("[Current] PICO BUILD PASSED apkBytes=" + new FileInfo(outputPath).Length);
+        }
+        finally
+        {
+            EditorUserBuildSettings.exportAsGoogleAndroidProject = previousExport;
+            EditorUserBuildSettings.buildAppBundle = previousBundle;
+        }
     }
 
     static void RestorePicoRuntimeConfiguration()

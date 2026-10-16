@@ -1,0 +1,16 @@
+{
+  "release": {
+    "bytes": 230592260,
+    "sha256": "7713edc91e79d9f077de1c6c4617b1eded079d5846a0847ea463f5183ccca4a9",
+    "asset_native_files_equal_to_raw_export": 542,
+    "metadata": "PASS",
+    "signature": "unsigned-for-platform-signing"
+  },
+  "debug": {
+    "bytes": 237203714,
+    "sha256": "87fece5ff7c0ff3958d69f42072b48724662ced71ad25f03bd02ed2a1e25c623",
+    "asset_native_files_equal_to_raw_export": 542,
+    "metadata": "PASS",
+    "signature": "same-as-old-V82-debug"
+  }
+}
