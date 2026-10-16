@@ -1,4 +1,0 @@
-interface:
-  display_name: "PPVR Generated 3D Pipeline"
-  short_description: "Create versioned PBR assets for the PPVR Unity project"
-  default_prompt: "Use $ppvr-generated-3d-pipeline to turn this approved concept into a Unity-ready PBR asset."

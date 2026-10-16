@@ -1,98 +1,101 @@
-# 拼接世界 · Personally Puzzled XR
+# 拼接世界 · PICO Android Gradle 工程
 
-**挑选一个你喜爱的世界地标，将它亲手拼接成形。**
+**本仓库 main 当前只提供 1.0.0（versionCode 2）的 Android Gradle 交付工程。** 它由 Unity 6000.0.77f1 的 Export Project 实际导出，再完成可独立构建的整理。根目录直接包含 `gradlew`、`settings.gradle`、`launcher` 和 `unityLibrary`，不需要先打开 Unity。
 
-![拼接世界宣传海报](Docs/Media/puzzle-world-poster-v2.jpg)
+[下载完整标准 Unity 导出工程](https://github.com/IdolMenendez/VRPuzzle/releases/download/android-gradle-1.0.0-code2/PuzzleWorld-1.0.0-code2-Unity-Android-Gradle-Export.zip) · [当前可独立构建工程 ZIP](https://github.com/IdolMenendez/VRPuzzle/releases/download/android-gradle-1.0.0-code2/PuzzleWorld-1.0.0-code2-Portable-Gradle.zip) · [APK、校验值与交付记录](https://github.com/IdolMenendez/VRPuzzle/releases/tag/android-gradle-1.0.0-code2)
 
-*宣传美术；实际游戏画面见下方截图与演示视频。*
+## 应用信息
 
-在温暖的虚拟工坊里观察零件、调整方向、寻找连接，让散落的部件逐渐成为完整作品。项目面向 PICO VR，使用 Unity、URP 与 PICO OpenXR 开发。
-
-[下载 PICO 体验版 APK](https://github.com/IdolMenendez/VRPuzzle/releases/download/showcase-20261014/PersonallyPuzzledVR-PICO-OptimizedV82.apk) · [查看 / 下载演示视频](https://github.com/IdolMenendez/VRPuzzle/releases/download/showcase-20261014/puzzle-world-gameplay-v80.mp4) · [全部下载与校验信息](https://github.com/IdolMenendez/VRPuzzle/releases/tag/showcase-20261014)
-
-## 玩法
-
-- **选择作品**：小屋、古典帆船、埃菲尔铁塔、宝塔和荷兰风车，五个主题共 53 个拼装部件。
-- **观察与拼合**：拿起零件、旋转并对齐，在三维空间中逐步完成模型。
-- **按需提示**：通过工坊内的提示控件查看拼装指引。
-- **欣赏成果**：完成后查看组装出的作品。
-
-## 游戏截图
-
-以下来自当前 V82 场景的 Unity 运行画面，保留原始内容，按展示需要调整尺寸与编码。
-
-| 选择你的下一件作品 | 小屋拼装 |
-| --- | --- |
-| ![选关展示](Docs/Media/selection.jpg) | ![小屋拼装过程](Docs/Media/cottage.jpg) |
-| **古典帆船** | **荷兰风车** |
-| ![帆船零件](Docs/Media/ship.jpg) | ![风车零件](Docs/Media/windmill.jpg) |
-
-## 演示视频与安装包
-
-[![点击查看完整游戏演示](Docs/Media/video-cover.jpg)](https://github.com/IdolMenendez/VRPuzzle/releases/download/showcase-20261014/puzzle-world-gameplay-v80.mp4)
-
-**演示视频：约 4 分 30 秒。** 来自作者提供的 V80 作品演示，展示选关、抓取拼装与完成模型。上传版保留完整时长、音轨和原有画面标记，转为 720p H.264/AAC 以减小下载体积。它是历史版本的操作演示；上方截图与下方安装包对应 V82。
-
-视频与 APK 放在 [GitHub Releases](https://github.com/IdolMenendez/VRPuzzle/releases/tag/showcase-20261014)，不进入源码历史。点击视频封面即可打开或下载 MP4，播放行为取决于浏览器。
-
-| 文件 | 说明 |
-| --- | --- |
-| PICO APK | V82 资源优化体验版，230,554,388 字节（约 219.9 MiB），ARM64 |
-| 游戏演示 MP4 | V80 操作演示，完整时长，720p |
-| 宣传海报 JPG | 2560 × 1440，新版宣传美术 |
-| SHA256SUMS.txt | 下载文件完整性校验值 |
-
-安装包沿用已验证的构建产物，本次未重新编译。它使用开发测试签名，头显佩戴体验与持续性能验收仍待完成。
-
-## Android / PICO 自动打包
-
-审核反馈要求 Android Gradle 工程。本仓库 `main` 保留 Unity 源码；自动打包请使用 [codex/pico-android-gradle](https://github.com/IdolMenendez/VRPuzzle/tree/codex/pico-android-gradle) 分支，根目录直接执行 `./gradlew :launcher:assembleRelease`。服务器无需 Unity Editor，完整交付配置见 [Gradle 构建与签名说明](Docs/PICO_GRADLE_DELIVERY.md)。
-
-| 发布字段 | 当前配置 |
+| 项目 | 值 |
 | --- | --- |
 | 应用名称 | 拼接世界 |
-| Android 包名 | com.bytedance.personallypuzzled.xr（保留旧包名） |
-| 版本名称 / 版本号 | 1.0.0 / 2 |
-| 图标 | 定制拼图图标 |
-| 运行时 / 架构 | IL2CPP / ARM64 |
-| 签名 | Release 由平台或自有证书签名；测试包单独标注 |
+| Android 包名 / applicationId | `com.bytedance.personallypuzzled.xr`，保留旧包名 |
+| 版本名称 / versionName | `1.0.0` |
+| 版本号 / versionCode | `2`，旧 V82 为 `1` |
+| 支持设备 / 架构 | PICO Android VR / `arm64-v8a` |
+| 运行时 | Unity IL2CPP，未改成 Mono |
+| 最低 Android API | `29`（Android 10） |
+| 目标 / 编译 Android API | `35`（Android 15） |
+| 应用图标 | 已替换 Unity 默认图标，使用定制拼图图标 |
+| 入口 | `com.unity3d.player.UnityPlayerActivity` |
+| VR 配置 | PICO VR categories、OpenXR、手势追踪权限及配置 |
 
-上方历史 APK 是原 V82 体验版；本次 Gradle 交付的版本信息以此表及新交付记录为准。覆盖安装还需要保持签名一致。
+保留包名便于与旧版本保持应用身份一致；覆盖安装仍要求签名证书一致。APK 内已验证显示名称、包名、版本和 ARM64 架构。
 
-## 打开项目
+## 构建依赖：准确版本
 
-需要 **Unity 6000.0.77f1** 与 **Git LFS**。先安装 Git LFS，再克隆仓库：
+| 依赖 | 版本 / 要求 |
+| --- | --- |
+| JDK | **17**，配置 `JAVA_HOME` |
+| Gradle | **8.13**，仓库自带官方 Wrapper，含分发 SHA-256 校验 |
+| Android Gradle Plugin | **8.10.0** |
+| Android SDK Platform | **platforms;android-35** |
+| Android SDK Build Tools | **build-tools;36.0.0** |
+| Android NDK | **27.2.12479018（r27c）** |
+| SDK 路径 | 通过 `ANDROID_HOME` / `ANDROID_SDK_ROOT` 或自有 `local.properties` 设置 |
+| 网络仓库 | Google Maven、Maven Central、Gradle 官方分发服务 |
+| Unity Editor / 授权 | 当前 main 构建**不需要**；生成这些输入时使用 Unity **6000.0.77f1** |
+| CMake | 当前 main **不需要**；原始标准 Unity 导出工程需要 **3.22.1** |
+| Git LFS | 当前 main **不需要**，所有构建输入均为真实文件 |
+
+可用 Android SDK Manager 安装：
 
 ```bash
-git lfs install
-git clone https://github.com/IdolMenendez/VRPuzzle.git
-cd VRPuzzle
-git lfs pull
+sdkmanager "platforms;android-35" "build-tools;36.0.0" "ndk;27.2.12479018"
 ```
 
-在 Unity Hub 中添加克隆后的仓库根目录。模型、纹理、字体和原生库通过 LFS 存储，单独下载 GitHub 源码 ZIP 可能无法得到完整资源。
+请在构建环境完成 SDK 许可配置。源码不会覆盖服务器的 SDK / JDK / NDK 安装路径，也不包含开发者电脑的 `local.properties`。
 
-当前 GitHub 主分支为 `main`，导入自已交付的 `dev` 快照。Build Settings 启用十个 V82 场景，以 Bootstrap 为入口。Garden Cottage 与 Windmill 设计研究保留为独立场景；Coastal Atelier 新场景方案不在此交付快照中。
+## 构建 APK
 
-## 开发与验证
+```bash
+git clone --depth 1 --single-branch --branch main https://github.com/IdolMenendez/VRPuzzle.git
+cd VRPuzzle
+./gradlew :launcher:assembleRelease --no-daemon
+```
 
-| 内容 | 仓库入口 |
+Windows 对应命令为 `gradlew.bat :launcher:assembleRelease --no-daemon`。Android Studio 可直接导入仓库根目录。审核平台应拉取**当前 main 的提交**，而不是旧 Unity 源码提交 d408a7fc。
+
+| 构建 | 命令 | 默认输出 |
+| --- | --- | --- |
+| 发布包，交平台签名 | `./gradlew :launcher:assembleRelease` | `launcher/build/outputs/apk/release/launcher-release-unsigned.apk` |
+| 测试包，自动调试签名 | `./gradlew :launcher:assembleDebug` | `launcher/build/outputs/apk/debug/launcher-debug.apk` |
+
+## 发布签名
+
+Release 默认不签名，供平台采用其发布证书签名；**不会用调试签名冒充正式签名**。如要求工程自行签名，由构建环境同时注入：
+
+- `PICO_KEYSTORE_FILE`
+- `PICO_KEYSTORE_PASSWORD`
+- `PICO_KEY_ALIAS`
+- `PICO_KEY_PASSWORD`
+
+四项齐全时 Release 会输出签名 APK（`launcher-release.apk`）；只提供部分参数会立即报错。证书和密码不得提交到仓库。本次发布的 Debug 测试包证书与旧 V82 相同；其他机器自行生成的调试证书不保证相同，正式版本须使用固定的平台证书或自有证书。
+
+## Unity 导出与服务器适配
+
+标准 Unity 导出压缩包保留 `launcher`、`unityLibrary`、IL2CPP 源码和编译器、CMake 配置及原始 Gradle 模板。它是编辑器实际导出的工程，需在接收环境设置 SDK/NDK 路径；本次导出的 IL2CPP 编译器来自 macOS。原始 Unity Release 模板使用调试签名，发布前应由平台接管签名。
+
+main 使用同一次导出的场景和资源，并提前编译其 IL2CPP 与原生库；移除与本机系统相关的编译器、CMake 构建步骤和绝对路径。平台仍正常编译 Android Java 启动层、合并清单和资源、组装 APK 并签名。游戏运行时、模型、纹理和玩法没有因此更换。所有 542 个 APK 资源/原生库文件与原始 Gradle 导出构建的 APK 一致。
+
+[输入来源与原生库哈希](DELIVERY.json) · [APK 验证结果](APK_VALIDATION.json)。Unity 源码保存在[历史提交 7c15c62](https://github.com/IdolMenendez/VRPuzzle/tree/7c15c62afab2ab44fbbfe0d07f9775a38770e8f7)；修改玩法后应在 Unity 中重新导出，不能混用不同版本的 `libil2cpp.so` 和 `global-metadata.dat`。
+
+## 验证状态
+
+- 本机不调用 Unity 的干净 Gradle 构建通过：Release + Debug，183 项任务，25 秒。
+- Release APK：230,592,260 字节，未签名；Debug APK：237,203,714 字节，测试签名。
+- APK ZIP 完整性、包名/版本/名称/ARM64、手势/OpenXR 权限、图标、542 个资源/原生库一致性通过。
+- 20 张后台 Unity 截图与 V82 基线对比，最大平均 RGB 通道差异 0.006143 / 255，画面保持一致。
+- PICO 服务端重新构建、正式签名及审核尚待平台验证；本次没有代为提交审核。
+
+## 游戏画面
+
+挑选喜爱的作品，拿起零件、旋转并拼合，在虚拟工坊中完成小屋、古典帆船、埃菲尔铁塔、宝塔和荷兰风车，五个主题共 53 个部件。
+
+| 选关 | 风车拼装 |
 | --- | --- |
-| 当前运行场景 | [V82 场景目录](Assets/Scenes/RuntimeV82_ResourceOptimization) |
-| Unity 编辑器工具 | [LatestProjectTools.cs](Assets/Editor/LatestProjectTools.cs) |
-| Android 工具链配置 | [CurrentAndroidToolchain.cs](Assets/Editor/CurrentAndroidToolchain.cs) |
-| 包依赖 | [manifest.json](Packages/manifest.json) |
-| 最近工作记录 | [CONTINUATION_STATE.md](Docs/CONTINUATION_STATE.md) |
-| 验证记录索引 | [STAGE_VALIDATION_INDEX.md](Docs/STAGE_VALIDATION_INDEX.md) |
-| GitHub 迁移校验 | [迁移验证记录](Artifacts/Checkpoints/183_GitHubDevMigration_20261014/VALIDATION.md) |
-| 宣传素材说明 | [媒体来源与版本](Docs/Media/PROVENANCE.md) |
+| ![选关](Docs/Media/selection.jpg) | ![风车拼装](Docs/Media/windmill.jpg) |
 
-编辑器入口包括 `LatestProjectTools.Validate`、`LatestProjectTools.CaptureFinal`、`LatestProjectTools.RunInteractionSmoke` 、`LatestProjectTools.BuildPico` 和 `LatestProjectTools.ExportPicoGradle`。无人值守任务使用后台批处理；截图需要图形环境，交互测试由运行器自行退出。
+[查看 46 秒实操预告片](https://github.com/IdolMenendez/VRPuzzle/releases/download/showcase-20261014/puzzle-world-trailer-v1-1080p.mp4)。视频为 V80 历史实操剪辑；截图来自本版本沿用的 V82 场景。
 
-Android 构建使用外部 SDK、JDK 17 和 NDK 27.2.12479018。工具链由上表的统一配置文件校验，目前保留原构建工作站的配置约束；在其他机器上构建前需适配该统一配置。Unity 缓存、构建目录和凭据不进入仓库。
-
-## 项目信息
-
-作品中文名：**拼接世界**；英文工程名：**Personally Puzzled XR**。创作工具：**Trae / Claude**。
-
-项目沿用仓库的 [LICENSE](LICENSE)。第三方 SDK、模型与素材的许可请查看各自随附文件；仓库许可证不替代这些许可。
+项目许可见 [LICENSE](LICENSE)；第三方 Unity/PICO/Android 运行库仍适用各自许可。

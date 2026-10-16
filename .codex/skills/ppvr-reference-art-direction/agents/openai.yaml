@@ -1,4 +1,0 @@
-interface:
-  display_name: "PPVR Reference Art Direction"
-  short_description: "Translate reference images into immersive Unity staging"
-  default_prompt: "Use $ppvr-reference-art-direction to rebuild this Unity composition from the supplied reference image."

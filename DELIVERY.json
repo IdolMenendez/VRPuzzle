@@ -1,0 +1,30 @@
+{
+  "unity_version": "6000.0.77f1",
+  "runtime": "IL2CPP",
+  "abi": "arm64-v8a",
+  "raw_export_apk_sha256": "1ecb3f24af59ff5921caa9d41a5da60fee7ddcf497baf05366bd94fc38dba91f",
+  "native_libraries": {
+    "libPicoAmbisonicDecoder.so": "6d52d4ddd2422a4fb4cf1b76bcd6edaf087a9606dabc7c14e95fb1d99512cbd4",
+    "libPicoAudioRouter.so": "639d5a2f851760896f4638ef0c8e0b3e05e6c01552148deebedb92c00fe09673",
+    "libPicoAudioSDKUnityNativePlugin.so": "e5d04e7a51d2248c0ba54d4bb4b8c11230c139ab56c4f037cd8181a07fef5167",
+    "libPicoSpatializer.so": "42638d805e7655d401bf64d511b7c8a90f8b1a321c0c2eb07a97353d82a12182",
+    "libUnityOpenXR.so": "1909879d81b2f5e7039ac849594417c4526f50bfc9f4f303b58f5455d7935b02",
+    "libUnityOpenXRHands.so": "10e2cb7b955e1ed3f976372fb94f5ec152e9168dfaa73b72431bfa79d7f4b03b",
+    "lib_burst_generated.so": "e15c5472d1b09572acde436949b300d385ce2fbd947b848b494e7ae64f004ba3",
+    "libc++_shared.so": "4397241b4bd20a8e579bfb41d21107857e12985f6a01ca0c2a5f83380d1270b4",
+    "libil2cpp.so": "e5359bf09d39c32dc314391e52a916da0bedbc138b7d01888d7afbb505c5a41e",
+    "libmain.so": "952e8a0e98ae13dab4bfe18a7f33d61ad339c59eed6402fb223d5bbc4723bf43",
+    "libswappywrapper.so": "a00d3457164fd33e0139f55392400c1d72479f4103a7b4aa5517b3da4c68b267",
+    "libunity.so": "878df9681f2c525bb9cba7a6bd243aef31ee95dc78c4d7360882019c18a646a2"
+  },
+  "precompiled_native_runtime": true,
+  "requires_unity_on_build_server": false,
+  "source_repository": "https://github.com/IdolMenendez/VRPuzzle",
+  "source_commit": "7c15c62afab2ab44fbbfe0d07f9775a38770e8f7",
+  "application_id": "com.bytedance.personallypuzzled.xr",
+  "application_label": "拼接世界",
+  "version_name": "1.0.0",
+  "version_code": 2,
+  "minimum_api": 29,
+  "target_api": 35
+}

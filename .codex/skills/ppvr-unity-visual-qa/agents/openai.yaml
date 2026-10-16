@@ -1,4 +1,0 @@
-interface:
-  display_name: "PPVR Unity Visual QA"
-  short_description: "Render, inspect, iterate, and validate Unity scene jobs"
-  default_prompt: "Use $ppvr-unity-visual-qa to render and validate the current PPVR scene job."

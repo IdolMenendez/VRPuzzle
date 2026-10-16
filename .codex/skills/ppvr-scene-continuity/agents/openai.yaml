@@ -1,4 +1,0 @@
-interface:
-  display_name: "PPVR Scene Continuity"
-  short_description: "Version Unity scenes safely with rollback checkpoints"
-  default_prompt: "Use $ppvr-scene-continuity to create the next rollback-safe Unity scene version."
